@@ -213,5 +213,11 @@ https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 https://ipcloud.live/leotv/leotvhd/index.m3u8
 #EXTINF:-1 tvg-id="NilaTV" tvg-group="Coimbatore",Nila TV
 https://ipcloud.live/nilatv/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="NilaTVNellai" tvg-group="Nellai",Nila TV Nellai
+#EXTINF:-1 tvg-id="NilaTVNellai" tvg-group="Tirunelveli",Nila TV Nellai
 https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
+#EXTINF:-1 tvg-id="STV" tvg-group="Nagercoil, Kanyakumari Dist.",S TV
+https://play.applelive.in/stv/stv.m3u8
+#EXTINF:-1 tvg-id="BossTelevision" tvg-group="Kanyakumari",Boss Television
+https://play.applelive.in/vasantv/vasantv.m3u8
+#EXTINF:-1 tvg-id="DarkTelevision" tvg-group="Kanyakumari",Dark Television
+https://play.applelive.in/darktv/darktv.m3u8
