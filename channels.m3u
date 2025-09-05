@@ -116,9 +116,9 @@ https://notvstream.in/kingtv/kingtv.m3u8
 #EXTINF:-1 tvg-id="SmileyTV" group-title="Tirunelveli",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 #EXTINF:-1 tvg-id="VisilTV" group-title="Virudhunagar",Visil TV
-https://stream.sscloud7/live/vishiltv1/index.m3u8
+https://stream.sscloud7.in/live/vishiltv1/index.m3u8
 #EXTINF:-1 tvg-id="VisilMax" group-title="Virudhunagar",Visil Max
-https://stream.sscloud7/live/vishiltv2/index.m3u8
+https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" group-title="Tenkasi",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" group-title="Chennai",Akash TV
