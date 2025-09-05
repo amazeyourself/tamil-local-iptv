@@ -73,7 +73,7 @@ https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="JCV" group-title="Nagercoil, Kanyakumari",JCV
 https://play.applelive.in/jcvtv/jcvtv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" group-title="Nagercoil, Kanyakumari",JCV Musix
+#EXTINF:-1 tvg-id="JCVMusix" group-title="Nagercoil, Kanyakumari",JCV Musix
 https://play.applelive.in/jcvtv/jcvmusix.m3u8
 #EXTINF:-1 tvg-id="HaiTV" group-title="Marthandam, Kanyakumari Dist.",Hai TV
 https://play.applelive.in/haitv/haitv.m3u8
@@ -88,7 +88,7 @@ https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
 #EXTINF:-1 tvg-id="KumaranTV" group-title="Unknown",Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTV" group-title="Unknown",Thendral TV
-https://live.thendralcloud/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="EagleTV" group-title="Namakkal",Eagle TV
 https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTINF:-1 tvg-id="AshokaTV" group-title="Unknown",Ashoka TV
