@@ -211,3 +211,7 @@ https://notvstream.in/orangetv/orangetv.m3u8
 https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 #EXTINF:-1 tvg-id="LeoTV" tvg-group="Kadainallur, Tenkasi Dist.",Leo TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
+#EXTINF:-1 tvg-id="NilaTV" tvg-group="Coimbatore",Nila TV
+https://ipcloud.live/nilatv/nilatv/index.m3u8
+#EXTINF:-1 tvg-id="NilaTVNellai" tvg-group="Nellai",Nila TV Nellai
+https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
