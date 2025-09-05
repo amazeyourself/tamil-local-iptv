@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShaTV.in" group-title="Thuckalay, Kanyakumari Dist.",Sha TV
+https://play.applelive.in/shatv/shatv.m3u8
+#EXTINF:-1 tvg-id="SanaTV.in" group-title="State-wide",Sana TV
+https://galaxyott.live/hls/sanatv.m3u8
+#EXTINF:-1 tvg-id="SanaTV.in" group-title="State-wide",Sana TV (MPD)
+https://cable75tataplay.akamaized.net/dash/sanatv.mpd
+#EXTINF:-1 tvg-id="SanaPlus.in" group-title="State-wide",Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id="STSTamilTV.in" group-title="State-wide",STS Tamil TV
+https://stream.vstartv.org/p/3031/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AkamTV.in" group-title="State-wide",Akam TV
+https://stream.vstartv.org/p/3674/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TamilMTV.in" group-title="State-wide",Tamil MTV
+https://stream.vstartv.org/p/3900/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="UTVTrichy.in" group-title="Trichy",U TV HD
+https://stream.galaxyott.live/live/utv/index.m3u8
+#EXTINF:-1 tvg-id="UTVTrichy.in" group-title="Trichy",U TV HD (MPD)
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
+#EXTINF:-1 tvg-id="SuryaTVTamil.in"	group-title="Tiruvannamalai",Surya TV
+https://galaxyott.live/hls/suryatv.m3u8
+#EXTINF:-1 tvg-id="YETTV.in" group-title="State-wide",YET TV
+https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+#EXTINF:-1 tvg-id="AnandhamTV.in" group-title="State-wide",Anandham TV
+https://stream.galaxyott.live/live/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-id="AnandhamTV.in" group-title="State-wide",Anandham TV (MPD)
+https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
+#EXTINF:-1 tvg-id="NTVTamil.in" group-title="Pattukkottai",N TV HD
+https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NTVTamil.in" group-title="Pattukkottai",N TV HD (MPD)
+https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
+#EXTINF:-1 tvg-id="MarutamTV.in" group-title="Dharmapuri",MN TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id="MarutamMusic.in" group-title="Dharmapuri",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="TharunMovies.in" group-title="Koovathur, Kanchipuram Dist.",Tharun Movies HD [Not 24/7]
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 tvg-id="ACPTVMadurai.in" group-title="Madurai",ACP TV Madurai
+https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
+#EXTINF:-1 tvg-id="VaanamTV.in" group-title="State-wide",Vaanam TV
+https://stream.vstartv.org:3511/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SachinTV.in" group-title="Sambavarvadakarai",Sachin TV
+https://ipcloud.live/sachintv/sachintvhd/index.m3u8
+#EXTINF:-1 tvg-id="SachinMusic.in" group-title="Sambavarvadakarai",Sachin Music [Not 24/7]
+https://ipcloud.live/sachintv/musichd/index.m3u8
+#EXTINF:-1 tvg-id="DhoniTV.in" group-title="Sambavarvadakarai",Dhoni TV
+https://ipcloud.live/sachintv/dhonitv/index.m3u8
+#EXTINF:-1 tvg-id="AadvikTV.in" group-title="Sambavarvadakarai",Aadvik TV
+https://ipcloud.live/sachintv/aadviktv/index.m3u8
+#EXTINF:-1 tvg-id="Queens143.in" group-title="Namakkal",Queens 143
+https://notvstream.in/queens/queens.m3u8
+#EXTINF:-1 tvg-id="ThulirTV.in",Thulir TV
+https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
+#EXTINF:-1 tvg-id="ChakraTV.in",Chakra TV
+https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTVMadurai.in",Thendral TV Madurai [Not 24/7]
+https://ipcloud.live/thendralmdu/madurai/index.m3u8
+#EXTINF:-1 tvg-id="NammaGobiTV.in" group-title="Unknown",Namma Gobi TV
+https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
+#EXTINF:-1 tvg-id="JeyamTVMadurai.in" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
+https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
+#EXTINF:-1 tvg-id="RJTamil.in",RJ Tamil [Not 24/7]
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 tvg-id="AadhavanTV.in" group-title="Sholavandan, Madurai Dist.",Aadhavan TV
+https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
+#EXTINF:-1 tvg-id="7Green.in" group-title="Koovathur, Kanchipuram Dist.",7 Green
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+#EXTINF:-1 tvg-id="JayamTV.in" group-title="Alangulam, Tenkasi Dist.",Jayam TV
+https://app.ashokadigital.net/app/db285ebc/index.m3u8
+#EXTINF:-1 tvg-id="MTelevision.in" group-title="Kodaikanal",M Television [Not 24/7]
+https://ipcloud.live/mtv/menhd/index.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in" group-title="Unknown",Jeevan TV
+https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
+#EXTINF:-1 tvg-id="VeeraliTV.in" group-title="Unknown",Veerali TV
+https://ipcloud.live/veerali/veeralitv/index.m3u8
+#EXTINF:-1 tvg-id="KingTV.in" group-title="Coimbatore",King TV
+https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
+#EXTINF:-1 tvg-id="3StarTV.in" group-title="Chennai",3 Star TV
+https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
+#EXTINF:-1 tvg-id="ShaliniTV.in" group-title="Tiruvannamalai",Shalini TV
+https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="JCV.in" group-title="Nagercoil, Kanyakumari",JCV
+https://play.applelive.in/jcvtv/jcvtv.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV.in" group-title="Nagercoil, Kanyakumari",JCV Musix
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
+#EXTINF:-1 tvg-id="HaiTV.in" group-title="Marthandam, Kanyakumari Dist.",Hai TV
+https://play.applelive.in/haitv/haitv.m3u8
+#EXTINF:-1 tvg-id="JJNewsTamil.in" group-title="State-wide",JJ News Tamil
+https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
+#EXTINF:-1 tvg-id="ChannelSpice.in" group-title="Unknown",Channel Spice [Not 24/7]
+https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
+#EXTINF:-1 tvg-id="AnandamTV.in" group-title="Tenkasi",Anandam TV
+https://live1.sscloud7.com/live/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-id="UrchagamTV.in" group-title="Unknown",Urchagam TV
+https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
+#EXTINF:-1 tvg-id="KumaranTV.in" group-title="Unknown",Kumaran TV
+https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTV.in" group-title="Unknown",Thendral TV
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="EagleTV.in" group-title="Namakkal",Eagle TV
+https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
+#EXTINF:-1 tvg-id="AshokaTV.in" group-title="Unknown",Ashoka TV
+https://app.ashokadigital.net/app/12f5e922/index.m3u8
+#EXTINF:-1 tvg-id="MathiTV.in" group-title="Namakkal",Mathi TV
+https://notvstream.in/mathitv/mathitv.m3u8
+#EXTINF:-1 tvg-id="RainbowTV.in" group-title="Erode",Rainbow TV
+https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
+#EXTINF:-1 tvg-id="SaiTVMadurai.in" group-title="Madurai",Sai TV
+https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
+#EXTINF:-1 tvg-id="AnbuTV.in" group-title="Sivakasi",Anbu TV [Not 24/7]
+https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+#EXTINF:-1 tvg-id="AppleTVPondicherry.in" group-title="Pondicherry",Apple TV 4K Pondicherry
+https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
+#EXTINF:-1 tvg-id="PunithanTV.in" group-title="Unknown",Punithan TV
+https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
+#EXTINF:-1 tvg-id="NellaiTV.in" group-title="Tirunelveli",Nellai TV
+https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
+#EXTINF:-1 tvg-id="ParamsTV.in" group-title="Salem",Params TV
+https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+#EXTINF:-1 tvg-id="KarthickTV.in" group-title="Tirunelveli",Karthick TV
+https://ipcloud.live/karthick/karthicktvhd/index.m3u8
+#EXTINF:-1 tvg-id="King24x7.in" group-title="Unknown",King 24x7
+https://notvstream.in/kingtv/kingtv.m3u8
+#EXTINF:-1 tvg-id="SmileyTV.in" group-title="Tirunelveli",Smiley TV
+https://live1.sscloud7.com/live/smileytv/index.m3u8
+#EXTINF:-1 tvg-id="VisilTV.in" group-title="Virudhunagar",Visil TV
+https://stream.sscloud7.in/live/vishiltv1/index.m3u8
+#EXTINF:-1 tvg-id="VisilMax.in" group-title="Virudhunagar",Visil Max
+https://stream.sscloud7.in/live/vishiltv2/index.m3u8
+#EXTINF:-1 tvg-id="DuraiTV.in" group-title="Tenkasi",Durai TV
+https://ipcloud.live/duraitv/live/index.m3u8
+#EXTINF:-1 tvg-id="AkashTV.in" group-title="Chennai",Akash TV
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
+#EXTINF:-1 tvg-id="DharshanTV.in" group-title="Unknown",Dharshan TV
+https://galaxyott.live/hls/dharshantv.m3u8
+#EXTINF:-1 tvg-id="RioTV.in" group-title="Alangulam",Rio TV
+https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
+#EXTINF:-1 tvg-id="RojaMovies.in" group-title="Coimbatore",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="AsokaTV.in" group-title="Mettupalayam",Asoka TV
+https://ipcloud.live/asokatv/asokahd/index.m3u8
+#EXTINF:-1 tvg-id="MSNTV.in" group-title="Unknown",MSN TV
+https://ipcloud.live/msntv/msntv/index.m3u8
+#EXTINF:-1 tvg-id="SaamiTV.in" group-title="Unknown",Saami TV
+https://ipcloud.live/msntv/saamitv/index.m3u8
+#EXTINF:-1 tvg-id="TamilTV.in" group-title="Ramanathapuram",Tamil TV
+https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
+#EXTINF:-1 tvg-id="AadvikTV.in" group-title="Sambavarvadakarai",Harin TV
+https://ipcloud.live/harintv/harintvhd/index.m3u8
+#EXTINF:-1 tvg-id="SKTV.in" group-title="Trichy",SK TV
+https://stream.galaxyott.live/live/sktv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTV.in" group-title="Unknown",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV.in" group-title="Unknown",Suriyan TV
+https://stream.galaxyott.live/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="No1TV.in" group-title="Unknown",No 1 TV
+https://live.skystream.in/live/no1tv/index.m3u8
+#EXTINF:-1 tvg-id="MullaiTV.in" group-title="Coimbatore",Mullai TV
+https://ipcloud.live/mullaitv/mullaitv/index.m3u8
+#EXTINF:-1 tvg-id="AppleTV.in" group-title="Nagercoil, Kanyakumari",Apple TV
+https://play.applelive.in/appletv/appletv.m3u8
+#EXTINF:-1 tvg-id="PRTV.in" group-title="Unknown",PR TV
+https://play.applelive.in/prtv/prtv.m3u8
+#EXTINF:-1 tvg-id="ThalapathyTV.in" group-title="Unknown",Thalapathy TV
+https://play.applelive.in/thalapathytv/thalapathytv.m3u8
+#EXTINF:-1 tvg-id="JeysonTV.in" group-title="Nagercoil, Kanyakumari",Jeyson TV
+https://play.applelive.in/jeysontv/jeysontv.m3u8
+#EXTINF:-1 tvg-id="KumariKathirTV.in" group-title="Nagercoil, Kanyakumari",Kumari Kathir TV
+https://play.applelive.in/jjmax/jjmax.m3u8
+#EXTINF:-1 tvg-id="SelfieTV.in" group-title="Kanyakumari",Selfie TV
+https://play.applelive.in/selfeetv/selfeetv.m3u8
+#EXTINF:-1 tvg-id="JCTV.in" group-title="Kanyakumari",JC TV
+https://play.applelive.in/jctv/jctv.m3u8
+#EXTINF:-1 tvg-id="DigitalTV.in" group-title="Kanyakumari",Digital TV
+https://play.applelive.in/digitaltv/digitaltv.m3u8
+#EXTINF:-1 tvg-id="SuryanTV.in" group-title="Kanyakumari",Suryan TV
+https://play.applelive.in/suryantv/suryantv.m3u8
+#EXTINF:-1 tvg-id="EnthiranTV.in" group-title="Kanyakumari",Enthiran TV
+https://play.applelive.in/enthirantv/enthirantv.m3u8
+#EXTINF:-1 tvg-id="VeeraTV.in" group-title="Unknown",Veera TV
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+#EXTINF:-1 tvg-id="EagleTV.in" group-title="Unknown",Eagle TV
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+#EXTINF:-1 tvg-id="SubashTV.in" group-title="Tenkasi",Subash TV
+https://ipcloud.live/subashtv/subashhd/index.m3u8
+#EXTINF:-1 tvg-id="YogaaTV.in" group-title="Unknown",Yogaa TV
+https://ipcloud.live/yogaatv/yogaatv/index.m3u8
+#EXTINF:-1 tvg-id="RiyaTV.in" tvg-group="Kanyakumari",Riya TV
+https://play.applelive.in/riyatv/riyatv.m3u8
+#EXTINF:-1 tvg-id="MalarTV.in" tvg-group="Unknown",Malar TV
+https://sscloud7.com/live/malartv/index.m3u8
+#EXTINF:-1 tvg-id="SaharaTV.in" tvg-group="Unknown",Sahara TV
+https://ipcloud.live/saharatv/saharatv/index.m3u8
+#EXTINF:-1 tvg-id="NTVTrichy.in" tvg-group="Trichy",NTV Trichy
+https://notvstream.in/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="ArunaiTV	.in" tvg-group="Tiruvannamalai",Arunai TV
+https://notvstream.in/arunaitv/arunaitv.m3u8
+#EXTINF:-1 tvg-id="RRTV.in" tvg-group="Unknown",RR TV
+https://notvstream.in/rrtv/rrtv.m3u8
+#EXTINF:-1 tvg-id="MMTV.in" tvg-group="Unknown",MM TV
+https://notvstream.in/mmtv/mmtv.m3u8
