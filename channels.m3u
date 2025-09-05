@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ShaTV" group-title="Thuckalay, Kanyakumari Dist.",Sha TV
-https://play.applelive/shatv/shatv.m3u8
+https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-id="SanaTV" group-title="State-wide",Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" group-title="State-wide",Sana Plus
@@ -22,11 +22,11 @@ https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="NTVTamil" group-title="Pattukkottai",N TV HD
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="MarutamTV" group-title="Dharmapuri",MN TV
-https://mntv.livebox.co/mntvhls/live.m3u8
+https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MarutamMusic" group-title="Dharmapuri",MN Music
-https://mntv.livebox.co/musichls/live.m3u8
+https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="TharunMovies" group-title="Koovathur, Kanchipuram Dist.",Tharun Movies HD [Not 24/7]
-https://streaming.livebox.co/tharunmovieshls/live.m3u8
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id="ACPTVMadurai" group-title="Madurai",ACP TV Madurai
 https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
 #EXTINF:-1 tvg-id="VaanamTV" group-title="State-wide",Vaanam TV
@@ -39,48 +39,48 @@ https://ipcloud.live/sachintv/musichd/index.m3u8
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="AadvikTV" group-title="Sambavarvadakarai",Aadvik TV
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
-#EXTINF:-1 tvg-id="Queens143" group-title="Namakkal",Queens 143
-https://notvstream/queens/queens.m3u8
+#EXTINF:-1 tvg-id="Queens143" group-title="Namakkal" http-referrer="https://onezoo.net",Queens 143
+https://notvstream.in/queens/queens.m3u8
 #EXTINF:-1 tvg-id="ThulirTV",Thulir TV
-https://view.apserver/tmp_hls9/thulirtv/index.m3u8
+https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 #EXTINF:-1 tvg-id="ChakraTV",Chakra TV
-https://stream.onecloudlive/chakratv/chekratvtju/index.m3u8
+https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai",Thendral TV Madurai [Not 24/7]
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
 #EXTINF:-1 tvg-id="NammaGobiTV" group-title="Unknown",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="JeyamTVMadurai" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
-https://stream.onecloudlive/jeyam/jeyammdu/index.m3u8
+https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
 #EXTINF:-1 tvg-id="RJTamil",RJ Tamil [Not 24/7]
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTV" group-title="Sholavandan, Madurai Dist.",Aadhavan TV
 https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
 #EXTINF:-1 tvg-id="7Green" group-title="Koovathur, Kanchipuram Dist.",7 Green
-https://account33.livebox.co/7GREEN4Khls/live.m3u8
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1 tvg-id="JayamTV" group-title="Alangulam, Tenkasi Dist.",Jayam TV
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
 #EXTINF:-1 tvg-id="MTelevision" group-title="Kodaikanal",M Television [Not 24/7]
 https://ipcloud.live/mtv/menhd/index.m3u8
 #EXTINF:-1 tvg-id="JeevanTV" group-title="Unknown",Jeevan TV
-https://stream.singamcloud/Jeevantv/Jeevantv/index.m3u8
+https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
 #EXTINF:-1 tvg-id="VeeraliTV" group-title="Unknown",Veerali TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1 tvg-id="KingTV" group-title="Coimbatore",King TV
 https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
 #EXTINF:-1 tvg-id="3StarTV" group-title="Chennai",3 Star TV
-https://stream.onecloudlive/threestartv/threestarhd/index.m3u8
+https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
 #EXTINF:-1 tvg-id="ShaliniTV" group-title="Tiruvannamalai",Shalini TV
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="JCV" group-title="Nagercoil, Kanyakumari",JCV
-https://play.applelive/jcvtv/jcvtv.m3u8
+https://play.applelive.in/jcvtv/jcvtv.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" group-title="Nagercoil, Kanyakumari",JCV Musix
-https://play.applelive/jcvtv/jcvmusix.m3u8
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
 #EXTINF:-1 tvg-id="HaiTV" group-title="Marthandam, Kanyakumari Dist.",Hai TV
-https://play.applelive/haitv/haitv.m3u8
+https://play.applelive.in/haitv/haitv.m3u8
 #EXTINF:-1 tvg-id="JJNewsTamil" group-title="State-wide",JJ News Tamil
-https://live.skystream/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
+https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
 #EXTINF:-1 tvg-id="ChannelSpice" group-title="Unknown",Channel Spice [Not 24/7]
-https://stream.onecloudlive/spicetv/spicetv/index.m3u8
+https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
 #EXTINF:-1 tvg-id="AnandamTV" group-title="Tenkasi",Anandam TV
 https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="UrchagamTV" group-title="Unknown",Urchagam TV
@@ -94,25 +94,25 @@ https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTINF:-1 tvg-id="AshokaTV" group-title="Unknown",Ashoka TV
 https://app.ashokadigital.net/app/12f5e922/index.m3u8
 #EXTINF:-1 tvg-id="MathiTV" group-title="Namakkal",Mathi TV
-https://notvstream/mathitv/mathitv.m3u8
+https://notvstream.in/mathitv/mathitv.m3u8
 #EXTINF:-1 tvg-id="RainbowTV" group-title="Erode",Rainbow TV
-https://live.skystream/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
+https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
 #EXTINF:-1 tvg-id="SaiTVMadurai" group-title="Madurai",Sai TV
-https://stream.onecloudlive/saitvmdu/saitvmdu/index.m3u8
+https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
 #EXTINF:-1 tvg-id="AnbuTV" group-title="Sivakasi",Anbu TV [Not 24/7]
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVPondicherry" group-title="Pondicherry",Apple TV 4K Pondicherry
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
 #EXTINF:-1 tvg-id="PunithanTV" group-title="Unknown",Punithan TV
-https://stream.singamcloud/punithantv/punithantv/index.m3u8
+https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-id="NellaiTV" group-title="Tirunelveli",Nellai TV
-https://stream.onecloudlive/nellaitv/nellaitv/index.m3u8
+https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
 #EXTINF:-1 tvg-id="ParamsTV" group-title="Salem",Params TV
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 #EXTINF:-1 tvg-id="KarthickTV" group-title="Tirunelveli",Karthick TV
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
 #EXTINF:-1 tvg-id="King24x7" group-title="Unknown",King 24x7
-https://notvstream/kingtv/kingtv.m3u8
+https://notvstream.in/kingtv/kingtv.m3u8
 #EXTINF:-1 tvg-id="SmileyTV" group-title="Tirunelveli",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 #EXTINF:-1 tvg-id="VisilTV" group-title="Virudhunagar",Visil TV
@@ -122,11 +122,11 @@ https://stream.sscloud7/live/vishiltv2/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" group-title="Tenkasi",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" group-title="Chennai",Akash TV
-https://account2.livebox.co/AkashTvhls/live.m3u8
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 tvg-id="DharshanTV" group-title="Unknown",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="RioTV" group-title="Alangulam",Rio TV
-https://stream.onecloudlive/riotv/riotvhd/index.m3u8
+https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="AsokaTV" group-title="Mettupalayam",Asoka TV
@@ -136,7 +136,7 @@ https://ipcloud.live/msntv/msntv/index.m3u8
 #EXTINF:-1 tvg-id="SaamiTV" group-title="Unknown",Saami TV
 https://ipcloud.live/msntv/saamitv/index.m3u8
 #EXTINF:-1 tvg-id="TamilTV" group-title="Ramanathapuram",Tamil TV
-https://stream.onecloudlive/tamiltv/tamiltvhd/index.m3u8
+https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
 #EXTINF:-1 tvg-id="AadvikTV" group-title="Sambavarvadakarai",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
@@ -146,29 +146,29 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" group-title="Unknown",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
-https://live.skystream/live/no1tv/index.m3u8
+https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-id="MullaiTV" group-title="Coimbatore",Mullai TV
 https://ipcloud.live/mullaitv/mullaitv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTV" group-title="Nagercoil, Kanyakumari",Apple TV
-https://play.applelive/appletv/appletv.m3u8
+https://play.applelive.in/appletv/appletv.m3u8
 #EXTINF:-1 tvg-id="PRTV" group-title="Unknown",PR TV
-https://play.applelive/prtv/prtv.m3u8
+https://play.applelive.in/prtv/prtv.m3u8
 #EXTINF:-1 tvg-id="ThalapathyTV" group-title="Unknown",Thalapathy TV
-https://play.applelive/thalapathytv/thalapathytv.m3u8
+https://play.applelive.in/thalapathytv/thalapathytv.m3u8
 #EXTINF:-1 tvg-id="JeysonTV" group-title="Nagercoil, Kanyakumari",Jeyson TV
-https://play.applelive/jeysontv/jeysontv.m3u8
+https://play.applelive.in/jeysontv/jeysontv.m3u8
 #EXTINF:-1 tvg-id="KumariKathirTV" group-title="Nagercoil, Kanyakumari",Kumari Kathir TV
-https://play.applelive/jjmax/jjmax.m3u8
+https://play.applelive.in/jjmax/jjmax.m3u8
 #EXTINF:-1 tvg-id="SelfieTV" group-title="Kanyakumari",Selfie TV
-https://play.applelive/selfeetv/selfeetv.m3u8
+https://play.applelive.in/selfeetv/selfeetv.m3u8
 #EXTINF:-1 tvg-id="JCTV" group-title="Kanyakumari",JC TV
-https://play.applelive/jctv/jctv.m3u8
+https://play.applelive.in/jctv/jctv.m3u8
 #EXTINF:-1 tvg-id="DigitalTV" group-title="Kanyakumari",Digital TV
-https://play.applelive/digitaltv/digitaltv.m3u8
+https://play.applelive.in/digitaltv/digitaltv.m3u8
 #EXTINF:-1 tvg-id="SuryanTV" group-title="Kanyakumari",Suryan TV
-https://play.applelive/suryantv/suryantv.m3u8
+https://play.applelive.in/suryantv/suryantv.m3u8
 #EXTINF:-1 tvg-id="EnthiranTV" group-title="Kanyakumari",Enthiran TV
-https://play.applelive/enthirantv/enthirantv.m3u8
+https://play.applelive.in/enthirantv/enthirantv.m3u8
 #EXTINF:-1 tvg-id="VeeraTV" group-title="Unknown",Veera TV
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 #EXTINF:-1 tvg-id="EagleTV" group-title="Unknown",Eagle TV
@@ -178,32 +178,32 @@ https://ipcloud.live/subashtv/subashhd/index.m3u8
 #EXTINF:-1 tvg-id="YogaaTV" group-title="Unknown",Yogaa TV
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
 #EXTINF:-1 tvg-id="RiyaTV" tvg-group="Kanyakumari",Riya TV
-https://play.applelive/riyatv/riyatv.m3u8
+https://play.applelive.in/riyatv/riyatv.m3u8
 #EXTINF:-1 tvg-id="MalarTV" tvg-group="Unknown",Malar TV
 https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="SaharaTV" tvg-group="Unknown",Sahara TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
-#EXTINF:-1 tvg-id="NTVTrichy" tvg-group="Trichy",NTV Trichy
-https://notvstream/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="ArunaiTV	" tvg-group="Tiruvannamalai",Arunai TV
-https://notvstream/arunaitv/arunaitv.m3u8
-#EXTINF:-1 tvg-id="RRTV" tvg-group="Unknown",RR TV
-https://notvstream/rrtv/rrtv.m3u8
-#EXTINF:-1 tvg-id="MMTV" tvg-group="Unknown",MM TV
-https://notvstream/mmtv/mmtv.m3u8
-#EXTINF:-1 tvg-id="SSTV" tvg-group="Unknown",SS TV
-https://notvstream/sstv/sstv.m3u8
-#EXTINF:-1 tvg-id="UTVMayuram" tvg-group="Unknown",UTV Mayuram
-https://notvstream/utv/utv.m3u8
-#EXTINF:-1 tvg-id="ThirumalaiTV" tvg-group="Unknown",Thirumalai TV
-https://notvstream/thirumalaitv/thirumalaitv.m3u8
-#EXTINF:-1 tvg-id="SubiTV" tvg-group="Unknown",Subi TV
-https://notvstream/subitv/subitv.m3u8
-#EXTINF:-1 tvg-id="KrishnaTV" tvg-group="Unknown",Krishna TV
-https://notvstream/krishnatv/krishnatv.m3u8
-#EXTINF:-1 tvg-id="AnandamTV2" tvg-group="Unknown",Anandam TV 2
-https://notvstream/anandamtv/anandamtv.m3u8
-#EXTINF:-1 tvg-id="HitechTV" tvg-group="Kanchipuram",Hitech TV
-https://notvstream/hitechtv/hitechtv.m3u8
-#EXTINF:-1 tvg-id="OrangeTV" tvg-group="Unknown",Orange TV
-https://notvstream/orangetv/orangetv.m3u8
+#EXTINF:-1 tvg-id="NTVTrichy" tvg-group="Trichy" http-referrer="https://onezoo.net",NTV Trichy
+https://notvstream.in/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="ArunaiTV	" tvg-group="Tiruvannamalai" http-referrer="https://onezoo.net",Arunai TV
+https://notvstream.in/arunaitv/arunaitv.m3u8
+#EXTINF:-1 tvg-id="RRTV" tvg-group="Unknown" http-referrer="https://onezoo.net",RR TV
+https://notvstream.in/rrtv/rrtv.m3u8
+#EXTINF:-1 tvg-id="MMTV" tvg-group="Unknown" http-referrer="https://onezoo.net",MM TV
+https://notvstream.in/mmtv/mmtv.m3u8
+#EXTINF:-1 tvg-id="SSTV" tvg-group="Unknown" http-referrer="https://onezoo.net",SS TV
+https://notvstream.in/sstv/sstv.m3u8
+#EXTINF:-1 tvg-id="UTVMayuram" tvg-group="Unknown" http-referrer="https://onezoo.net",UTV Mayuram
+https://notvstream.in/utv/utv.m3u8
+#EXTINF:-1 tvg-id="ThirumalaiTV" tvg-group="Unknown" http-referrer="https://onezoo.net",Thirumalai TV
+https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
+#EXTINF:-1 tvg-id="SubiTV" tvg-group="Unknown" http-referrer="https://onezoo.net",Subi TV
+https://notvstream.in/subitv/subitv.m3u8
+#EXTINF:-1 tvg-id="KrishnaTV" tvg-group="Unknown" http-referrer="https://onezoo.net",Krishna TV
+https://notvstream.in/krishnatv/krishnatv.m3u8
+#EXTINF:-1 tvg-id="AnandamTV2" tvg-group="Unknown" http-referrer="https://onezoo.net",Anandam TV 2
+https://notvstream.in/anandamtv/anandamtv.m3u8
+#EXTINF:-1 tvg-id="HitechTV" tvg-group="Kanchipuram" http-referrer="https://onezoo.net",Hitech TV
+https://notvstream.in/hitechtv/hitechtv.m3u8
+#EXTINF:-1 tvg-id="OrangeTV" tvg-group="Unknown" http-referrer="https://onezoo.net",Orange TV
+https://notvstream.in/orangetv/orangetv.m3u8
