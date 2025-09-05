@@ -125,7 +125,7 @@ https://ipcloud.live/duraitv/live/index.m3u8
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 tvg-id="DharshanTV" group-title="Unknown",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="RioTV" group-title="Alangulam",Rio TV
+#EXTINF:-1 tvg-id="RioTV" group-title="Alangulam, Tenkasi Dist.",Rio TV
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
@@ -207,3 +207,5 @@ https://notvstream.in/anandamtv/anandamtv.m3u8
 https://notvstream.in/hitechtv/hitechtv.m3u8
 #EXTINF:-1 tvg-id="OrangeTV" tvg-group="Unknown" http-referrer="https://onezoo.net",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
+#EXTINF:-1 tvg-id="BritainTamilBhakti" tvg-group="International",Britain Tamil Bhakti
+https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
