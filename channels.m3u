@@ -39,13 +39,13 @@ https://ipcloud.live/sachintv/musichd/index.m3u8
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="AadvikTV" group-title="Sambavarvadakarai",Aadvik TV
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
-#EXTINF:-1 tvg-id="Queens143" group-title="Namakkal" http-referrer="https://onezoo.net",Queens 143
+#EXTINF:-1 tvg-id="Queens143" group-title="Namakkal",Queens 143
 https://notvstream.in/queens/queens.m3u8
-#EXTINF:-1 tvg-id="ThulirTV",Thulir TV
+#EXTINF:-1 tvg-id="ThulirTV" group-title="Unknown",Thulir TV
 https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
-#EXTINF:-1 tvg-id="ChakraTV",Chakra TV
+#EXTINF:-1 tvg-id="ChakraTV" group-title="Salem",Chakra TV
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
-#EXTINF:-1 tvg-id="ThendralTVMadurai",Thendral TV Madurai [Not 24/7]
+#EXTINF:-1 tvg-id="ThendralTVMadurai" group-title="Madurai",Thendral TV Madurai [Not 24/7]
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
 #EXTINF:-1 tvg-id="NammaGobiTV" group-title="Unknown",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
@@ -221,3 +221,5 @@ https://play.applelive.in/stv/stv.m3u8
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-id="DarkTelevision" tvg-group="Kanyakumari",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
+#EXTINF:-1 tvg-id="MinnalTV" tvg-group="Unknown",Minnal TV
+https://ipcloud.live/minnaltv/minnalhd/index.m3u8
