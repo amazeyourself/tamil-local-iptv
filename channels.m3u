@@ -113,7 +113,7 @@ https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
 #EXTINF:-1 tvg-id="King24x7" group-title="Unknown",King 24x7
 https://notvstream.in/kingtv/kingtv.m3u8
-#EXTINF:-1 tvg-id="SmileyTV" group-title="Tirunelveli",Smiley TV
+#EXTINF:-1 tvg-id="SmileyTV" group-title="Tenkasi",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 #EXTINF:-1 tvg-id="VisilTV" group-title="Virudhunagar",Visil TV
 https://stream.sscloud7.in/live/vishiltv1/index.m3u8
@@ -191,7 +191,7 @@ https://notvstream.in/arunaitv/arunaitv.m3u8
 https://notvstream.in/rrtv/rrtv.m3u8
 #EXTINF:-1 tvg-id="MMTV" group-title="Unknown" http-referrer="https://onezoo.net",MM TV
 https://notvstream.in/mmtv/mmtv.m3u8
-#EXTINF:-1 tvg-id="SSTV" group-title="Unknown" http-referrer="https://onezoo.net",SS TV
+#EXTINF:-1 tvg-id="SSTV" group-title="Tiruppur" http-referrer="https://onezoo.net",SS TV
 https://notvstream.in/sstv/sstv.m3u8
 #EXTINF:-1 tvg-id="UTVMayuram" group-title="Unknown" http-referrer="https://onezoo.net",UTV Mayuram
 https://notvstream.in/utv/utv.m3u8
@@ -223,4 +223,5 @@ https://play.applelive.in/vasantv/vasantv.m3u8
 https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1 tvg-id="MinnalTV" group-title="Unknown",Minnal TV
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
+
 
