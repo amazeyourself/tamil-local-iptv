@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BritainTamilBhakti" group-title="International",Britain Tamil Bhakti
-https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 #EXTINF:-1 tvg-id="ShaTV" group-title="Thuckalay; Kanyakumari Dist.",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-id="SanaTV" group-title="State-wide",Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" group-title="State-wide",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="STSTamilTV" group-title="State-wide",STS Tamil TV
+#EXTINF:-1 tvg-id="STSTamilTV" group-title="International",STS Tamil TV
 https://stream.vstartv.org/p/3031/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AkamTV" group-title="State-wide",Akam TV
+#EXTINF:-1 tvg-id="AkamTV" group-title="International",Akam TV
 https://stream.vstartv.org/p/3674/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TamilMTV" group-title="State-wide",Tamil MTV
+#EXTINF:-1 tvg-id="TamilMTV" group-title="International",Tamil MTV
 https://stream.vstartv.org/p/3900/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="UTVTrichy" group-title="Trichy",U TV HD
 https://stream.galaxyott.live/live/utv/index.m3u8
@@ -125,7 +123,7 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" group-title="Chennai",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 tvg-id="DharshanTV" group-title="Unknown",Dharshan TV
+#EXTINF:-1 tvg-id="DharshanTV" group-title="Kanchipuram",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="RioTV" group-title="Alangulam; Tenkasi Dist.",Rio TV
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
@@ -197,7 +195,7 @@ https://notvstream.in/mmtv/mmtv.m3u8
 https://notvstream.in/sstv/sstv.m3u8
 #EXTINF:-1 tvg-id="UTVMayuram" group-title="Unknown" http-referrer="https://onezoo.net",UTV Mayuram
 https://notvstream.in/utv/utv.m3u8
-#EXTINF:-1 tvg-id="ThirumalaiTV" group-title="Unknown" http-referrer="https://onezoo.net",Thirumalai TV
+#EXTINF:-1 tvg-id="ThirumalaiTV" group-title="Karur" http-referrer="https://onezoo.net",Thirumalai TV
 https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
 #EXTINF:-1 tvg-id="SubiTV" group-title="Unknown" http-referrer="https://onezoo.net",Subi TV
 https://notvstream.in/subitv/subitv.m3u8
@@ -223,3 +221,7 @@ https://play.applelive.in/vasantv/vasantv.m3u8
 https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1 tvg-id="MinnalTV" group-title="Unknown",Minnal TV
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
+#EXTINF:-1 tvg-id="AasaiTV" group-title="Karur",Aasai TV
+https://notvstream.in/aasaitv/aasaitv.m3u8
+#EXTINF:-1 tvg-id="RainbowTVGandarvakottai" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
+https://notvstream.in/rainbowtv/rainbowtv.m3u8
