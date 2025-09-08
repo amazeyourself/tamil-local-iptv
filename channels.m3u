@@ -325,7 +325,7 @@ http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 rtmp://haritv.stream.ashokadigital.net:1935/haritv/haritvhd
 #EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
 http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV
+#EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
 http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV" group-title="Erode",Aaryaa TV
 https://aaryaa.sscloud7.in/live/aaryaatv/index.m3u8
@@ -349,4 +349,5 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+
 
