@@ -143,7 +143,7 @@ https://ipcloud.live/harintv/harintvhd/index.m3u8
 https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" group-title="Unknown",Suriyan TV
+#EXTINF:-1 tvg-id="SuriyanTV" group-title="Tenkasi",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
@@ -347,6 +347,7 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+
 
 
 
