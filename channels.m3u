@@ -23,7 +23,7 @@ https://galaxyott.live/hls/ntv.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MarutamMusic" group-title="Dharmapuri",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="TharunMovies" group-title="Koovathur; Kanchipuram Dist.",Tharun Movies HD [Not 24/7]
+#EXTINF:-1 tvg-id="TharunMovies" group-title="Koovathur; Kanchipuram Dist.",Tharun Movies HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id="7Green" group-title="Koovathur; Kanchipuram Dist.",7 Green
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
@@ -311,9 +311,9 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTV3" group-title="Unknown",Anandam TV
+#EXTINF:-1 tvg-id="AnandamTV3" group-title="Unknown",Anandam TV [RTMP]
 rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
-#EXTINF:-1 tvg-id="AnandamAbiTV" group-title="Unknown",Anandam Abi TV
+#EXTINF:-1 tvg-id="AnandamAbiTV" group-title="Unknown",Anandam Abi TV [RTMP]
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
 #EXTINF:-1 tvg-id="JayaamTV" group-title="Unknown",Jayaam TV
 http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
@@ -339,7 +339,7 @@ http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VanavilTV" group-title="Unknown",Vanavil TV
 http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KCNTV" group-title="Unknown",KCN TV
+#EXTINF:-1 tvg-id="KCNTV" group-title="Unknown",KCN TV [RTMP]
 rtmp://rcserver.in:1937/kcntv/kcntv
 #EXTINF:-1 tvg-id="TamilMaganTV" group-title="Unknown",Tamil Magan TV
 http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
@@ -349,5 +349,6 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+
 
 
