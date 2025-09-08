@@ -43,8 +43,6 @@ https://ipcloud.live/sachintv/aadviktv/index.m3u8
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 #EXTINF:-1 tvg-id="Queens143" group-title="Namakkal",Queens 143
 https://notvstream.in/queens/queens.m3u8
-#EXTINF:-1 tvg-id="ThulirTV" group-title="Unknown",Thulir TV
-https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 #EXTINF:-1 tvg-id="ChakraTV" group-title="Salem",Chakra TV
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai" group-title="Madurai",Thendral TV Madurai [Not 24/7]
@@ -349,6 +347,7 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+
 
 
 
