@@ -129,7 +129,7 @@ https://galaxyott.live/hls/dharshantv.m3u8
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" group-title="Mettupalayam",Asoka TV
+#EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV
 https://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1 tvg-id="MSNTV" group-title="Unknown",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
@@ -315,7 +315,7 @@ rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
 #EXTINF:-1 tvg-id="JayaamTV" group-title="Unknown",Jayaam TV
 http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RagamTV" group-title="Unknown",Ragam TV
+#EXTINF:-1 tvg-id="RagamTV" group-title="Ooty",Ragam TV [RTMP]
 rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
 http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
@@ -347,9 +347,3 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
-
-
-
-
-
-
