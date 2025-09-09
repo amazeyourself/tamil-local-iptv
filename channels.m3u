@@ -291,27 +291,27 @@ http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
 http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SVTV" group-title="Unknown",SV TV
 http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiTV" group-title="Unknown",Rasi TV
+#EXTINF:-1 tvg-id="RasiTV" group-title="State-wide",Rasi TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiTamil" group-title="Unknown",Rasi Tamil
+#EXTINF:-1 tvg-id="RasiTamil" group-title="State-wide",Rasi Tamil
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiMovies" group-title="Unknown",Rasi Movies
+#EXTINF:-1 tvg-id="RasiMovies" group-title="State-wide",Rasi Movies
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiMusic" group-title="Unknown",Rasi Music
+#EXTINF:-1 tvg-id="RasiMusic" group-title="State-wide",Rasi Music
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiHollywood" group-title="Unknown",Rasi Hollywood
+#EXTINF:-1 tvg-id="RasiHollywood" group-title="State-wide",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiComedy" group-title="Unknown",Rasi Comedy
+#EXTINF:-1 tvg-id="RasiComedy" group-title="State-wide",Rasi Comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiClassic" group-title="Unknown",Rasi Classic
+#EXTINF:-1 tvg-id="RasiClassic" group-title="State-wide",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTV" group-title="Unknown",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTV3" group-title="Unknown",Anandam TV [RTMP]
+#EXTINF:-1 tvg-id="AnandamTV3" group-title="State-wide",Anandam TV [RTMP]
 rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
-#EXTINF:-1 tvg-id="AnandamAbiTV" group-title="Unknown",Anandam Abi TV [RTMP]
+#EXTINF:-1 tvg-id="AnandamAbiTV" group-title="State-wide",Anandam Abi TV [RTMP]
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
 #EXTINF:-1 tvg-id="JayaamTV" group-title="Unknown",Jayaam TV
 http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
@@ -320,7 +320,7 @@ rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
 http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 #EXTINF:-1 tvg-id="HariTV" group-title="Unknown",Hari TV
-rtmp://haritv.stream.ashokadigital.net:1935/haritv/haritvhd
+https://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
 http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
@@ -347,3 +347,7 @@ http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KChannel" group-title="Coimbatore",K Channel
+https://brightmeltech.in/kchannel/kchannel.m3u8
+#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
+https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
