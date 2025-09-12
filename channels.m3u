@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
+https://live.sscloud7.in/live/vanitvhd/index.m3u8
 #EXTINF:-1 tvg-id="RKTV" group-title="Unknown",RK TV
 http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 #EXTINF:-1 tvg-id="TopTV" group-title="Unknown",Top TV
@@ -25,12 +31,6 @@ https://galaxyott.live/hls/dharshantv.m3u8
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
-https://live.sscloud7.in/live/vanitvhd/index.m3u8
-#EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
-https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
 https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
@@ -385,6 +385,7 @@ http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 https://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
+
 
 
 
