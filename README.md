@@ -8,7 +8,9 @@ IPTV streams of local cable channels in Tamil Nadu.
 
 # How to use
 Copy the playlist link and open it on any player that can play live streams.
+
 [OR]
+
 Download the playlist using the same link and open it on any player that can play live streams.
 
 (Contains MPDs and RTMP links, not all players can play them)
