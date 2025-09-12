@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AaryaaTV" group-title="Erode",Aaryaa TV
+https://live.sscloud7.in/live/aaryaatv/index.m3u8
+#EXTINF:-1 tvg-id="IsaiTV" group-title="Unknown",Isai TV
+https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 tvg-id="RockTV" group-title="Unknown",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
@@ -17,6 +21,8 @@ https://live.sscloud7.in/live/vanitvhd/index.m3u8
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="UdhayamTV" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
+https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
 https://app.ashokadigital.net/app/e9fa0994/index.m3u8
 #EXTINF:-1 tvg-id="DeepamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731935481_deepam.png&w=1920&q=75" group-title="Unknown",Deepam TV
@@ -251,7 +257,7 @@ https://notvstream.in/aasaitv/aasaitv.m3u8
 https://notvstream.in/rainbowtv/rainbowtv.m3u8
 #EXTINF:-1 tvg-id="ShaliniTV" group-title="State-wide",Shalini TV
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-id="Aalaya Magimai TV" group-title="Unknown",Aalaya Magimai TV
+#EXTINF:-1 tvg-id="AalayaMagimaiTV" group-title="Unknown",Aalaya Magimai TV
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-id="DheiveegaTV" group-title="Unknown",Dheiveegam TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
@@ -339,14 +345,12 @@ http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
 http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
-#EXTINF:-1 tvg-id="HariTV" group-title="Unknown",Hari TV
+#EXTINF:-1 tvg-id="HariTV" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
 http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
 http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
 http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AaryaaTV" group-title="Erode",Aaryaa TV
-http://aaryaa.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 tvg-id="VaaniVisuals" group-title="Chekkanurani; Madurai Dist.",Vaani Visuals
 rtmp://vaanivisuals.in:1935/vaanitv/vaanitv
 #EXTINF:-1 tvg-id="KCTNTV" group-title="Unknown",KCTN TV
@@ -371,6 +375,7 @@ http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 https://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
+
 
 
 
