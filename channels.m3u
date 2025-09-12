@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RockTV" group-title="Unknown",Rock TV
+https://apis.avmediawork.in/tvhls/rocktv.m3u8
+#EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
+https://stream.galaxyott.live/live/sktv/index.m3u8
+#EXTINF:-1 tvg-id="TamilOliTV" group-title="Unknown",Tamil Oli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="DharshanTV" group-title="Kanchipuram",Dharshan TV
+https://galaxyott.live/hls/dharshantv.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV" group-title="Tenkasi",Suriyan TV
+https://stream.galaxyott.live/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
+https://live.sscloud7.in/live/vanitvhd/index.m3u8
 #EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
@@ -21,6 +35,8 @@ https://galaxyott.live/hls/sanaplus.m3u8
 https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 tvg-id="UTVTrichy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" group-title="Trichy",U TV HD [MPD]
 https://cable92tataplay.akamaized.net/live/utv/index.mpd
+#EXTINF:-1 tvg-id="MullaiTV" group-title="Coimbatore",Mullai TV
+https://ipcloud.live/mullaitv/mullaitv/index.m3u8
 #EXTINF:-1 tvg-id="SuryaTVTamil" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w512-h960-rw" group-title="Tiruvannamalai",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 tvg-id="YETTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752314659_Y2.png&w=1920&q=75" group-title="State-wide",YET TV
@@ -149,26 +165,16 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" group-title="Chennai",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 tvg-id="DharshanTV" group-title="Kanchipuram",Dharshan TV
-https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV
 https://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1 tvg-id="TamilTV" group-title="Ramanathapuram",Tamil TV
 https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
-#EXTINF:-1 tvg-id="AadvikTV" group-title="Sambavarvadakarai",Harin TV
+#EXTINF:-1 tvg-id="HarinTV" group-title="Unknown",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
-https://stream.galaxyott.live/live/sktv/index.m3u8
-#EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
-https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" group-title="Tenkasi",Suriyan TV
-https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:-1 tvg-id="MullaiTV" group-title="Coimbatore",Mullai TV
-https://ipcloud.live/mullaitv/mullaitv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTV" group-title="Nagercoil; Kanyakumari Dist.",Apple TV
 https://play.applelive.in/appletv/appletv.m3u8
 #EXTINF:-1 tvg-id="PRTV" group-title="Nagercoil; Kanyakumari Dist.",PR TV
@@ -283,8 +289,6 @@ https://cloudstream4k.com/velantv/bsk/index.m3u8
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="JRPTV" group-title="Unknown",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
-#EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
-https://live.sscloud7.in/live/vanitvhd/index.m3u8
 #EXTINF:-1 tvg-id="OmSakthiTV" group-title="Sankarankoil",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.m3u8
 #EXTINF:-1 tvg-id="AdhiyamaanTV" group-title="Unknown",Adhiyamaan TV
@@ -367,5 +371,6 @@ http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 https://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
+
 
 
