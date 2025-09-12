@@ -35,8 +35,6 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1 tvg-id="ACPTVMadurai" group-title="Madurai",ACP TV Madurai
 https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
-#EXTINF:-1 tvg-id="VaanamTV" group-title="State-wide",Vaanam TV
-https://stream.vstartv.org:3511/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SachinTV" group-title="Sambavarvadakarai",Sachin TV
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
 #EXTINF:-1 tvg-id="SachinMusic" group-title="Sambavarvadakarai",Sachin Music [Not 24/7]
@@ -361,3 +359,4 @@ http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 https://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
+
