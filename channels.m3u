@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MaxMovies" group-title="Unknown",Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic" group-title="Unknown",Max Music
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="DeiveegaOliTV" group-title="Unknown",Deiveega Oli TV
+https://app.ashokadigital.net/app/e9fa0994/index.m3u8
 #EXTINF:-1 tvg-id="DeepamTV" group-title="Unknown",Deepam TV
 https://ipcloud.live/deepamtv/deepamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SailamTV" group-title="Unknown",Sailam TV
@@ -41,8 +47,14 @@ https://ipcloud.live/sachintv/dhonitv/index.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
 #EXTINF:-1 tvg-id="StrawberryTV" group-title="Sambavarvadakarai",Strawberry TV
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
+#EXTINF:-1 tvg-id="MinnalTV" group-title="Unknown",Minnal TV
+https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
+#EXTINF:-1 tvg-id="AkilamTV" group-title="Thisayanvilail; Tirunelveli Dist.",Akilam TV
+https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="Queens143" group-title="Namakkal",Queens 143
 https://notvstream.in/queens/queens.m3u8
+#EXTINF:-1 tvg-id="ThulirTV" group-title="Unknown",Thulir TV
+https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 #EXTINF:-1 tvg-id="ChakraTV" group-title="Salem",Chakra TV
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai" group-title="Madurai",Thendral TV Madurai [Not 24/7]
@@ -55,6 +67,8 @@ https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTV" group-title="Sholavandan; Madurai Dist.",Aadhavan TV
 https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
+#EXTINF:-1 tvg-id="MaruthiTV" group-title="Unknown",Maruthi TV
+https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVSivakasi" group-title="Sivakasi",Jayam TV
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
 #EXTINF:-1 tvg-id="MTelevision" group-title="Kodaikanal",M Television [Not 24/7]
@@ -219,8 +233,6 @@ https://play.applelive.in/stv/stv.m3u8
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-id="DarkTelevision" group-title="Kanyakumari",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
-#EXTINF:-1 tvg-id="MinnalTV" group-title="Unknown",Minnal TV
-https://ipcloud.live/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1 tvg-id="AasaiTV" group-title="Karur",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
 #EXTINF:-1 tvg-id="RainbowTVGandarvakottai" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
@@ -229,8 +241,6 @@ https://notvstream.in/rainbowtv/rainbowtv.m3u8
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="Aalaya Magimai TV" group-title="Unknown",Aalaya Magimai TV
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
-#EXTINF:-1 tvg-id="DeiveegaOliTV" group-title="Unknown",Deiveega Oli TV
-https://app.ashokadigital.net/app/e9fa0994/index.m3u8
 #EXTINF:-1 tvg-id="DheiveegaTV" group-title="Unknown",Dheiveegam TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
 #EXTINF:-1 tvg-id="NishaTV" group-title="Salem",Nisha TV
@@ -320,13 +330,13 @@ rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
 http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 #EXTINF:-1 tvg-id="HariTV" group-title="Unknown",Hari TV
-https://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
+http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
 http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
 http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV" group-title="Erode",Aaryaa TV
-https://aaryaa.sscloud7.in/live/aaryaatv/index.m3u8
+http://aaryaa.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 tvg-id="VaaniVisuals" group-title="Chekkanurani; Madurai Dist.",Vaani Visuals
 rtmp://vaanivisuals.in:1935/vaanitv/vaanitv
 #EXTINF:-1 tvg-id="KCTNTV" group-title="Unknown",KCTN TV
