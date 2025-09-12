@@ -63,27 +63,27 @@ https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
 #EXTINF:-1 tvg-id="NammaGobiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Unknown",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
-#EXTINF:-1 tvg-id="JeyamTVMadurai" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
+#EXTINF:-1 tvg-id="JeyamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1745584449_Jeyam%2520Logo%2520copy.png&w=1920&q=75" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
 https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
-#EXTINF:-1 tvg-id="RJTamil" group-title="Unknown",RJ Tamil [Not 24/7]
+#EXTINF:-1 tvg-id="RJTamil" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739531400_IMG_2914.PNG&w=1920&q=75" group-title="Unknown",RJ Tamil [Not 24/7]
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTV" group-title="Sholavandan; Madurai Dist.",Aadhavan TV
+#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746109073_c6062833-32cc-4572-a93b-e1e5c28e7693-removebg-preview.png&w=1920&q=75" group-title="Sholavandan; Madurai Dist.",Aadhavan TV
 https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
-#EXTINF:-1 tvg-id="MaruthiTV" group-title="Unknown",Maruthi TV
+#EXTINF:-1 tvg-id="MaruthiTV" tvg-logo="https://play-lh.googleusercontent.com/LSjXF_sRhe2bGwzZUSEeDwBtopkY3lj6Ftn-A4vPsogTWodKtFe14lOAGL7L8qgryC8=w512-h960-rw" group-title="Unknown",Maruthi TV
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
-#EXTINF:-1 tvg-id="JayamTVSivakasi" group-title="Sivakasi",Jayam TV
+#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756047174_Jayam%2520Tv%2520Logo.png&w=1920&q=75" group-title="Sivakasi",Jayam TV
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
-#EXTINF:-1 tvg-id="MTelevision" group-title="Kodaikanal",M Television [Not 24/7]
+#EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743837928_TELEVESION.png&w=1920&q=75" group-title="Kodaikanal",M Television [Not 24/7]
 https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-id="MSNTV" group-title="Unknown",MSN TV
+#EXTINF:-1 tvg-id="MSNTV" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w480-h960-rw" group-title="Unknown",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
 #EXTINF:-1 tvg-id="SaamiTV" group-title="Unknown",Saami TV
 https://ipcloud.live/msntv/saamitv/index.m3u8
-#EXTINF:-1 tvg-id="JeevanTV" group-title="Unknown",Jeevan TV
+#EXTINF:-1 tvg-id="JeevanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754418564_WhatsApp%2520Image%25202025-08-05%2520at%25209.34.59%2520PM.jpeg&w=1920&q=75" group-title="Dharapura; Tiruppur Dist.",Jeevan TV
 https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
-#EXTINF:-1 tvg-id="RioTV" group-title="Alangulam; Tenkasi Dist.",Rio TV (Stream 1)
+#EXTINF:-1 tvg-id="RioTV" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0=w512-h960-rw" group-title="Alangulam; Tenkasi Dist.",Rio TV (Stream 1)
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
-#EXTINF:-1 tvg-id="RioTV" group-title="Alangulam; Tenkasi Dist.",Rio TV (Stream 2)
+#EXTINF:-1 tvg-id="RioTV" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0=w512-h960-rw" group-title="Alangulam; Tenkasi Dist.",Rio TV (Stream 2)
 https://app.ashokadigital.net/hls/riotv/index.m3u8?token=hYUbjDHukIyAv3
 #EXTINF:-1 tvg-id="VeeraliTV" group-title="Unknown",Veerali TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
@@ -367,4 +367,5 @@ http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 https://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
+
 
