@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RojaTV2" group-title="Unknown",Roja TV
+https://proxy.mydementiacompanion.com.au/http://rojatv.phoenixcreations.online/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="APSTV" group-title="Unknown",APS TV
+https://proxy.mydementiacompanion.com.au/http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
+#EXTINF:-1 tvg-id="SasiTV" group-title="Unknown",Sasi TV
+https://proxy.mydementiacompanion.com.au/http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
+#EXTINF:-1 tvg-id="SarTV" group-title="Valliyur; Tenkasi",Sar TV
+https://proxy.mydementiacompanion.com.au/http://sartv.phoenixcreations.online/sartv/sartv/index.m3u8
+#EXTINF:-1 tvg-id="JoseTV" group-title="Unknown",Jose TV
+https://proxy.mydementiacompanion.com.au/http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 #EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
@@ -6,11 +16,15 @@ https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTV2" group-title="Unknown",Phoenix TV
-http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
+https://proxy.mydementiacompanion.com.au/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
 #EXTINF:-1 tvg-id="TopTV" group-title="Unknown",Top TV
-http://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
+https://proxy.mydementiacompanion.com.au/http://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
 #EXTINF:-1 tvg-id="RKTV" group-title="Unknown",RK TV
-http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+https://proxy.mydementiacompanion.com.au/http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
+https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="MaranTV" group-title="Unknown",Maran TV
 https://server.sscloud7.in/marantv/marantv/index.m3u8
 #EXTINF:-1 tvg-id="SuryaTVDigital" group-title="Unknown",Surya TV Digital
@@ -21,16 +35,12 @@ https://live.sscloud7.in/live/aaryaatv/index.m3u8
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 tvg-id="RockTV" group-title="Unknown",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
-#EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
-https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="TamilOliTV" group-title="Unknown",Tamil Oli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 tvg-id="DharshanTV" group-title="Kanchipuram",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" group-title="Tenkasi",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
-https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
 https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
@@ -316,31 +326,31 @@ https://live.singamcloud.in/rtv/rtv/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTV" group-title="Unknown",Phoenix TV
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-id="EzhilTV" group-title="Unknown",Ezhil TV
-http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+https://proxy.mydementiacompanion.com.au/http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="KavinTV" group-title="Unknown",Kavin TV
-http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+https://proxy.mydementiacompanion.com.au/http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="JawaharChannel" group-title="Salem",Jawahar Channel
-http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
 #EXTINF:-1 tvg-id="7StarTV" group-title="Salem",7Star TV
-http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilStarTV" group-title="Salem",Tamil Star TV
-http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SVTV" group-title="Unknown",SV TV
-http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiTV" group-title="State-wide",Rasi TV
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiTamil" group-title="State-wide",Rasi Tamil
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiMovies" group-title="State-wide",Rasi Movies
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiMusic" group-title="State-wide",Rasi Music
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiHollywood" group-title="State-wide",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiComedy" group-title="State-wide",Rasi Comedy
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiClassic" group-title="State-wide",Rasi Classic
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTV" group-title="Unknown",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" group-title="Unknown",Santhiya TV JKM
@@ -350,46 +360,38 @@ rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
 #EXTINF:-1 tvg-id="AnandamAbiTV" group-title="State-wide",Anandam Abi TV [RTMP]
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
 #EXTINF:-1 tvg-id="JayaamTV" group-title="Unknown",Jayaam TV
-http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RagamTV" group-title="Ooty",Ragam TV [RTMP]
 rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
-http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 #EXTINF:-1 tvg-id="HariTV" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
-http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
+https://proxy.mydementiacompanion.com.au/http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
-http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
-http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="VaaniVisuals" group-title="Chekkanurani; Madurai Dist.",Vaani Visuals
 rtmp://vaanivisuals.in:1935/vaanitv/vaanitv
 #EXTINF:-1 tvg-id="KCTNTV" group-title="Unknown",KCTN TV
-http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VCTNTV" group-title="Unknown",VCTN TV
-http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThirumagalTV" group-title="Unknown",Thirumagal TV
-http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VanavilTV" group-title="Unknown",Vanavil TV
-http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCNTV" group-title="Unknown",KCN TV [RTMP]
 rtmp://rcserver.in:1937/kcntv/kcntv
 #EXTINF:-1 tvg-id="TamilMaganTV" group-title="Unknown",Tamil Magan TV
-http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+https://proxy.mydementiacompanion.com.au/http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
 #EXTINF:-1 tvg-id="NamathuSangamamTV" group-title="Unknown",Namathu Sangamam TV
-http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="YoursTV" group-title="Unknown",Yours TV
-http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 #EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
-http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
+https://proxy.mydementiacompanion.com.au/http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" group-title="Coimbatore",K Channel
-https://brightmeltech.in/kchannel/kchannel.m3u8
+https://proxy.mydementiacompanion.com.au/http://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
-
-
-
-
-
-
-
-
