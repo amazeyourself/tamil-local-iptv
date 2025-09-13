@@ -411,5 +411,11 @@ https://proxy.mydementiacompanion.com.au/http://ntv.phoenixcreations.online/ntv/
 https://proxy.mydementiacompanion.com.au/http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
 #EXTINF:-1 tvg-id="MagizhTV" group-title="Pallipalayam; Namakkal Dist.",Magizh TV
 https://proxy.mydementiacompanion.com.au/http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
-
-
+#EXTINF:-1 tvg-id="ThirumalaiTVVadipatti" group-title="Vadipatti; Madurai Dist.",Thirumalai TV Vadipatti
+https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+#EXTINF:-1 tvg-id="RTV" group-title="Unknown",R TV
+https://live.olidigital.in/rtv/rtv/index.m3u8
+#EXTINF:-1 tvg-id="OliTV" group-title="Unknown",Oli TV
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="TimeTV" group-title="Unknown",Time TV
+https://live.olidigital.in/timetv/timetv/index.m3u8
