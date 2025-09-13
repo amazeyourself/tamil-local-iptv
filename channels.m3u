@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RojaTV2" group-title="Unknown",Roja TV
+#EXTINF:-1 tvg-id="RojaTV2" tvg-logo="https://play-lh.googleusercontent.com/3cBp5vsU7FKp9pvWWBbRNB6ap75ayenamvotB__f9ve0wXJF6hwlMHQKxzqb6Bx7a0lM=w512-h960-rw" group-title="Unknown",Roja TV
 https://proxy.mydementiacompanion.com.au/http://rojatv.phoenixcreations.online/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="APSTV" group-title="Unknown",APS TV
+#EXTINF:-1 tvg-id="APSTV" tvg-logo="" group-title="Unknown",APS TV
 https://proxy.mydementiacompanion.com.au/http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
 #EXTINF:-1 tvg-id="SasiTV" group-title="Unknown",Sasi TV
 https://proxy.mydementiacompanion.com.au/http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
-#EXTINF:-1 tvg-id="SarTV" group-title="Valliyur; Tenkasi",Sar TV
+#EXTINF:-1 tvg-id="SarTV" group-title="Valliyur; Tirunelveli Dist.",Sar TV
 https://proxy.mydementiacompanion.com.au/http://sartv.phoenixcreations.online/sartv/sartv/index.m3u8
-#EXTINF:-1 tvg-id="JoseTV" group-title="Unknown",Jose TV
+#EXTINF:-1 tvg-id="JoseTV" group-title="Alangulam; Tenkasi Dist.",Jose TV
 https://proxy.mydementiacompanion.com.au/http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 #EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="MaxMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Unknown",Max Music
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
-#EXTINF:-1 tvg-id="VaniTV" group-title="Unknown",Vani TV
+#EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixTV2" group-title="Unknown",Phoenix TV
+#EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="" group-title="Unknown",Phoenix TV
 https://proxy.mydementiacompanion.com.au/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
-#EXTINF:-1 tvg-id="TopTV" group-title="Unknown",Top TV
+#EXTINF:-1 tvg-id="TopTV" group-title="Ambasamudram",Top TV
 https://proxy.mydementiacompanion.com.au/http://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
 #EXTINF:-1 tvg-id="RKTV" group-title="Unknown",RK TV
 https://proxy.mydementiacompanion.com.au/http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
@@ -39,7 +39,7 @@ https://apis.avmediawork.in/tvhls/rocktv.m3u8
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 tvg-id="DharshanTV" group-title="Kanchipuram",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" group-title="Tenkasi",Suriyan TV
+#EXTINF:-1 tvg-id="SuriyanTV" group-title="Surandai; Tenkasi Dist.",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
 https://ipcloud.live/udhayamtv/live/index.m3u8
@@ -395,7 +395,19 @@ https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/y
 https://proxy.mydementiacompanion.com.au/http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" group-title="Coimbatore",K Channel
 https://proxy.mydementiacompanion.com.au/http://brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV 
+#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
-
-
+#EXTINF:-1 tvg-id="AadhavanTamilTV" group-title="Dindigul",Aadhavan Tamil TV
+https://proxy.mydementiacompanion.com.au/http:/aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
+#EXTINF:-1 tvg-id="JothiBalaTV" group-title="Unknown",Jothi Bala TV
+https://proxy.mydementiacompanion.com.au/http:/jothibalatv.phoenixcreations.online/jothibalatv/jothibalatv/index.m3u8
+#EXTINF:-1 tvg-id="LotusTV" group-title="Kodumudi; Erode Dist.",Lotus TV
+https://proxy.mydementiacompanion.com.au/http:/lotustv.phoenixcreations.online/lotustv/lotustv/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTVAmbai" group-title="Ambasamudram",Thendral TV Ambai
+https://proxy.mydementiacompanion.com.au/http://thendraltv.phoenixcreations.online/thendraltv/thendraltv/index.m3u8
+#EXTINF:-1 tvg-id="NTVNellai" group-title="Tirunelveli",NTV Nellai
+https://proxy.mydementiacompanion.com.au/http://ntv.phoenixcreations.online/ntv/ntv/index.m3u8
+#EXTINF:-1 tvg-id="SkyMedia" group-title="Unknown",Sky Media
+https://proxy.mydementiacompanion.com.au/http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
+#EXTINF:-1 tvg-id="MagizhTV" group-title="Pallipalayam; Namakkal Dist.",Magizh TV
+https://proxy.mydementiacompanion.com.au/http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
