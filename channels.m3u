@@ -19,19 +19,19 @@ https://live.sscloud7.in/live/vanitvhd/index.m3u8
 https://proxy.mydementiacompanion.com.au/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
 #EXTINF:-1 tvg-id="TopTV" group-title="Ambasamudram",Top TV
 https://proxy.mydementiacompanion.com.au/http://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
-#EXTINF:-1 tvg-id="RKTV" group-title="Unknown",RK TV
+#EXTINF:-1 tvg-id="RKTV" group-title="Tenkasi",RK TV
 https://proxy.mydementiacompanion.com.au/http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV" group-title="Unknown",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SKTV" group-title="Trichy",SK TV
 https://stream.galaxyott.live/live/sktv/index.m3u8
-#EXTINF:-1 tvg-id="MaranTV" group-title="Unknown",Maran TV
+#EXTINF:-1 tvg-id="MaranTV" group-title="Tenkasi",Maran TV
 https://server.sscloud7.in/marantv/marantv/index.m3u8
 #EXTINF:-1 tvg-id="SuryaTVDigital" group-title="Unknown",Surya TV Digital
 https://live.sscloud7.in/live/suryatv/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV" group-title="Erode",Aaryaa TV
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
-#EXTINF:-1 tvg-id="IsaiTV" group-title="Unknown",Isai TV
+#EXTINF:-1 tvg-id="IsaiTV" group-title="Ramanathapuram",Isai TV
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 tvg-id="RockTV" group-title="Unknown",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
@@ -45,9 +45,9 @@ https://stream.galaxyott.live/live/suriyantv/index.m3u8
 https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
 https://app.ashokadigital.net/app/e9fa0994/index.m3u8
-#EXTINF:-1 tvg-id="DeepamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731935481_deepam.png&w=1920&q=75" group-title="Unknown",Deepam TV
+#EXTINF:-1 tvg-id="DeepamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731935481_deepam.png&w=1920&q=75" group-title="Salem",Deepam TV
 https://ipcloud.live/deepamtv/deepamtvhd/index.m3u8
-#EXTINF:-1 tvg-id="SailamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png&w=1920&q=75" group-title="Unknown",Sailam TV
+#EXTINF:-1 tvg-id="SailamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png&w=1920&q=75" group-title="Salem",Sailam TV
 https://stream.onecloudlive.in/deepamtv/sailamtv/index.m3u8
 #EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA" group-title="Thuckalay; Kanyakumari Dist.",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
@@ -103,7 +103,7 @@ https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748264819_thendral%2520tv%2520madurai.png&w=1920&q=75" group-title="Madurai",Thendral TV Madurai [Not 24/7]
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-#EXTINF:-1 tvg-id="NammaGobiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Unknown",Namma Gobi TV
+#EXTINF:-1 tvg-id="NammaGobiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Gobichettipalayam, Erode Dist.",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="JeyamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1745584449_Jeyam%2520Logo%2520copy.png&w=1920&q=75" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
 https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
@@ -111,15 +111,15 @@ https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746109073_c6062833-32cc-4572-a93b-e1e5c28e7693-removebg-preview.png&w=1920&q=75" group-title="Sholavandan; Madurai Dist.",Aadhavan TV
 https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
-#EXTINF:-1 tvg-id="MaruthiTV" tvg-logo="https://play-lh.googleusercontent.com/LSjXF_sRhe2bGwzZUSEeDwBtopkY3lj6Ftn-A4vPsogTWodKtFe14lOAGL7L8qgryC8=w512-h960-rw" group-title="Unknown",Maruthi TV
+#EXTINF:-1 tvg-id="MaruthiTV" tvg-logo="https://play-lh.googleusercontent.com/LSjXF_sRhe2bGwzZUSEeDwBtopkY3lj6Ftn-A4vPsogTWodKtFe14lOAGL7L8qgryC8=w512-h960-rw" group-title="Vazhapadi; Salem Dist.",Maruthi TV
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756047174_Jayam%2520Tv%2520Logo.png&w=1920&q=75" group-title="Sivakasi",Jayam TV
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
 #EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743837928_TELEVESION.png&w=1920&q=75" group-title="Kodaikanal",M Television [Not 24/7]
 https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-id="MSNTV" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w480-h960-rw" group-title="Unknown",MSN TV
+#EXTINF:-1 tvg-id="MSNTV" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w480-h960-rw" group-title="Cuddalore",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
-#EXTINF:-1 tvg-id="SaamiTV" group-title="Unknown",Saami TV
+#EXTINF:-1 tvg-id="SaamiTV" group-title="Cuddalore",Saami TV
 https://ipcloud.live/msntv/saamitv/index.m3u8
 #EXTINF:-1 tvg-id="JeevanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754418564_WhatsApp%2520Image%25202025-08-05%2520at%25209.34.59%2520PM.jpeg&w=1920&q=75" group-title="Dharapura; Tiruppur Dist.",Jeevan TV
 https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
@@ -127,7 +127,7 @@ https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="RioTV" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0=w512-h960-rw" group-title="Alangulam; Tenkasi Dist.",Rio TV (Stream 2)
 https://app.ashokadigital.net/hls/riotv/index.m3u8?token=hYUbjDHukIyAv3
-#EXTINF:-1 tvg-id="VeeraliTV" group-title="Unknown",Veerali TV
+#EXTINF:-1 tvg-id="VeeraliTV" group-title="Udangudi; Thoothukudi",Veerali TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1 tvg-id="KingTV" group-title="Coimbatore",King TV
 https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
@@ -157,7 +157,7 @@ https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/ch
 https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EagleTV" group-title="Namakkal",Eagle TV
 https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
-#EXTINF:-1 tvg-id="AshokaTV" group-title="Unknown",Ashoka TV
+#EXTINF:-1 tvg-id="AshokaTV" group-title="Salem",Ashoka TV
 https://app.ashokadigital.net/app/12f5e922/index.m3u8
 #EXTINF:-1 tvg-id="MathiTV" group-title="Namakkal",Mathi TV
 https://notvstream.in/mathitv/mathitv.m3u8
@@ -171,7 +171,7 @@ https://app.ashokadigital.net/hls/saitvmdu/index.m3u8?token=DPyPa8qHDyZ2q3
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVPondicherry" group-title="Pondicherry",Apple TV Pondicherry
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 tvg-id="PunithanTV" group-title="Unknown",Punithan TV
+#EXTINF:-1 tvg-id="ThiruvarulTV" group-title="Unknown",Thiruvarul TV
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-id="NellaiTV" group-title="Tirunelveli",Nellai TV
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
@@ -411,4 +411,5 @@ https://proxy.mydementiacompanion.com.au/http://ntv.phoenixcreations.online/ntv/
 https://proxy.mydementiacompanion.com.au/http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
 #EXTINF:-1 tvg-id="MagizhTV" group-title="Pallipalayam; Namakkal Dist.",Magizh TV
 https://proxy.mydementiacompanion.com.au/http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
+
 
