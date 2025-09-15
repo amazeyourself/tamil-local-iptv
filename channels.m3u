@@ -43,9 +43,9 @@ https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="TamilOliTV" tvg-logo="https://play-lh.googleusercontent.com/fRbNk6OxA12aYw0Vu7jSbv1HUivEv_Zr8WcUQta67fJf1gfScLn-SLdmWCu5p9rWtjE=w512-h960-rw" group-title="Unknown",Tamil Oli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
-#EXTINF:-1 tvg-id="DharshanTV" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.5/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Kanchipuram",Dharshan TV
+#EXTINF:-1 tvg-id="DharshanTV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Kanchipuram",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.5/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai; Tenkasi Dist.",Suriyan TV
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai; Tenkasi Dist.",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/udhayam-tv.jpg" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
 https://ipcloud.live/udhayamtv/live/index.m3u8
@@ -451,3 +451,4 @@ https://proxy.mydementiacompanion.com.au/http://server3.sscloud7.in:1935/stmtv/s
 https://proxy.mydementiacompanion.com.au/http://168.220.233.77:1935/kmmusic/kmmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="VelavanTV" group-title="Unknown",Velavan TV
 https://proxy.mydementiacompanion.com.au/http://velavantv.sscloud7.in/live/velavantv/index.m3u8
+
