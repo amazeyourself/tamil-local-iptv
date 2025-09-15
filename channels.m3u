@@ -231,29 +231,29 @@ https://play.applelive.in/riyatv/riyatv.m3u8
 https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="SaharaTV" group-title="Unknown",Sahara TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
-#EXTINF:-1 tvg-id="NTVTrichy" group-title="Trichy" http-referrer="https://onezoo.net",NTV Trichy
+#EXTINF:-1 tvg-id="NTVTrichy" group-title="Trichy",NTV Trichy
 https://notvstream.in/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="ArunaiTV	" group-title="Tiruvannamalai" http-referrer="https://onezoo.net",Arunai TV
+#EXTINF:-1 tvg-id="ArunaiTV	" group-title="Tiruvannamalai",Arunai TV
 https://notvstream.in/arunaitv/arunaitv.m3u8
-#EXTINF:-1 tvg-id="RRTV" group-title="Unknown" http-referrer="https://onezoo.net",RR TV
+#EXTINF:-1 tvg-id="RRTV" group-title="Unknown",RR TV
 https://notvstream.in/rrtv/rrtv.m3u8
-#EXTINF:-1 tvg-id="MMTV" group-title="Unknown" http-referrer="https://onezoo.net",MM TV
+#EXTINF:-1 tvg-id="MMTV" group-title="Unknown",MM TV
 https://notvstream.in/mmtv/mmtv.m3u8
-#EXTINF:-1 tvg-id="SSTV" group-title="Tiruppur" http-referrer="https://onezoo.net",SS TV
+#EXTINF:-1 tvg-id="SSTV" group-title="Tiruppur",SS TV
 https://notvstream.in/sstv/sstv.m3u8
-#EXTINF:-1 tvg-id="UTVMayuram" group-title="Unknown" http-referrer="https://onezoo.net",UTV Mayuram
+#EXTINF:-1 tvg-id="UTVMayuram" group-title="Mayiladuthurai",UTV Mayuram
 https://notvstream.in/utv/utv.m3u8
-#EXTINF:-1 tvg-id="ThirumalaiTV" group-title="Karur" http-referrer="https://onezoo.net",Thirumalai TV
+#EXTINF:-1 tvg-id="ThirumalaiTV" group-title="Karur",Thirumalai TV
 https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
-#EXTINF:-1 tvg-id="SubiTV" group-title="Unknown" http-referrer="https://onezoo.net",Subi TV
+#EXTINF:-1 tvg-id="SubiTV" group-title="Unknown",Subi TV
 https://notvstream.in/subitv/subitv.m3u8
-#EXTINF:-1 tvg-id="KrishnaTV" group-title="Unknown" http-referrer="https://onezoo.net",Krishna TV
+#EXTINF:-1 tvg-id="KrishnaTV" group-title="Unknown",Krishna TV
 https://notvstream.in/krishnatv/krishnatv.m3u8
-#EXTINF:-1 tvg-id="AnandamTV2" group-title="Unknown" http-referrer="https://onezoo.net",Anandam TV
+#EXTINF:-1 tvg-id="AnandamTV2" group-title="Unknown",Anandam TV
 https://notvstream.in/anandamtv/anandamtv.m3u8
-#EXTINF:-1 tvg-id="HitechTV" group-title="Kanchipuram" http-referrer="https://onezoo.net",Hitech TV
+#EXTINF:-1 tvg-id="HitechTV" group-title="Kanchipuram",Hitech TV
 https://notvstream.in/hitechtv/hitechtv.m3u8
-#EXTINF:-1 tvg-id="OrangeTV" group-title="Unknown" http-referrer="https://onezoo.net",Orange TV
+#EXTINF:-1 tvg-id="OrangeTV" group-title="Unknown",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
 #EXTINF:-1 tvg-id="LeoTV" group-title="Kadainallur; Tenkasi Dist.",Leo TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
@@ -449,3 +449,4 @@ https://proxy.mydementiacompanion.com.au/http://server3.sscloud7.in:1935/stmtv/s
 https://proxy.mydementiacompanion.com.au/http://168.220.233.77:1935/kmmusic/kmmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="VelavanTV" group-title="Unknown",Velavan TV
 https://proxy.mydementiacompanion.com.au/http://velavantv.sscloud7.in/live/velavantv/index.m3u8
+
