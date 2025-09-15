@@ -13,4 +13,4 @@ Copy the playlist link and open it on any player that can play live streams.
 
 Download the playlist using the same link and open it on any player that can play live streams.
 
-(Contains MPDs and RTMP links, not all players can play them)
+(Contains RTMP links, not all players can play them)
