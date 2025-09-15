@@ -407,8 +407,6 @@ https://proxy.mydementiacompanion.com.au/http://skymedia.phoenixcreations.online
 https://proxy.mydementiacompanion.com.au/http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
 #EXTINF:-1 tvg-id="ThirumalaiTVVadipatti" group-title="Vadipatti; Madurai Dist.",Thirumalai TV Vadipatti
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
-#EXTINF:-1 tvg-id="RTV" group-title="Unknown",R TV
-https://live.olidigital.in/rtv/rtv/index.m3u8
 #EXTINF:-1 tvg-id="OliTV" group-title="Unknown",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV" group-title="Unknown",Time TV
@@ -451,4 +449,3 @@ https://proxy.mydementiacompanion.com.au/http://server3.sscloud7.in:1935/stmtv/s
 https://proxy.mydementiacompanion.com.au/http://168.220.233.77:1935/kmmusic/kmmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="VelavanTV" group-title="Unknown",Velavan TV
 https://proxy.mydementiacompanion.com.au/http://velavantv.sscloud7.in/live/velavantv/index.m3u8
-
