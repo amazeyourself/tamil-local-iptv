@@ -97,8 +97,8 @@ https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
 https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="Queens143" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107527_QUEENS%2520143.png&w=1920&q=75" group-title="Namakkal",Queens 143
 https://notvstream.in/queens/queens.m3u8
-#EXTINF:-1 tvg-id="ThulirTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746265527_THULIR%2520TV.jpeg&w=1920&q=75" group-title="Unknown",Thulir TV
-https://view.apserver.in/tmp_hls6/thulirtv/index.m3u8
+#EXTINF:-1 tvg-id="ThulirTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746265527_THULIR%2520TV.jpeg&w=1920&q=75" group-title="Unknown",Thulir TV [Not 24/7]
+https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 #EXTINF:-1 tvg-id="ChakraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731775483_chakra%2520tv%2520small%2520(1).PNG&w=1920&q=75" group-title="Salem",Chakra TV
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748264819_thendral%2520tv%2520madurai.png&w=1920&q=75" group-title="Madurai",Thendral TV Madurai [Not 24/7]
@@ -389,7 +389,7 @@ https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/y
 https://proxy.mydementiacompanion.com.au/http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" group-title="Coimbatore",K Channel
 https://proxy.mydementiacompanion.com.au/http://brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV
+#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV [Not 24/7]
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTamilTV" group-title="Dindigul",Aadhavan Tamil TV
 https://proxy.mydementiacompanion.com.au/http:/aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
@@ -485,8 +485,8 @@ https://view.apserver.in/tmp_hls4/lingaatv/index.m3u8
 https://view.apserver.in/tmp_hls5/opvtv/index.m3u8
 #EXTINF:-1 tvg-id="MRTV" group-title="Unknown",MR TV
 https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
-#EXTINF:-1 tvg-id="LikeTV" group-title="Unknown",Like TV
-https://view.apserver.in/tmp_hls9/liketv/index.m3u8
+#EXTINF:-1 tvg-id="LikeTV" group-title="Unknown",Like TV [Not 24/7]
+https://view.apserver.in/tmp_hls16/liketv/index.m3u8
 #EXTINF:-1 tvg-id="EverestTV" group-title="Unknown",Everest TV
 https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV3" group-title="Unknown",Sky TV
