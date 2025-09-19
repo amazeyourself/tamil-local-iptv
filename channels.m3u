@@ -5,6 +5,12 @@ https://ipcloud.live/skytv/skytv/index.m3u8
 https://stream.onecloudlive.in/dhandapani/vasanthamtv/index.m3u8
 #EXTINF:-1 tvg-id="PaavaiTV" tvg-logo="https://play-lh.googleusercontent.com/QqeM-vu6XSHC2RnsHIavFBogRePV9Tife_VuLTzn9wdJIpDksMV31ha7dd7U5uoJtw=w512-h960-rw" group-title="Tirupattur",Paavai TV
 https://ipcloud.live/paavai/live/index.m3u8
+#EXTINF:-1 tvg-id="AdvikaTV" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w512-h960-rw" group-title="Unknown",Advika TV
+https://proxy.mydementiacompanion.com.au/http://stream.advikadigital.in/advika/advika/index.m3u8
+#EXTINF:-1 tvg-id="SSMusic" tvg-logo="" group-title="Unknown",SS Music
+https://proxy.mydementiacompanion.com.au/https://stream.advikadigital.in/advika/ssmusic/index.m3u8
+#EXTINF:-1 tvg-id="SreeSaravanaaTV" tvg-logo="" group-title="Unknown",Sree Saravanaa TV
+https://proxy.mydementiacompanion.com.au/https://stream.advikadigital.in/advika/saravana/index.m3u8
 #EXTINF:-1 tvg-id="DeavathaiTV" tvg-logo="" group-title="Unknown",Deavathai TV
 https://hdbox.singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
 #EXTINF:-1 tvg-id="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=w512-h960-rw" group-title="Unknown",SMCV TV
@@ -499,6 +505,7 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
 
 
 
