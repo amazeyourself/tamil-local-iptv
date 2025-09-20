@@ -73,7 +73,7 @@ https://play.applelive.in/shatv/shatv.m3u8
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" group-title="State-wide",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="UTVTrichy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" group-title="Trichy",U TV HD
+#EXTINF:-1 tvg-id="UltimateTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" group-title="Trichy",Ultimate TV
 https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 tvg-id="MullaiTV" tvg-logo="https://play-lh.googleusercontent.com/wfADwsL_Py771w_iaMVZNMa83w8JAhIAIrnRjMCoW8lN-6ip-F5jE4gvvJkMf3u7BA=w512-h960-rw" group-title="Coimbatore",Mullai TV
 https://view.apserver.in/tmp_hls12/bakthimanam/index.m3u8
@@ -505,6 +505,7 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
 
 
 
