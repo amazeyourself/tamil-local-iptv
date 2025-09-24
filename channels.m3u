@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ThiruvarulTV" group-title="Unknown",Thiruvarul TV
+#EXTINF:-1 tvg-id="ThiruvarulTV" tvg-logo="" group-title="Unknown",Thiruvarul TV
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV [Not 24/7]
+#EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" group-title="Coimbatore",Asoka TV [Not 24/7]
 https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
+#EXTINF:-1 tvg-id="No1TV" tvg-logo="https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A=w512-h960-rw" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:-1 tvg-id="PRTV" group-title="Nagercoil; Kanyakumari Dist.",PR TV
+#EXTINF:-1 tvg-id="PRTV" tvg-logo="https://play-lh.googleusercontent.com/nH9Ul7GYcWZz0eEjpzkMoRe7BcXkpl9nD7W-s830kRJyq37gOGCM3YRk57jnwj-eAw=w963-h470-rw" group-title="Nagercoil; Kanyakumari Dist.",PR TV
 https://play.applelive.in/prtv/prtv.m3u8
-#EXTINF:-1 tvg-id="ThalapathyTV" group-title="Unknown",Thalapathy TV
+#EXTINF:-1 tvg-id="ThalapathyTV" tvg-logo="https://play-lh.googleusercontent.com/P6A_TZB3L2Hb8h9i1GLMpKFh2-cB1sIWBILaKgi4M1DN_wTKha8C0elu5uCWH2leuQ=w963-h470-rw" group-title="Unknown",Thalapathy TV
 https://play.applelive.in/thalapathytv/thalapathytv.m3u8
-#EXTINF:-1 tvg-id="RiyaTV" group-title="Kanyakumari",Riya TV
+#EXTINF:-1 tvg-id="RiyaTV" tvg-logo="https://play-lh.googleusercontent.com/VcWcp6EC3ao97oSgK5WhcCvg881bZKqQ4L2lIMND2qKLrZJMLDm2mRwn4Old1dZ45IDD=w512-h960-rw" group-title="Kanyakumari",Riya TV
 https://play.applelive.in/riyatv/riyatv.m3u8
-#EXTINF:-1 tvg-id="NilaTVNellai" group-title="Tirunelveli",Nila TV Nellai
+#EXTINF:-1 tvg-id="NilaTVNellai"tvg-logo="https://play-lh.googleusercontent.com/BVXB5IAcSl02FcbLoYLdISNds5SwoeUhJ3oKgpkIWvYffybYh-Eu5lZFkx5HjNA2SLhW=w512-h960-rw"  group-title="Tirunelveli",Nila TV Nellai
 https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
-#EXTINF:-1 tvg-id="DarkTelevision" group-title="Kanyakumari",Dark Television
+#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Kanyakumari",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
-#EXTINF:-1 tvg-id="HarinTV" group-title="Unknown",Harin TV
+#EXTINF:-1 tvg-id="HarinTV" tvg-logo="https://play-lh.googleusercontent.com/-iWhUlatkv3AL80Z6gNlG692UfuqdfAYBWcLQzzapbDs5NtceyHYSXx6mW-_Fc_7P3Sm=w512-h960-rw" group-title="Unknown",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixTV" group-title="Unknown",Phoenix TV
+#EXTINF:-1 tvg-id="PhoenixTVTirupattur" tvg-logo="https://play-lh.googleusercontent.com/EPUT5s-IW087AjK5fm4UtbtZTU5DL7zvSpuNkU58dfXtvTaJr6_ECITrc9mAEy7jfyg=w512-h960-rw" group-title="Tirupattur",Phoenix TV
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
-#EXTINF:-1 tvg-id="TamilTV" group-title="Ramanathapuram",Tamil TV
+#EXTINF:-1 tvg-id="TamilTV" tvg-logo="https://play-lh.googleusercontent.com/zwEQ6odzkSZuztPobJRc4whT3UYw4XximWSiIAWd4OLpOFK_TjVxrm3HJbhGd9jvDQ=w512-h960-rw" group-title="Ramanathapuram",Tamil TV
 https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
-#EXTINF:-1 tvg-id="RojaTV" tvg-logo="" group-title="Coimbatore",Roja TV
+#EXTINF:-1 tvg-id="RojaTV" tvg-logo="https://play-lh.googleusercontent.com/FqstwB7oxZ8xnKFYgcc8NaBytJvPdhc62AfU4ZvmkmM3UPYdllCKrkD30RJEwjIFNDLz=w512-h960-rw" group-title="Coimbatore",Roja TV
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RojaMovies" tvg-logo="" group-title="Coimbatore",Roja Movies
+#EXTINF:-1 tvg-id="RojaMovies" tvg-logo="https://play-lh.googleusercontent.com/OI5HmCytC3TzhwE8dBGtZzgHaZ9qpSGH4AorISFfpZOe-ytCd367BV-iQMK55TBvhp32S1t2t1G6wLbfFeCgBg=w512-h960-rw" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="NilaTV2" tvg-logo="" group-title="Unknown",Nila TV
+#EXTINF:-1 tvg-id="NilaTV2" tvg-logo="https://play-lh.googleusercontent.com/zNrBrOSIJ_iVatOnqVAr6f-oMeFe0_2uyhwwqstMs7iwiRmuvvMzKxIba6hJlTRzMYw=w512-h960-rw" group-title="Unknown",Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="SkyPlusTV" tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I=w512-h960-rw" group-title="Tiruchengode",Sky Plus TV
 https://ipcloud.live/skytv/skytv/index.m3u8
@@ -91,8 +91,6 @@ https://stream.galaxyott.live/live/suriyantv/index.m3u8
 https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
 https://app.ashokadigital.net/app/e9fa0994/index.m3u8
-#EXTINF:-1 tvg-id="DeepamTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/DEEPAM-TV-LOGO.png?alt=media&token=457d0dee-7f7c-46fe-8864-53ea350045f2" group-title="Salem",Deepam TV
-https://ipcloud.live/deepamtv/deepamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SailamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png&w=1920&q=75" group-title="Salem",Sailam TV
 https://stream.onecloudlive.in/deepamtv/sailamtv/index.m3u8
 #EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA" group-title="Thuckalay; Kanyakumari Dist.",Sha TV
@@ -507,5 +505,6 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
 
 
