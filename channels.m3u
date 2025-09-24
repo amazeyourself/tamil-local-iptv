@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ThiruvarulTV" group-title="Unknown",Thiruvarul TV
+https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
+#EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV [Not 24/7]
+https://ipcloud.live/asokatv/asokahd/index.m3u8
+#EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
+https://live.skystream.in/live/no1tv/index.m3u8
+#EXTINF:-1 tvg-id="PRTV" group-title="Nagercoil; Kanyakumari Dist.",PR TV
+https://play.applelive.in/prtv/prtv.m3u8
+#EXTINF:-1 tvg-id="ThalapathyTV" group-title="Unknown",Thalapathy TV
+https://play.applelive.in/thalapathytv/thalapathytv.m3u8
+#EXTINF:-1 tvg-id="RiyaTV" group-title="Kanyakumari",Riya TV
+https://play.applelive.in/riyatv/riyatv.m3u8
+#EXTINF:-1 tvg-id="NilaTVNellai" group-title="Tirunelveli",Nila TV Nellai
+https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
+#EXTINF:-1 tvg-id="DarkTelevision" group-title="Kanyakumari",Dark Television
+https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1 tvg-id="HarinTV" group-title="Unknown",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTV" group-title="Unknown",Phoenix TV
@@ -191,8 +207,6 @@ https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVPondicherry" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107336_apple%2520tv%2520logo%2520png.png&w=1080&q=75" group-title="Pondicherry",Apple TV Pondicherry
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 tvg-id="ThiruvarulTV" group-title="Unknown",Thiruvarul TV
-https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-id="NellaiTV" tvg-logo="" group-title="Tirunelveli",Nellai TV
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
 #EXTINF:-1 tvg-id="ParamsTV" tvg-logo="" group-title="Salem",Params TV
@@ -211,16 +225,8 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" tvg-logo="" group-title="Chennai",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV [Not 24/7]
-https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
-https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVNagercoil" group-title="Nagercoil; Kanyakumari Dist.",Apple TV Nagercoil
 https://play.applelive.in/appletv/appletv.m3u8
-#EXTINF:-1 tvg-id="PRTV" group-title="Nagercoil; Kanyakumari Dist.",PR TV
-https://play.applelive.in/prtv/prtv.m3u8
-#EXTINF:-1 tvg-id="ThalapathyTV" group-title="Unknown",Thalapathy TV
-https://play.applelive.in/thalapathytv/thalapathytv.m3u8
 #EXTINF:-1 tvg-id="JeysonTV" group-title="Nagercoil; Kanyakumari Dist.",Jeyson TV
 https://play.applelive.in/jeysontv/jeysontv.m3u8
 #EXTINF:-1 tvg-id="KumariKathirTV" group-title="Nagercoil; Kanyakumari Dist.",Kumari Kathir TV
@@ -241,8 +247,6 @@ https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
 #EXTINF:-1 tvg-id="SubashTV" group-title="Tenkasi",Subash TV
 https://ipcloud.live/subashtv/subashhd/index.m3u8
-#EXTINF:-1 tvg-id="RiyaTV" group-title="Kanyakumari",Riya TV
-https://play.applelive.in/riyatv/riyatv.m3u8
 #EXTINF:-1 tvg-id="MalarTV" group-title="Unknown",Malar TV
 https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="SaharaTV" group-title="Unknown",Sahara TV
@@ -275,14 +279,10 @@ https://notvstream.in/orangetv/orangetv.m3u8
 https://ipcloud.live/leotv/leotvhd/index.m3u8
 #EXTINF:-1 tvg-id="NilaTV" group-title="Coimbatore",Nila TV
 https://ipcloud.live/nilatv/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="NilaTVNellai" group-title="Tirunelveli",Nila TV Nellai
-https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
 #EXTINF:-1 tvg-id="STV" group-title="Nagercoil; Kanyakumari Dist.",S TV
 https://play.applelive.in/stv/stv.m3u8
 #EXTINF:-1 tvg-id="BossTelevision" group-title="Kanyakumari",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
-#EXTINF:-1 tvg-id="DarkTelevision" group-title="Kanyakumari",Dark Television
-https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1 tvg-id="AasaiTV" group-title="Karur",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
 #EXTINF:-1 tvg-id="RainbowTVGandarvakottai" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
@@ -507,4 +507,5 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
 
