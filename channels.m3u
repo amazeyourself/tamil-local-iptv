@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HarinTV" group-title="Unknown",Harin TV
+https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTV" group-title="Unknown",Phoenix TV
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-id="TamilTV" group-title="Ramanathapuram",Tamil TV
@@ -211,8 +213,6 @@ https://ipcloud.live/duraitv/live/index.m3u8
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 tvg-id="AsokaTV" group-title="Coimbatore",Asoka TV [Not 24/7]
 https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 tvg-id="HarinTV" group-title="Unknown",Harin TV
-https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVNagercoil" group-title="Nagercoil; Kanyakumari Dist.",Apple TV Nagercoil
@@ -507,3 +507,4 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
