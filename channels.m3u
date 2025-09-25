@@ -1,15 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ThiruvarulTV" tvg-logo="" group-title="Unknown",Thiruvarul TV
+#EXTINF:-1 tvg-id="SuccesTVTamil" tvg-logo="" group-title="Unknown",Succes TV Tamil
+https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
+#EXTINF:-1 tvg-id="BoobshTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743337212_1000035047-removebg-preview.png&w=1920&q=75" group-title="Unknown",Boobsh TV
+https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
+#EXTINF:-1 tvg-id="ManasuTV" tvg-logo="" group-title="Unknown",Manasu TV
+https://stream6.livebox.co.in/manasutvhls/live.m3u8
+#EXTINF:-1 tvg-id="GEMTV" tvg-logo="" group-title="Unknown",GEM TV
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PunithanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741094476_IMG-20250228-WA0079-removebg-preview.png&w=1920&q=75" group-title="Unknown",Punithan TV
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" group-title="Coimbatore",Asoka TV [Not 24/7]
 https://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" tvg-logo="https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A=w512-h960-rw" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:-1 tvg-id="PRTV" tvg-logo="https://play-lh.googleusercontent.com/nH9Ul7GYcWZz0eEjpzkMoRe7BcXkpl9nD7W-s830kRJyq37gOGCM3YRk57jnwj-eAw=w963-h470-rw" group-title="Nagercoil; Kanyakumari Dist.",PR TV
+#EXTINF:-1 tvg-id="PRTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752245098_PR%2520TV%2520LOGO%2520PNG.png&w=1920&q=75" group-title="Nagercoil; Kanyakumari Dist.",PR TV
 https://play.applelive.in/prtv/prtv.m3u8
-#EXTINF:-1 tvg-id="ThalapathyTV" tvg-logo="https://play-lh.googleusercontent.com/P6A_TZB3L2Hb8h9i1GLMpKFh2-cB1sIWBILaKgi4M1DN_wTKha8C0elu5uCWH2leuQ=w963-h470-rw" group-title="Unknown",Thalapathy TV
+#EXTINF:-1 tvg-id="ThalapathyTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739547835_WhatsApp_Image_2025-02-14_at_8.57.35_PM-removebg-preview.png&w=1920&q=75" group-title="Unknown",Thalapathy TV
 https://play.applelive.in/thalapathytv/thalapathytv.m3u8
-#EXTINF:-1 tvg-id="RiyaTV" tvg-logo="https://play-lh.googleusercontent.com/VcWcp6EC3ao97oSgK5WhcCvg881bZKqQ4L2lIMND2qKLrZJMLDm2mRwn4Old1dZ45IDD=w512-h960-rw" group-title="Kanyakumari",Riya TV
+#EXTINF:-1 tvg-id="RiyaTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/riya%20tv.png" group-title="Kanyakumari",Riya TV
 https://play.applelive.in/riyatv/riyatv.m3u8
 #EXTINF:-1 tvg-id="NilaTVNellai"tvg-logo="https://play-lh.googleusercontent.com/BVXB5IAcSl02FcbLoYLdISNds5SwoeUhJ3oKgpkIWvYffybYh-Eu5lZFkx5HjNA2SLhW=w512-h960-rw"  group-title="Tirunelveli",Nila TV Nellai
 https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
@@ -17,7 +25,7 @@ https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
 https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1 tvg-id="HarinTV" tvg-logo="https://play-lh.googleusercontent.com/-iWhUlatkv3AL80Z6gNlG692UfuqdfAYBWcLQzzapbDs5NtceyHYSXx6mW-_Fc_7P3Sm=w512-h960-rw" group-title="Unknown",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixTVTirupattur" tvg-logo="https://play-lh.googleusercontent.com/EPUT5s-IW087AjK5fm4UtbtZTU5DL7zvSpuNkU58dfXtvTaJr6_ECITrc9mAEy7jfyg=w512-h960-rw" group-title="Tirupattur",Phoenix TV
+#EXTINF:-1 tvg-id="PhoenixTVTirupattur" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753871451_Untitled%25202-%2520Copy%2520copy.png&w=1920&q=75" group-title="Tirupattur",Phoenix TV
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-id="TamilTV" tvg-logo="https://play-lh.googleusercontent.com/zwEQ6odzkSZuztPobJRc4whT3UYw4XximWSiIAWd4OLpOFK_TjVxrm3HJbhGd9jvDQ=w512-h960-rw" group-title="Ramanathapuram",Tamil TV
 https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
@@ -25,7 +33,7 @@ https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" tvg-logo="https://play-lh.googleusercontent.com/OI5HmCytC3TzhwE8dBGtZzgHaZ9qpSGH4AorISFfpZOe-ytCd367BV-iQMK55TBvhp32S1t2t1G6wLbfFeCgBg=w512-h960-rw" group-title="Coimbatore",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="NilaTV2" tvg-logo="https://play-lh.googleusercontent.com/zNrBrOSIJ_iVatOnqVAr6f-oMeFe0_2uyhwwqstMs7iwiRmuvvMzKxIba6hJlTRzMYw=w512-h960-rw" group-title="Unknown",Nila TV
+#EXTINF:-1 tvg-id="NilaTV2" tvg-logo="https://play-lh.googleusercontent.com/-AJSA_oGQROLDwiwj6J1GAzUee1WIh3zwUSj8wGZYNwaRn0JUSDYTYkCdKLvoiJr8j33=w512-h960-rw" group-title="Unknown",Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="SkyPlusTV" tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I=w512-h960-rw" group-title="Tiruchengode",Sky Plus TV
 https://ipcloud.live/skytv/skytv/index.m3u8
@@ -45,15 +53,15 @@ https://hdbox.singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 tvg-id="YogaaTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/yogaa-tv.jpg?alt=media&token=f1d5050e-80ac-4e65-a896-f14e3fcc25ea" group-title="Unknown",Yogaa TV
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
-#EXTINF:-1 tvg-id="RojaTV2" tvg-logo="https://play-lh.googleusercontent.com/3cBp5vsU7FKp9pvWWBbRNB6ap75ayenamvotB__f9ve0wXJF6hwlMHQKxzqb6Bx7a0lM=w512-h960-rw" group-title="Coimbatore",Roja TV
+#EXTINF:-1 tvg-id="RojaTV2" tvg-logo="https://play-lh.googleusercontent.com/3cBp5vsU7FKp9pvWWBbRNB6ap75ayenamvotB__f9ve0wXJF6hwlMHQKxzqb6Bx7a0lM=w512-h960-rw" group-title="Coimbatore",Roja TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://rojatv.phoenixcreations.online/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Unknown",APS TV
+#EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Unknown",APS TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
-#EXTINF:-1 tvg-id="SasiTV" tvg-logo="https://play-lh.googleusercontent.com/BSGSB__5LiAK5nkNlXhPbqj6KxgwekO56zvskIb6fVVStrw1cgcr2BFh8hBOxQ-a1w=w512-h960-rw" group-title="Unknown",Sasi TV
+#EXTINF:-1 tvg-id="SasiTV" tvg-logo="https://play-lh.googleusercontent.com/BSGSB__5LiAK5nkNlXhPbqj6KxgwekO56zvskIb6fVVStrw1cgcr2BFh8hBOxQ-a1w=w512-h960-rw" group-title="Unknown",Sasi TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
-#EXTINF:-1 tvg-id="SarTV" tvg-logo="https://play-lh.googleusercontent.com/8TbFMm0Di6lQrbEjdpIPtqNu0OspSbbsuw5IdZrvgRf38apXNblCLUEJsIFQSWJGAnOW=w512-h960-rw" group-title="Valliyur; Tirunelveli Dist.",Sar TV
+#EXTINF:-1 tvg-id="SarTV" tvg-logo="https://play-lh.googleusercontent.com/8TbFMm0Di6lQrbEjdpIPtqNu0OspSbbsuw5IdZrvgRf38apXNblCLUEJsIFQSWJGAnOW=w512-h960-rw" group-title="Valliyur; Tirunelveli Dist.",Sar TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://sartv.phoenixcreations.online/sartv/sartv/index.m3u8
-#EXTINF:-1 tvg-id="JoseTV" tvg-logo="https://play-lh.googleusercontent.com/_V5dp42Hsk7U5NwrvilcuWyS3A6fBVZyoIwBFqFVoXvCI9Q3Km0APnP6rS_WYVg-mIU=w512-h960-rw" group-title="Alangulam; Tenkasi Dist.",Jose TV
+#EXTINF:-1 tvg-id="JoseTV" tvg-logo="https://play-lh.googleusercontent.com/_V5dp42Hsk7U5NwrvilcuWyS3A6fBVZyoIwBFqFVoXvCI9Q3Km0APnP6rS_WYVg-mIU=w512-h960-rw" group-title="Alangulam; Tenkasi Dist.",Jose TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 #EXTINF:-1 tvg-id="MaxMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
@@ -61,11 +69,11 @@ https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w480-h960-rw" group-title="Unknown",Phoenix TV
+#EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w480-h960-rw" group-title="Unknown",Phoenix TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
-#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://play-lh.googleusercontent.com/c0QQntk1Dh1qoRte2HUYdVdiue-HePcAU8jq2srS0lEpTrDQ3EziTdaRj0PUm4KJlGs=w512-h960-rw" group-title="Ambasamudram",Top TV
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://play-lh.googleusercontent.com/c0QQntk1Dh1qoRte2HUYdVdiue-HePcAU8jq2srS0lEpTrDQ3EziTdaRj0PUm4KJlGs=w512-h960-rw" group-title="Ambasamudram",Top TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
-#EXTINF:-1 tvg-id="RKTV" tvg-logo="https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w512-h960-rw" group-title="Tenkasi",RK TV
+#EXTINF:-1 tvg-id="RKTV" tvg-logo="https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w512-h960-rw" group-title="Tenkasi",RK TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam; Tenkasi Dist.",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
@@ -205,13 +213,13 @@ https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVPondicherry" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107336_apple%2520tv%2520logo%2520png.png&w=1080&q=75" group-title="Pondicherry",Apple TV Pondicherry
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 tvg-id="NellaiTV" tvg-logo="" group-title="Tirunelveli",Nellai TV
+#EXTINF:-1 tvg-id="NellaiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753792693_WhatsApp_Image_2025-07-29_at_5.34.20_AM-removebg-preview.png&w=1920&q=75" group-title="Tirunelveli",Nellai TV
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
-#EXTINF:-1 tvg-id="ParamsTV" tvg-logo="" group-title="Salem",Params TV
+#EXTINF:-1 tvg-id="ParamsTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732631200_params%2520tv%2520png%2520lgog%2520.png&w=1920&q=75" group-title="Salem",Params TV
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
-#EXTINF:-1 tvg-id="KarthickTV" tvg-logo="" group-title="Tirunelveli",Karthick TV
+#EXTINF:-1 tvg-id="KarthickTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png&w=1920&q=75" group-title="Tirunelveli",Karthick TV
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-#EXTINF:-1 tvg-id="King24x7" tvg-logo="" group-title="Unknown",King 24x7
+#EXTINF:-1 tvg-id="King24x7" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107492_KING24X7%2520logo.png&w=1920&q=75" group-title="Unknown",King 24x7
 https://notvstream.in/kingtv/kingtv.m3u8
 #EXTINF:-1 tvg-id="SmileyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756996.PNG" group-title="Tenkasi",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
@@ -223,185 +231,179 @@ https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" tvg-logo="" group-title="Chennai",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 tvg-id="AppleTVNagercoil" group-title="Nagercoil; Kanyakumari Dist.",Apple TV Nagercoil
+#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/apple%20tv.png" group-title="Nagercoil; Kanyakumari Dist.",Apple TV Nagercoil
 https://play.applelive.in/appletv/appletv.m3u8
-#EXTINF:-1 tvg-id="JeysonTV" group-title="Nagercoil; Kanyakumari Dist.",Jeyson TV
+#EXTINF:-1 tvg-id="JeysonTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/jeyson%20tv.jpg" group-title="Nagercoil; Kanyakumari Dist.",Jeyson TV
 https://play.applelive.in/jeysontv/jeysontv.m3u8
-#EXTINF:-1 tvg-id="KumariKathirTV" group-title="Nagercoil; Kanyakumari Dist.",Kumari Kathir TV
+#EXTINF:-1 tvg-id="KumariKathirTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/kumari%20kathir.png" group-title="Nagercoil; Kanyakumari Dist.",Kumari Kathir TV
 https://play.applelive.in/jjmax/jjmax.m3u8
-#EXTINF:-1 tvg-id="SelfieTV" group-title="Kanyakumari",Selfie TV
+#EXTINF:-1 tvg-id="SelfieTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/selfie%20tv.png" group-title="Kanyakumari",Selfie TV
 https://play.applelive.in/selfeetv/selfeetv.m3u8
-#EXTINF:-1 tvg-id="JCTV" group-title="Kanyakumari",JC TV
+#EXTINF:-1 tvg-id="JCTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/JC%20TV%20star%202-01.png" group-title="Kanyakumari",JC TV
 https://play.applelive.in/jctv/jctv.m3u8
-#EXTINF:-1 tvg-id="DigitalTV" group-title="Kanyakumari",Digital TV
+#EXTINF:-1 tvg-id="DigitalTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/digital%20tv.png" group-title="Kanyakumari",Digital TV
 https://play.applelive.in/digitaltv/digitaltv.m3u8
-#EXTINF:-1 tvg-id="SuryanTV" group-title="Kanyakumari",Suryan TV
-https://play.applelive.in/suryantv/suryantv.m3u8
-#EXTINF:-1 tvg-id="EnthiranTV" group-title="Kanyakumari",Enthiran TV
-https://play.applelive.in/enthirantv/enthirantv.m3u8
-#EXTINF:-1 tvg-id="VeeraTV" group-title="Unknown",Veera TV
-https://ipcloud.live/veeratv/veeratvhd/index.m3u8
-#EXTINF:-1 tvg-id="EagleTV" group-title="Unknown",Eagle TV
-https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1 tvg-id="SubashTV" group-title="Tenkasi",Subash TV
-https://ipcloud.live/subashtv/subashhd/index.m3u8
-#EXTINF:-1 tvg-id="MalarTV" group-title="Unknown",Malar TV
+#EXTINF:-1 tvg-id="MalarTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/malar%20tv.png" group-title="Unknown",Malar TV
 https://sscloud7.com/live/malartv/index.m3u8
-#EXTINF:-1 tvg-id="SaharaTV" group-title="Unknown",Sahara TV
+#EXTINF:-1 tvg-id="VeeraTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FVEERA-TV.png?alt=media&token=ca6c5424-0fbe-4a20-815d-1465391a9819" group-title="Unknown",Veera TV
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+#EXTINF:-1 tvg-id="EagleTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/Eagle-tv.png?alt=media&token=8e46ac74-b9a2-4e29-86d1-5d970e45d471" group-title="Unknown",Eagle TV
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+#EXTINF:-1 tvg-id="SubashTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/subash-tv.png?alt=media&token=bd1c4551-407c-442d-b669-6302584000f6" group-title="Tenkasi",Subash TV
+https://ipcloud.live/subashtv/subashhd/index.m3u8
+#EXTINF:-1 tvg-id="SaharaTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/sahara%20tv.png?alt=media&token=86e691a3-6278-4304-9f56-3d063ef7ec08" group-title="Unknown",Sahara TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
-#EXTINF:-1 tvg-id="NTVTrichy" group-title="Trichy",NTV Trichy
+#EXTINF:-1 tvg-id="NTVTrichy" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733812543_Ntv-Logo-png.png&w=1920&q=75" group-title="Trichy",NTV Trichy
 https://notvstream.in/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="ArunaiTV	" group-title="Tiruvannamalai",Arunai TV
+#EXTINF:-1 tvg-id="ArunaiTV" tvg-logo="https://play-lh.googleusercontent.com/rx51OW3qTWnBS1n4MFKamvlE80KkK_19X4E-YbzS7ADFI0pjQJaupdroh2EejghwxQ=w512-h960-rw" group-title="Tiruvannamalai",Arunai TV
 https://notvstream.in/arunaitv/arunaitv.m3u8
-#EXTINF:-1 tvg-id="RRTV" group-title="Unknown",RR TV
+#EXTINF:-1 tvg-id="RRTV" tvg-logo="https://play-lh.googleusercontent.com/mUHclE1WTUDOJz9sfDQHZ0cHI8F4elh6ZvF50t2rrEe9azcIWL61CXwjA5_FPW4Sbw=w512-h960-rw" group-title="Unknown",RR TV
 https://notvstream.in/rrtv/rrtv.m3u8
-#EXTINF:-1 tvg-id="MMTV" group-title="Unknown",MM TV
+#EXTINF:-1 tvg-id="MAndMTV" tvg-logo="https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=w512-h960-rw" group-title="Unknown",M&M TV
 https://notvstream.in/mmtv/mmtv.m3u8
-#EXTINF:-1 tvg-id="SSTV" group-title="Tiruppur",SS TV
+#EXTINF:-1 tvg-id="SSTV" tvg-logo="https://play-lh.googleusercontent.com/bwYGFpoUuFlDSgnD7Ug0DVORnPlO9rRa4771UwD3pjGeUp0GvAkTdI2dJYkzlJApBAc=w512-h960-rw" group-title="Tiruppur",SS TV
 https://notvstream.in/sstv/sstv.m3u8
-#EXTINF:-1 tvg-id="UTVMayuram" group-title="Mayiladuthurai",UTV Mayuram
+#EXTINF:-1 tvg-id="UTVMayuram" tvg-logo="https://play-lh.googleusercontent.com/AMEhNNYAfAv0qg9W-UTBnETKyOG3biXyt5v7RmEFuX79HvWtM7VhO-WoDmBYPXajkpQ=w512-h960-rw" group-title="Mayiladuthurai",UTV Mayuram
 https://notvstream.in/utv/utv.m3u8
-#EXTINF:-1 tvg-id="ThirumalaiTV" group-title="Karur",Thirumalai TV
+#EXTINF:-1 tvg-id="ThirumalaiTV" tvg-logo="https://play-lh.googleusercontent.com/t6nqr53rVr6cvLKpluVQNVdTbkqsekjTaxKzOsL3xSJS4HHexNM0CNuF6cXMX09t-Q=w512-h960-rw" group-title="Karur",Thirumalai TV
 https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
-#EXTINF:-1 tvg-id="SubiTV" group-title="Unknown",Subi TV
+#EXTINF:-1 tvg-id="SubiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1737002385_1732253762_IMG-20241122-WA0018-removebg-preview.png&w=1920&q=75" group-title="Unknown",Subi TV
 https://notvstream.in/subitv/subitv.m3u8
-#EXTINF:-1 tvg-id="KrishnaTV" group-title="Unknown",Krishna TV
+#EXTINF:-1 tvg-id="KrishnaTV" tvg-logo="https://play-lh.googleusercontent.com/slnRZFTAYvHnbZswuAUnLo8jjtkVU2bhyZLalhlpF13dtAjRMR0oLonP6xb0hIX6Fh7d=w512-h960-rw" group-title="Unknown",Krishna TV
 https://notvstream.in/krishnatv/krishnatv.m3u8
-#EXTINF:-1 tvg-id="AnandamTV2" group-title="Unknown",Anandam TV
+#EXTINF:-1 tvg-id="AnandamTV2" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q=w512-h960-rw" group-title="Unknown",Anandam TV
 https://notvstream.in/anandamtv/anandamtv.m3u8
-#EXTINF:-1 tvg-id="HitechTV" group-title="Kanchipuram",Hitech TV
+#EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://play-lh.googleusercontent.com/m_mtInfDc-dkq1B7of1k-aP-b927j_dlqlyONIwh_w4SLjvvFfacdNuFHRWsr6-H8WY=w512-h960-rw" group-title="Kanchipuram",Hitech TV
 https://notvstream.in/hitechtv/hitechtv.m3u8
-#EXTINF:-1 tvg-id="OrangeTV" group-title="Unknown",Orange TV
+#EXTINF:-1 tvg-id="OrangeTV" tvg-logo="https://play-lh.googleusercontent.com/7lMNvIBSNA7Mj-AJxazBd6brTP_e1y2j3vffiAf0zTUVeew-k-P5ICNlTiCDrIFgplOH=w512-h960-rw" group-title="Unknown",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
-#EXTINF:-1 tvg-id="LeoTV" group-title="Kadainallur; Tenkasi Dist.",Leo TV
+#EXTINF:-1 tvg-id="LeoTV" tvg-logo="https://play-lh.googleusercontent.com/Q_nq06NXPL1xKE9GFxRq77sNLlwePoTqmcmPVdlJOV5yhwSIbLPGXe1xuI2veS-BTp0=w512-h960-rw" group-title="Kadainallur; Tenkasi Dist.",Leo TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
-#EXTINF:-1 tvg-id="NilaTV" group-title="Coimbatore",Nila TV
+#EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://play-lh.googleusercontent.com/zNrBrOSIJ_iVatOnqVAr6f-oMeFe0_2uyhwwqstMs7iwiRmuvvMzKxIba6hJlTRzMYw=w512-h960-rw" group-title="Coimbatore",Nila TV
 https://ipcloud.live/nilatv/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="STV" group-title="Nagercoil; Kanyakumari Dist.",S TV
+#EXTINF:-1 tvg-id="STV" tvg-logo="https://play-lh.googleusercontent.com/uwF7AfKUUjdGpIpAThFLvtn8heCbxmN9D8ealDqjZ7yit0lLp3A9eIeQDtcn7rRL8uIQlMGZoz2j8EUtbBGgeA=w512-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",S TV
 https://play.applelive.in/stv/stv.m3u8
-#EXTINF:-1 tvg-id="BossTelevision" group-title="Kanyakumari",Boss Television
+#EXTINF:-1 tvg-id="BossTelevision" tvg-logo="" group-title="Kanyakumari",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
-#EXTINF:-1 tvg-id="AasaiTV" group-title="Karur",Aasai TV
+#EXTINF:-1 tvg-id="AasaiTV" tvg-logo="" group-title="Karur",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
-#EXTINF:-1 tvg-id="RainbowTVGandarvakottai" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
+#EXTINF:-1 tvg-id="RainbowTVGandarvakottai" tvg-logo="" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
 https://notvstream.in/rainbowtv/rainbowtv.m3u8
-#EXTINF:-1 tvg-id="ShaliniTV" group-title="State-wide",Shalini TV
+#EXTINF:-1 tvg-id="ShaliniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1737815564_Shalini%2520Tv%2520logo%2520New%252028-04-2012.png&w=1920&q=75" group-title="State-wide",Shalini TV
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-id="AalayaMagimaiTV" group-title="Unknown",Aalaya Magimai TV
+#EXTINF:-1 tvg-id="AalayaMagimaiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731768528_AALYA%2520MAGAMAI%2520TV%2520LOGO%2520BAKTHI%2520TV.png&w=1920&q=75" group-title="Unknown",Aalaya Magimai TV
 https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
-#EXTINF:-1 tvg-id="DheiveegaTV" group-title="Unknown",Dheiveegam TV
+#EXTINF:-1 tvg-id="DheiveegamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731847296_WhatsApp_Image_2024-11-17_at_6.04.32_PM-removebg-preview.png&w=1920&q=75" group-title="Unknown",Dheiveegam TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-#EXTINF:-1 tvg-id="NishaTV" group-title="Salem",Nisha TV
+#EXTINF:-1 tvg-id="NishaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731776131_WhatsApp_Image_2024-11-16_at_8.36.22_PM-removebg-preview.png&w=1920&q=75" group-title="Salem",Nisha TV
 https://app.ashokadigital.net/app/acde2e67/index.m3u8
-#EXTINF:-1 tvg-id="AmmanTV" group-title="Unknown",Amman TV
+#EXTINF:-1 tvg-id="AmmanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754665306_amman%2520tv%2520png%2520logo.png&w=1920&q=75" group-title="Unknown",Amman TV
 https://app.ashokadigital.net/app/7d1a23ef/index.m3u8
-#EXTINF:-1 tvg-id="OscarTV" group-title="Unknown",Oscar TV
+#EXTINF:-1 tvg-id="OscarTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741858477_PeMGZ-pz_400x400.png&w=1920&q=75" group-title="Unknown",Oscar TV
 https://account21.livebox.co.in/oscartvhls/live.m3u8
-#EXTINF:-1 tvg-id="TembleTV" group-title="Kanchipuram",Temble TV
+#EXTINF:-1 tvg-id="TembleTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748265127_ttv%2520logo%2520png.png&w=1920&q=75" group-title="Kanchipuram",Temble TV
 https://notvstream.in/tembletv/tembletv.m3u8
-#EXTINF:-1 tvg-id="BrightSimroseTV" group-title="Unknown",Bright Simrose TV
+#EXTINF:-1 tvg-id="BrightSimroseTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1744202967_WhatsApp%2520Image%25202025-04-09%2520at%25201.03.03%2520PM.jpeg&w=1920&q=75" group-title="Unknown",Bright Simrose TV
 https://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
-#EXTINF:-1 tvg-id="MalathiTV" group-title="Unknown",Malathi TV
+#EXTINF:-1 tvg-id="MalathiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739610852_IMG-20250215-WA0068.jpg&w=1920&q=75" group-title="Unknown",Malathi TV
 https://ipcloud.live/malathitv/malathitv/index.m3u8
-#EXTINF:-1 tvg-id="SangamamTVErode" group-title="Erode",Sangamam TV Erode
+#EXTINF:-1 tvg-id="SangamamTVErode" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731942908_a.png&w=1920&q=75" group-title="Erode",Sangamam TV Erode
 https://stream.onecloudlive.in/sangamamtv/sangamamtvhd/index.m3u8
-#EXTINF:-1 tvg-id="SSCN" group-title="Unknown",SSCN
+#EXTINF:-1 tvg-id="SSCN" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756807421_d9220ae9-986b-4336-a2a9-9c212cb00935-removebg-preview.png&w=1920&q=75" group-title="Unknown",SSCN
 https://app.ashokadigital.net/sscn/sscn/index.m3u8
-#EXTINF:-1 tvg-id="JeiyanTV" group-title="Unknown",Jeiyan TV
+#EXTINF:-1 tvg-id="JeiyanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741017559_Jeiyan%2520Tv%2520Trichy.png&w=1920&q=75" group-title="Unknown",Jeiyan TV
 https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
-#EXTINF:-1 tvg-id="BoobshTV" group-title="Unknown",Boobsh TV
-https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
-#EXTINF:-1 tvg-id="VidiyalTV" group-title="Unknown",Vidiyal TV
+#EXTINF:-1 tvg-id="VidiyalTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743757301_IMG-20250404-WA0100.jpg&w=1920&q=75" group-title="Unknown",Vidiyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
-#EXTINF:-1 tvg-id="RTV" group-title="Unknown",R TV
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752584483_rtv%2520logo.png%25202.png&w=1920&q=75" group-title="Unknown",R TV
 https://live.olidigital.in/rtv/rtv/index.m3u8
-#EXTINF:-1 tvg-id="PothigaiThendral" group-title="Unknown",Pothigai Thendral
+#EXTINF:-1 tvg-id="PothigaiThendral" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741353214_IMG-20250307-WA0131.jpg&w=1920&q=75" group-title="Unknown",Pothigai Thendral
 https://ipcloud.live/pothigai/thendral/index.m3u8
-#EXTINF:-1 tvg-id="AppleTV" group-title="Unknown",Apple TV
+#EXTINF:-1 tvg-id="AppleTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1747967607_APPLE%2520TV.jpeg&w=1920&q=75" group-title="Unknown",Apple TV
 https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
-#EXTINF:-1 tvg-id="VelanTV" group-title="Unknown",Velan TV
+#EXTINF:-1 tvg-id="VelanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750343383_aPre-comp%25201_01085.png&w=1920&q=75" group-title="Unknown",Velan TV
 https://cloudstream4k.com/velantv/bsk/index.m3u8
-#EXTINF:-1 tvg-id="ShaliniTVThanjavur" group-title="Thanjavur",Shalini TV Thanjavur
+#EXTINF:-1 tvg-id="ShaliniTVThanjavur" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1730741877_uxsXR_hp_400x400-removebg-preview.png&w=1920&q=75" group-title="Thanjavur",Shalini TV Thanjavur
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-id="JRPTV" group-title="Unknown",JRP TV
+#EXTINF:-1 tvg-id="JRPTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739251156_JRP%2520.png&w=1920&q=75" group-title="Unknown",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
-#EXTINF:-1 tvg-id="OmSakthiTV" group-title="Sankarankoil",Om Sakthi TV
+#EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Sankarankoil",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.m3u8
-#EXTINF:-1 tvg-id="AdhiyamaanTV" group-title="Unknown",Adhiyamaan TV
+#EXTINF:-1 tvg-id="AdhiyamaanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732121692_White%2520Logo%2520copy.png&w=1920&q=75" group-title="Unknown",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
-#EXTINF:-1 tvg-id="CityTV" group-title="Kanchipuram",City TV
+#EXTINF:-1 tvg-id="CityTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCITY-TV-HD.png?alt=media&token=1e259b6a-23ce-44a3-9fbe-b6535a234bac" group-title="Kanchipuram",City TV
 https://hd.singamcloud.in/citytv/citytv/index.m3u8
-#EXTINF:-1 tvg-id="LTV" group-title="Unknown",L TV
+#EXTINF:-1 tvg-id="LTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753874325_WhatsApp_Image_2025-07-30_at_4.43.34_PM-removebg-preview.png&w=1920&q=75" group-title="Unknown",L TV
 https://live.singamcloud.in/rtv/rtv/index.m3u8
-#EXTINF:-1 tvg-id="EzhilTV" group-title="Unknown",Ezhil TV
+#EXTINF:-1 tvg-id="EzhilTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1740735792_SAVE_20250228_143607.jpg&w=1920&q=75" group-title="Unknown",Ezhil TV
 https://proxy.mydementiacompanion.com.au/http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="KavinTV" group-title="Unknown",Kavin TV
+#EXTINF:-1 tvg-id="KavinTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736878149_KAVIN%2520TV.png&w=1920&q=75" group-title="Unknown",Kavin TV
 https://proxy.mydementiacompanion.com.au/http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="JawaharChannel" group-title="Salem",Jawahar Channel
+#EXTINF:-1 tvg-id="JawaharChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731775837_JAWAHAR%2520TV%2520LOGO%2520PNG.png&w=1920&q=75" group-title="Salem",Jawahar Channel
 https://proxy.mydementiacompanion.com.au/http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
-#EXTINF:-1 tvg-id="7StarTV" group-title="Salem",7Star TV
+#EXTINF:-1 tvg-id="7StarTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754648001_7STV%2520Still%25202%2520(1).png&w=1920&q=75" group-title="Salem",7Star TV
 https://proxy.mydementiacompanion.com.au/http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilStarTV" group-title="Salem",Tamil Star TV
+#EXTINF:-1 tvg-id="TamilStarTV" tvg-logo="https://yt3.googleusercontent.com/5jWU9n12RzHy-xHpVUbCAQEbqjJJ75nUsfvtHYA5Syg4XF6c2FwLcR3_I35Du_0mzU7edCS4wA=s900-c-k-c0x00ffffff-no-rj" group-title="Salem",Tamil Star TV
 https://proxy.mydementiacompanion.com.au/http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SVTV" group-title="Unknown",SV TV
+#EXTINF:-1 tvg-id="SVTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750189892_sv%2520tv%2520logo%2520png%2520copy.png&w=1920&q=75" group-title="Unknown",SV TV
 https://proxy.mydementiacompanion.com.au/http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiTV" group-title="State-wide",Rasi TV
+#EXTINF:-1 tvg-id="RasiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386440_RASI%2520TV%2520logo%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi TV
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiTamil" group-title="State-wide",Rasi Tamil
+#EXTINF:-1 tvg-id="RasiTamil" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386498_RASI%2520TAMIL%2520%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Tamil
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiMovies" group-title="State-wide",Rasi Movies
+#EXTINF:-1 tvg-id="RasiMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386556_RASI%2520MOVIES%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Movies
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiMusic" group-title="State-wide",Rasi Music
+#EXTINF:-1 tvg-id="RasiMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386594_RASI%2520MUSIC%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Music
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiHollywood" group-title="State-wide",Rasi Hollywood
+#EXTINF:-1 tvg-id="RasiHollywood" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386628_Rasi%2520Hollywood.png&w=1920&q=75" group-title="State-wide",Rasi Hollywood
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiComedy" group-title="State-wide",Rasi Comedy
+#EXTINF:-1 tvg-id="RasiComedy" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386692_Rasi%2520Comedy%2520copy.png&w=1920&q=75" group-title="State-wide",Rasi Comedy
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="RasiClassic" group-title="State-wide",Rasi Classic
+#EXTINF:-1 tvg-id="RasiClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386659_Rasi%2520Classic%2520HD-2%2520(1).png&w=1920&q=75https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386594_RASI%2520MUSIC%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Classic
 https://proxy.mydementiacompanion.com.au/http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="SanthiyaTV" group-title="Unknown",Santhiya TV
+#EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
-#EXTINF:-1 tvg-id="SanthiyaTVJKM" group-title="Unknown",Santhiya TV JKM
+#EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTV3" group-title="State-wide",Anandam TV [RTMP]
+#EXTINF:-1 tvg-id="AnandamTV3" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="State-wide",Anandam TV [RTMP]
 rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
-#EXTINF:-1 tvg-id="AnandamAbiTV" group-title="State-wide",Anandam Abi TV [RTMP]
+#EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="State-wide",Anandam Abi TV [RTMP]
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
-#EXTINF:-1 tvg-id="JayaamTV" group-title="Unknown",Jayaam TV
+#EXTINF:-1 tvg-id="JayaamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732251489_Jayaam%2520copy.png&w=1920&q=75" group-title="Unknown",Jayaam TV
 https://proxy.mydementiacompanion.com.au/http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RagamTV" group-title="Ooty",Ragam TV [RTMP]
+#EXTINF:-1 tvg-id="RagamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736940221_SAVE_20250115_162418.jpg&w=1920&q=75" group-title="Ooty",Ragam TV [RTMP]
 rtmp://stream.wsplcloud.com/live/ragamtv
-#EXTINF:-1 tvg-id="CSKTV" group-title="Dharmapuri",CSK TV
+#EXTINF:-1 tvg-id="CSKTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733983239_csk%2520tv%2520png%2520logo%2520kanishq.png&w=1920&q=75" group-title="Dharmapuri",CSK TV
 https://proxy.mydementiacompanion.com.au/http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
-#EXTINF:-1 tvg-id="HariTV" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
+#EXTINF:-1 tvg-id="HariTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
 https://proxy.mydementiacompanion.com.au/http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
-#EXTINF:-1 tvg-id="SriKrishnaTV" group-title="Erode",Sri Krishna TV
+#EXTINF:-1 tvg-id="SriKrishnaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png&w=1920&q=75" group-title="Erode",Sri Krishna TV
 https://proxy.mydementiacompanion.com.au/http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
+#EXTINF:-1 tvg-id="SriKrishnaTVTiruchengode" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png&w=1920&q=75" group-title="Tiruchengode",Sri Krishna TV Tiruchengode
 https://proxy.mydementiacompanion.com.au/http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="VaaniVisuals" group-title="Chekkanurani; Madurai Dist.",Vaani Visuals
+#EXTINF:-1 tvg-id="VaaniVisuals" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1749032751_vaani%2520bbb.png&w=1920&q=75" group-title="Chekkanurani; Madurai Dist.",Vaani Visuals [RTMP]
 rtmp://vaanivisuals.in:1935/vaanitv/vaanitv
-#EXTINF:-1 tvg-id="KCTNTV" group-title="Unknown",KCTN TV
+#EXTINF:-1 tvg-id="KCTNTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1738325933_k%2520ctn%2520logo%2520png.png&w=1920&q=75" group-title="Unknown",KCTN TV
 https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VCTNTV" group-title="Unknown",VCTN TV
+#EXTINF:-1 tvg-id="VCTNTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1738325831_all.png&w=1920&q=75" group-title="Unknown",VCTN TV
 https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThirumagalTV" group-title="Unknown",Thirumagal TV
+#EXTINF:-1 tvg-id="ThirumagalTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1738324057_thirumagal%2520tv%2520copy%2520w%2520s%2520copy.png&w=1920&q=75" group-title="Unknown",Thirumagal TV
 https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VanavilTV" group-title="Unknown",Vanavil TV
+#EXTINF:-1 tvg-id="VanavilTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1738324014_vanavil%2520w%2520stroke%2520copy.png&w=1920&q=75" group-title="Unknown",Vanavil TV
 https://proxy.mydementiacompanion.com.au/http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KCNTV" group-title="Unknown",KCN TV
+#EXTINF:-1 tvg-id="KCNTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739890766_WhatsApp_Image_2025-02-18_at_8.28.50_PM-removebg-preview.png&w=1920&q=75" group-title="Unknown",KCN TV
 https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
-#EXTINF:-1 tvg-id="TamilMaganTV" group-title="Unknown",Tamil Magan TV
+#EXTINF:-1 tvg-id="TamilMaganTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753287425_1719169066630.png&w=1920&q=75" group-title="Unknown",Tamil Magan TV
 https://proxy.mydementiacompanion.com.au/http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
-#EXTINF:-1 tvg-id="NamathuSangamamTV" group-title="Unknown",Namathu Sangamam TV
+#EXTINF:-1 tvg-id="NamathuSangamamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1747992529_namathu%2520%2520SANGAMAM%2520TV.png&w=1920&q=75" group-title="Unknown",Namathu Sangamam TV
 https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="YoursTV" group-title="Unknown",Yours TV
+#EXTINF:-1 tvg-id="YoursTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748079240_YOURS%2520TV.png&w=1920&q=75" group-title="Unknown",Yours TV
 https://proxy.mydementiacompanion.com.au/http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
-#EXTINF:-1 tvg-id="VisakaTV" group-title="Unknown",Visaka TV
+#EXTINF:-1 tvg-id="VisakaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748146464_TV%2520(1)%2520(1).png&w=1920&q=75" group-title="Unknown",Visaka TV
 https://proxy.mydementiacompanion.com.au/http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
-#EXTINF:-1 tvg-id="KChannel" group-title="Coimbatore",K Channel
+#EXTINF:-1 tvg-id="KChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733334938_IMG-20241204-WA0141.jpg&w=1920&q=75" group-title="Coimbatore",K Channel [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http://brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="IWorldTV" group-title="Unknown",IWorld TV [Not 24/7]
+#EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746326505_iworldtv%2520logo1.png&w=1920&q=75" group-title="Unknown",IWorld TV [Not 24/7]
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTamilTV" group-title="Dindigul",Aadhavan Tamil TV
 https://proxy.mydementiacompanion.com.au/http:/aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
@@ -505,6 +507,3 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-
-
-
