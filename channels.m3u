@@ -273,7 +273,7 @@ https://notvstream.in/subitv/subitv.m3u8
 https://notvstream.in/krishnatv/krishnatv.m3u8
 #EXTINF:-1 tvg-id="AnandamTV2" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q=w512-h960-rw" group-title="Unknown",Anandam TV
 https://notvstream.in/anandamtv/anandamtv.m3u8
-#EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://play-lh.googleusercontent.com/m_mtInfDc-dkq1B7of1k-aP-b927j_dlqlyONIwh_w4SLjvvFfacdNuFHRWsr6-H8WY=w512-h960-rw" group-title="Kanchipuram",Hitech TV
+#EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746534068_HI%2520TECH.png&w=1080&q=75" group-title="Kanchipuram",Hitech TV
 https://notvstream.in/hitechtv/hitechtv.m3u8
 #EXTINF:-1 tvg-id="OrangeTV" tvg-logo="https://play-lh.googleusercontent.com/7lMNvIBSNA7Mj-AJxazBd6brTP_e1y2j3vffiAf0zTUVeew-k-P5ICNlTiCDrIFgplOH=w512-h960-rw" group-title="Unknown",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
@@ -507,3 +507,7 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+#EXTINF:-1 tvg-id="SkyTV4" group-title="Unknown",Sky TV
+https://uiptv.iptv.pics/hls/skytv/index.m3u8
+#EXTINF:-1 tvg-id="PanjamiTV" group-title="Unknown",Panjami TV
+https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
