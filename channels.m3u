@@ -366,13 +366,13 @@ https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
 #EXTINF:-1 tvg-id="AnandamTV3" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="State-wide",Anandam TV [RTMP]
-https://cors-proxy.cooks.fyi/rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
+rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="State-wide",Anandam Abi TV [RTMP]
-https://cors-proxy.cooks.fyi/rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
+rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
 #EXTINF:-1 tvg-id="JayaamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732251489_Jayaam%2520copy.png&w=1920&q=75" group-title="Unknown",Jayaam TV
 https://proxy.mydementiacompanion.com.au/http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RagamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736940221_SAVE_20250115_162418.jpg&w=1920&q=75" group-title="Ooty",Ragam TV [RTMP]
-https://cors-proxy.cooks.fyi/rtmp://stream.wsplcloud.com/live/ragamtv
+rtmp://stream.wsplcloud.com/live/ragamtv
 #EXTINF:-1 tvg-id="CSKTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733983239_csk%2520tv%2520png%2520logo%2520kanishq.png&w=1920&q=75" group-title="Dharmapuri",CSK TV
 https://proxy.mydementiacompanion.com.au/http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 #EXTINF:-1 tvg-id="HariTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
@@ -509,8 +509,5 @@ https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV4" group-title="Unknown",Sky TV
 https://uiptv.iptv.pics/hls/skytv/index.m3u8
-#EXTINF:-1 tvg-id="PanjamiTV" group-title="Unknown",Panjami TV
-https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
 #EXTINF:-1 tvg-id="SMaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758117813_stv%2520maxxxlogo%2520copy.png&w=1080&q=75" group-title="Unknown",S Max TV
 http://play.applelive.in/smaxtv/smaxtv.m3u8
-
