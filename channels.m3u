@@ -429,9 +429,9 @@ https://live.olidigital.in/timetv/timetv/index.m3u8
 http://maatv.phoenixcreations.online/maatv/maatv/index.m3u8
 #EXTINF:-1 tvg-id="SSTVNagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Nagercoil; Kanyakumari Dist.",SS TV Nagercoil
 https://server.sscloud7.in/live/sshd/playlist.m3u8
-#EXTINF:-1 tvg-id="PCVChannel" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812518.png" group-title="Chennai",PCV Channel
+#EXTINF:-1 tvg-id="PCVChannel" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757048.PNG" group-title="Chennai",PCV Channel
 https://stream.sscloud7.in/live/livepcv/index.m3u8
-#EXTINF:-1 tvg-id="JRMalarTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.PNG group-title="Alangulam; Tenkasi Dist.",JR Malar TV
+#EXTINF:-1 tvg-id="JRMalarTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.png" group-title="Alangulam; Tenkasi Dist.",JR Malar TV
 https://server.sscloud7.in/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="MPTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725124407.PNG" group-title="Unknown",MP TV
 https://stream.sscloud7.in/live/mptv/index.m3u8
@@ -519,3 +519,4 @@ https://gem.inet.moe/hls/thentamil.m3u8
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Unknown",Dharumai Adeenam TV
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
+
