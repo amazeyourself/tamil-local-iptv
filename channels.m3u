@@ -285,7 +285,7 @@ https://ipcloud.live/nilatv/nilatv/index.m3u8
 https://play.applelive.in/stv/stv.m3u8
 #EXTINF:-1 tvg-id="BossTelevision" tvg-logo="" group-title="Kanyakumari",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
-#EXTINF:-1 tvg-id="AasaiTV" tvg-logo="" group-title="Karur",Aasai TV
+#EXTINF:-1 tvg-id="AasaiTV" tvg-logo="https://i.imgur.com/5p42C3t.jpg" group-title="Karur",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
 #EXTINF:-1 tvg-id="RainbowTVGandarvakottai" tvg-logo="" group-title="Gandarvakottai; Thanjavur Dist.",Rainbow TV Gandarvakottai
 https://notvstream.in/rainbowtv/rainbowtv.m3u8
@@ -345,7 +345,7 @@ http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
 http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilStarTV" tvg-logo="https://yt3.googleusercontent.com/5jWU9n12RzHy-xHpVUbCAQEbqjJJ75nUsfvtHYA5Syg4XF6c2FwLcR3_I35Du_0mzU7edCS4wA=s900-c-k-c0x00ffffff-no-rj" group-title="Salem",Tamil Star TV
 http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SVTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750189892_sv%2520tv%2520logo%2520png%2520copy.png&w=1920&q=75" group-title="Unknown",SV TV
+#EXTINF:-1 tvg-id="SVTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750189892_sv%2520tv%2520logo%2520png%2520copy.png&w=1920&q=75" group-title="Chennai",SV TV
 http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386440_RASI%2520TV%2520logo%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
@@ -403,7 +403,7 @@ http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733334938_IMG-20241204-WA0141.jpg&w=1920&q=75" group-title="Coimbatore",K Channel [Not 24/7]
 http://brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746326505_iworldtv%2520logo1.png&w=1920&q=75" group-title="Unknown",IWorld TV [Not 24/7]
+#EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746326505_iworldtv%2520logo1.png&w=1920&q=75" group-title="Karur",IWorld TV [Not 24/7]
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTamilTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png&w=1920&q=75" group-title="Dindigul",Aadhavan Tamil TV [Not 24/7]
 http:/aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
@@ -529,4 +529,5 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
+
 
