@@ -17,7 +17,7 @@ https://live.skystream.in/live/no1tv/index.m3u8
 https://play.applelive.in/prtv/prtv.m3u8
 #EXTINF:-1 tvg-id="ThalapathyTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739547835_WhatsApp_Image_2025-02-14_at_8.57.35_PM-removebg-preview.png&w=1920&q=75" group-title="Unknown",Thalapathy TV
 https://play.applelive.in/thalapathytv/thalapathytv.m3u8
-#EXTINF:-1 tvg-id="RiyaTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/riya%20tv.png" group-title="Kanyakumari",Riya TV
+#EXTINF:-1 tvg-id="RiyaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1757780950_unnamed%2520(4).webp&w=1080&q=75" group-title="Kanyakumari",Riya TV
 https://play.applelive.in/riyatv/riyatv.m3u8
 #EXTINF:-1 tvg-id="NilaTVNellai"tvg-logo="https://play-lh.googleusercontent.com/BVXB5IAcSl02FcbLoYLdISNds5SwoeUhJ3oKgpkIWvYffybYh-Eu5lZFkx5HjNA2SLhW=w512-h960-rw"  group-title="Tirunelveli",Nila TV Nellai
 https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
@@ -275,7 +275,7 @@ https://notvstream.in/krishnatv/krishnatv.m3u8
 https://notvstream.in/anandamtv/anandamtv.m3u8
 #EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746534068_HI%2520TECH.png&w=1080&q=75" group-title="Kanchipuram",Hitech TV
 https://notvstream.in/hitechtv/hitechtv.m3u8
-#EXTINF:-1 tvg-id="OrangeTV" tvg-logo="https://play-lh.googleusercontent.com/7lMNvIBSNA7Mj-AJxazBd6brTP_e1y2j3vffiAf0zTUVeew-k-P5ICNlTiCDrIFgplOH=w512-h960-rw" group-title="Unknown",Orange TV
+#EXTINF:-1 tvg-id="OrangeTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733810867_ORANGE%2520TV.png&w=1080&q=75" group-title="Unknown",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
 #EXTINF:-1 tvg-id="LeoTV" tvg-logo="https://play-lh.googleusercontent.com/Q_nq06NXPL1xKE9GFxRq77sNLlwePoTqmcmPVdlJOV5yhwSIbLPGXe1xuI2veS-BTp0=w512-h960-rw" group-title="Kadainallur; Tenkasi Dist.",Leo TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
@@ -304,7 +304,7 @@ https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1 tvg-id="TembleTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748265127_ttv%2520logo%2520png.png&w=1920&q=75" group-title="Kanchipuram",Temble TV
 https://notvstream.in/tembletv/tembletv.m3u8
 #EXTINF:-1 tvg-id="BrightSimroseTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1744202967_WhatsApp%2520Image%25202025-04-09%2520at%25201.03.03%2520PM.jpeg&w=1920&q=75" group-title="Unknown",Bright Simrose TV
-https://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
+https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 #EXTINF:-1 tvg-id="MalathiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739610852_IMG-20250215-WA0068.jpg&w=1920&q=75" group-title="Unknown",Malathi TV
 https://ipcloud.live/malathitv/malathitv/index.m3u8
 #EXTINF:-1 tvg-id="SangamamTVErode" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733896875_IMG-20241210-WA0271.jpg&w=1080&q=75" group-title="Erode",Sangamam TV Erode
@@ -405,7 +405,7 @@ https://proxy.mydementiacompanion.com.au/http://visaka.7starcloud.com:1935/live/
 https://proxy.mydementiacompanion.com.au/http://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746326505_iworldtv%2520logo1.png&w=1920&q=75" group-title="Unknown",IWorld TV [Not 24/7]
 https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTamilTV" tvg-logo="https://play-lh.googleusercontent.com/qjv0DIClbsKztg8BGRBKf0Pnx53VegQKIyXivM4uoLfD1G35VcyVFgzHqbOZBM3USthp=w512-h960-rw" group-title="Dindigul",Aadhavan Tamil TV [Not 24/7]
+#EXTINF:-1 tvg-id="AadhavanTamilTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png&w=1920&q=75" group-title="Dindigul",Aadhavan Tamil TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http:/aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
 #EXTINF:-1 tvg-id="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE=w512-h960-rw" group-title="Unknown",Jothi Bala TV [Not 24/7]
 https://proxy.mydementiacompanion.com.au/http:/jothibalatv.phoenixcreations.online/jothibalatv/jothibalatv/index.m3u8
@@ -515,3 +515,7 @@ http://play.applelive.in/smaxtv/smaxtv.m3u8
 https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" group-title="Unknown",Thentamil TV
 https://gem.inet.moe/hls/thentamil.m3u8
+#EXTINF:-1 tvg-id="ShaliniTVThanjavur" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1730741877_uxsXR_hp_400x400-removebg-preview.png&w=1080&q=75" group-title="Thanjavur",Shalini TV Thanjavur [UNSTABLE]
+https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Unknown",Dharumai Adeenam TV
+https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
