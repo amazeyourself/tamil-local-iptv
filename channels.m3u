@@ -507,11 +507,11 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733809002_IMG-20241210-WA0097.jpg&w=1080&q=75" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-#EXTINF:-1 tvg-id="SkyTV4" group-title="Unknown",Sky TV
+#EXTINF:-1 tvg-id="SkyTVTCCL" group-title="TCCL platform",Sky TV (TCCL)
 https://uiptv.iptv.pics/hls/skytv/index.m3u8
 #EXTINF:-1 tvg-id="SMaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758117813_stv%2520maxxxlogo%2520copy.png&w=1080&q=75" group-title="Unknown",S Max TV
 http://play.applelive.in/smaxtv/smaxtv.m3u8
-#EXTINF:-1 tvg-id="PanjamiTV" group-title="Unknown",Panjami TV
+#EXTINF:-1 tvg-id="PanjamiTV" group-title="TCCL platform",Panjami TV
 https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" group-title="Unknown",Thentamil TV
 https://gem.inet.moe/hls/thentamil.m3u8
@@ -519,4 +519,13 @@ https://gem.inet.moe/hls/thentamil.m3u8
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Unknown",Dharumai Adeenam TV
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
-
+#EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://play-lh.googleusercontent.com/UFXVYSiGbmGp5GJsyFaBISVrKSE7LRL3LeWnKZ30xBU7IhCLanRB8EXD7u1PPLGVqA=w512-h960-rw" group-title="Unknown",Bharathi TV
+https://server.sscloud7.in/live/bharathitv/index.m3u8
+#EXTINF:-1 tvg-id="AjayTV" tvg-logo="https://play-lh.googleusercontent.com/TcfRdiYg5gGJWlIpc4l5nqA5-DbC8PIVGxnHzaRd4UyvDGDBmD1axLXjV4fA2ms-6YejgBemXBqCcQn-35cT=w512-h960-rw" group-title="Unknown",Ajay TV
+https://server.sscloud7.in/live/ajaytv/index.m3u8
+#EXTINF:-1 tvg-id="AyyaVaikuntarTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725981042.PNG" group-title="Unknown",Ayya Vaikuntar TV
+https://server.sscloud7.in/live/ayyatv/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTVTheni" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1735633652_IMG-20241231-WA0071.jpg&w=1920&q=75" group-title="Theni",Thendral TV Theni
+https://sscloud7.com/live/thendraltv/index.m3u8
+#EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
+http://server.mindspell.in/live/vinayagatv/index.m3u8
