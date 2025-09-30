@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="A2ATV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1732180191.jfif" group-title="Unknown",A2A TV
+https://live.sscloud7.in/live/a2atv/index.m3u8
 #EXTINF:-1 tvg-id="SuccesTVTamil" tvg-logo="" group-title="Unknown",Succes TV Tamil
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 #EXTINF:-1 tvg-id="BoobshTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743337212_1000035047-removebg-preview.png&w=1920&q=75" group-title="Unknown",Boobsh TV
@@ -437,8 +439,6 @@ https://stream.sscloud7.in/live/livepcv/index.m3u8
 https://server.sscloud7.in/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="MPTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725124407.PNG" group-title="Unknown",MP TV
 https://stream.sscloud7.in/live/mptv/index.m3u8
-#EXTINF:-1 tvg-id="A2ATV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1732180191.jfif" group-title="Unknown",A2A TV
-https://live.sscloud7.in/live/a2atv/index.m3u8
 #EXTINF:-1 tvg-id="JithTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Unknown",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Unknown",Sky TV
