@@ -135,6 +135,8 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
 #EXTINF:-1 tvg-id="SachinTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158345_sachin_00000%2520(1).png&w=1920&q=75" group-title="Sambavarvadakarai",Sachin TV
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
+#EXTINF:-1 tvg-id="SachinMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158383_Comp%25201_00075.png&w=1920&q=75" group-title="Sambavarvadakarai",Sachin Music [MPD]
+https://ipcloud.live/sachintv/musichd/index.mpd
 #EXTINF:-1 tvg-id="DhoniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158433_DHONI%2520TV%25202017%25205%2520copy%2520(2).png&w=1920&q=75" group-title="Sambavarvadakarai",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="AadvikTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158234_Aadvik%2520logo%25201_00000.png&w=1920&q=75" group-title="Sambavarvadakarai",Aadvik TV
@@ -531,3 +533,4 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
+
