@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PrimeTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744323.jpg" group-title="Unknown",Prime TV
+https://live.applelive.in/primetv/primetv/index.m3u8
+#EXTINF:-1 tvg-id="MPTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725124407.PNG" group-title="Unknown",MP TV
+https://stream.sscloud7.in/live/mptv/index.m3u8
+#EXTINF:-1 tvg-id="VedhaTV" group-title="Unknown",Vedha TV
+https://skystream.in/live/vedha6528/index.m3u8
+#EXTINF:-1 tvg-id="DeivaOli" group-title="Unknown",Deiva Oli
+https://stream.sscloud7.in/live/deivaoli/index.m3u8
+#EXTINF:-1 tvg-id="GMusic" group-title="Unknown",G Music
+https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
 #EXTINF:-1 tvg-id="Dtv" group-title="Coimbatore",Dtv
 https://stream.d6-pro.com/Dtv/live/index.m3u8
 #EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Vani TV
@@ -441,8 +451,6 @@ https://server.sscloud7.in/live/sshd/playlist.m3u8
 https://stream.sscloud7.in/live/livepcv/index.m3u8
 #EXTINF:-1 tvg-id="JRMalarTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.png" group-title="Alangulam; Tenkasi Dist.",JR Malar TV
 https://server.sscloud7.in/live/malartv/index.m3u8
-#EXTINF:-1 tvg-id="MPTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725124407.PNG" group-title="Unknown",MP TV
-https://stream.sscloud7.in/live/mptv/index.m3u8
 #EXTINF:-1 tvg-id="JithTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Unknown",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Unknown",Sky TV
@@ -451,8 +459,6 @@ https://sscloud7.com/live/skytv/index.m3u8
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744217.jpg" group-title="Unknown",V TV
 https://live.applelive.in/vtv/vtv/index.m3u8
-#EXTINF:-1 tvg-id="PrimeTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744323.jpg" group-title="Unknown",Prime TV
-https://live.applelive.in/primetv/primetv/index.m3u8
 #EXTINF:-1 tvg-id="ManiwayTV" group-title="Unknown",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 #EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757628.PNG" group-title="Unknown",Raghul TV
@@ -535,6 +541,7 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
+
 
 
 
