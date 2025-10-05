@@ -9,7 +9,7 @@ https://skystream.in/live/vedha6528/index.m3u8
 https://stream.sscloud7.in/live/deivaoli/index.m3u8
 #EXTINF:-1 tvg-id="GMusic" group-title="Unknown",G Music
 https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
-#EXTINF:-1 tvg-id="Dtv" group-title="Coimbatore",Dtv
+#EXTINF:-1 tvg-id="Dtv" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/dtv.png" group-title="Coimbatore",Dtv
 https://stream.d6-pro.com/Dtv/live/index.m3u8
 #EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Unknown",Vani TV
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
@@ -41,7 +41,7 @@ https://galaxyott.live/hls/ntv.m3u8
 https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 tvg-id="AnandhamTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Anandham-TV-logo_2000_X_1125_Transpharent.png" group-title="State-wide",Anandham TV
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
-#EXTINF:-1 tvg-id="SuryaTVTamil" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w512-h960-rw" group-title="Tiruvannamalai",Surya TV
+#EXTINF:-1 tvg-id="SuryaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732170490_WhatsApp_Image_2024-11-21_at_11.10.20_AM-removebg-preview%2520(2).png&w=1920&q=75" group-title="Tiruvannamalai",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 tvg-id="YETTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752314659_Y2.png&w=1920&q=75" group-title="State-wide",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
@@ -155,7 +155,7 @@ https://ipcloud.live/sachintv/dhonitv/index.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
 #EXTINF:-1 tvg-id="StrawberryTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798791_Logo_00341.png&w=1920&q=75" group-title="Sambavarvadakarai",Strawberry TV
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
-#EXTINF:-1 tvg-id="MinnalTV" tvg-logo="https://play-lh.googleusercontent.com/Y1OV8JEV3PXUe-l9HMt_PUcFg2mARFrlk3Jkz20mBKdzVz1oaRkbhSb5pBqcubDfuz2V=w512-h960-rw" group-title="Unknown",Minnal TV
+#EXTINF:-1 tvg-id="MinnalTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/minnal-tv.png?alt=media&token=d47021f9-26fb-457e-8b70-38cce4bbc672" group-title="Unknown",Minnal TV
 https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1 tvg-id="AkilamTV" tvg-logo="https://play-lh.googleusercontent.com/O2VYtHNRr69SaCKZ3NKYz4-JpCu7Va1tc7agAbpB-rdRa-PsKrwW-_VbZE3gLvDjew=w512-h960-rw" group-title="Thisayanvilail; Tirunelveli Dist.",Akilam TV
 https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
@@ -541,3 +541,4 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
+
