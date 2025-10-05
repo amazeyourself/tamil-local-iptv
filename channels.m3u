@@ -525,7 +525,7 @@ https://uiptv.iptv.pics/hls/skytv/index.m3u8
 http://play.applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1 tvg-id="PanjamiTV" group-title="TCCL platform",Panjami TV
 https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
-#EXTINF:-1 tvg-id="ThentamilTV" group-title="Unknown",Thentamil TV
+#EXTINF:-1 tvg-id="ThentamilTV" group-title="Other platform",Thentamil TV
 https://gem.inet.moe/hls/thentamil.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVThanjavur" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1730741877_uxsXR_hp_400x400-removebg-preview.png&w=1080&q=75" group-title="Thanjavur",Shalini TV Thanjavur [UNSTABLE]
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
@@ -541,8 +541,3 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
-
-
-
-
-
