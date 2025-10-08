@@ -549,6 +549,5 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="IzzathTV" tvg-logo="https://play-lh.googleusercontent.com/i6ayGB9xkokVYhImjd57dY34siZdEy9Eyfsz5gbWASEVVwM1IZ5JFzE8DrKwOz5avw" group-title="Unknown",Izzath TV
+https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
