@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="OliTV" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" group-title="Unknown",Oli TV
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="KumariTV" group-title="Unknown",Kumari TV
+https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 #EXTINF:-1 tvg-id="PrimeTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744323.jpg" group-title="Unknown",Prime TV
 https://live.applelive.in/primetv/primetv/index.m3u8
 #EXTINF:-1 tvg-id="MPTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725124407.PNG" group-title="Unknown",MP TV
@@ -439,8 +443,6 @@ http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
 http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
 #EXTINF:-1 tvg-id="ThirumalaiTVVadipatti" tvg-logo="" group-title="Vadipatti; Madurai Dist.",Thirumalai TV Vadipatti
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
-#EXTINF:-1 tvg-id="OliTV" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" group-title="Unknown",Oli TV
-https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV" tvg-logo="https://play-lh.googleusercontent.com/pGvPUIyZtW1-kPduEn593l_WAzeaLuEgl1oiT3-jXOPEPJ65zeeuCJQFVdsA0_fkb2Ss=w512-h960-rw" group-title="Unknown",Time TV
 https://live.olidigital.in/timetv/timetv/index.m3u8
 #EXTINF:-1 tvg-id="MaaTV" tvg-logo="" group-title="Unknown",Maa TV
@@ -541,4 +543,5 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Rajapalayam; Virudhunagar Dist.",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
+
 
