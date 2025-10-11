@@ -555,3 +555,5 @@ https://sscloud7.com/live/thendraltv/index.m3u8
 http://server.mindspell.in/live/vinayagatv/index.m3u8
 #EXTINF:-1 tvg-id="IzzathTV" tvg-logo="https://play-lh.googleusercontent.com/i6ayGB9xkokVYhImjd57dY34siZdEy9Eyfsz5gbWASEVVwM1IZ5JFzE8DrKwOz5avw" group-title="Unknown",Izzath TV
 https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
+#EXTINF:-1 tvg-id="EasonTV" group-title="Unknown",Eason TV
+https://amigofx.com:1936/easontv/easontv/playlist.m3u8
