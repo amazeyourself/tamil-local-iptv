@@ -561,3 +561,5 @@ https://senthurtv-hls.suriyantv.in/live/senthurtv/index.m3u8
 https://saran.phoenixcreations.online/thogaitv/thogaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CTN Conoor" group-title="Coonoor, Nilgiris Dist.",CTN Conoor
 https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
+#EXTINF:-1 tvg-id="SriVelavanTV" tvg-logo="https://play-lh.googleusercontent.com/LKdTyr22bRnfBLGZov_I0yIZ10bGBsXXiS4JniiUUyJzW6qjiW7P_bH9bK0zfMNfC9DcLcd_Q3BrCaoz91nzWg=w480-h960-rw" group-title="Unknown",Sri Velavan TV
+https://rtmp.applelive.in/srivelavantvultrahd/srivelavantvultrahd/index.m3u8
