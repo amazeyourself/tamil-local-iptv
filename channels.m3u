@@ -575,3 +575,15 @@ https://ipcloud.live/nellaitv/suriyatv/index.m3u8
 http://madhantv.phoenixcreations.online/madhantv/madhantv/index.m3u8
 #EXTINF:-1 tvg-id="VelanTV" group-title="Unknown",Velan TV
 http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
+#EXTINF:-1 tvg-id="KovaiTV" group-title="Coimbatore",Kovai TV
+https://account31.livebox.co.in/Kovaitvhls/live.m3u8
+#EXTINF:-1 tvg-id="EmperorTV" group-title="Unknown",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
+#EXTINF:-1 tvg-id="JayamTV" group-title="Unknown",Jayam TV
+https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8
+#EXTINF:-1 tvg-id="JayamTVNamakkal" group-title="Namakkal",Jayam TV Namakkal
+https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
+#EXTINF:-1 tvg-id="MCNTV" group-title="Unknown",MCN TV
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-id="STNTV" group-title="Unknown",STN TV
+https://play.applelive.in/stntv/stntv.m3u8
