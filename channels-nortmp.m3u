@@ -579,3 +579,5 @@ https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-id="STNTV" group-title="Unknown",STN TV
 https://play.applelive.in/stntv/stntv.m3u8
+#EXTINF:-1 tvg-id="EnthiranTV" group-title="Kanyakumari",Enthiran TV
+https://live.applelive.in/enthirantv/enthirantv/index.m3u8
