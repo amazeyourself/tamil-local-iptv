@@ -587,5 +587,7 @@ https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-id="STNTV" group-title="Unknown",STN TV
 https://play.applelive.in/stntv/stntv.m3u8
-#EXTINF:-1 tvg-id="EnthiranTV" group-title="Kanyakumari",Enthiran TV
+#EXTINF:-1 tvg-id="EnthiranTV" tvg-logo="https://play-lh.googleusercontent.com/epEjdtuFkTZxmirMjLmL75RB3qpTByhZ1rFGQvWrLV5Y5UjytOYJ_OUAz9PQExkFpqw=s512-rw" group-title="Kanyakumari",Enthiran TV
 https://live.applelive.in/enthirantv/enthirantv/index.m3u8
+#EXTINF:-1 tvg-id="AnbudanTV" tvg-logo="https://play-lh.googleusercontent.com/-lygOyPSa6o0v_RsThiA5Nf6XGN9I6mJATeY3E1xl80cAJSg48bFJabdKifjQPuqdulF=s512-rw" group-title="Unknown",Anbudan TV
+https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
