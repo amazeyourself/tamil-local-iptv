@@ -591,3 +591,5 @@ https://play.applelive.in/stntv/stntv.m3u8
 https://live.applelive.in/enthirantv/enthirantv/index.m3u8
 #EXTINF:-1 tvg-id="AnbudanTV" tvg-logo="https://play-lh.googleusercontent.com/-lygOyPSa6o0v_RsThiA5Nf6XGN9I6mJATeY3E1xl80cAJSg48bFJabdKifjQPuqdulF=s512-rw" group-title="Unknown",Anbudan TV
 https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
+#EXTINF:-1 tvg-id="ThillaiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1744705879_IMG-20250415-WA0134(1).jpg&w=1920&q=75" group-title="Cuddalore",Thillai TV
+https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
