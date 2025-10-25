@@ -595,3 +595,5 @@ https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
 https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
 #EXTINF:-1 tvg-id="MalligaiTV" group-title="Unknown",Malligai TV
 https://server.sscloud7.in/live/malligai/index.m3u8
+#EXTINF:-1 tvg-id="SSTV2" group-title="Unknown",SS TV
+https://mumbai-edge.smartplaytv.in/sstvTamil/index.m3u8
