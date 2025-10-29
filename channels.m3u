@@ -597,3 +597,5 @@ https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
 https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1 tvg-id="SSTV2" group-title="Unknown",SS TV
 https://mumbai-edge.smartplaytv.in/sstvTamil/index.m3u8
+#EXTINF:-1 tvg-id="BSCOld" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1761725256_WhatsApp%2520Image%25202025-10-28%2520at%25206.09.48%2520PM.jpeg&w=1920&q=75" group-title="Unknown",BSC Old
+https://stream.onecloudlive.in/bschd/live/index.m3u8
