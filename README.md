@@ -5,6 +5,7 @@ IPTV streams of local cable channels in Tamil Nadu.
 
 # Playlist
 `https://tinyurl.com/amaze-tamil-local-tv` (contains RTMP links)
+
 `https://tinyurl.com/amaze-tamil-local-tv-withproxy` (with HTTPS proxy, and no RTMP links)
 
 # How to use
