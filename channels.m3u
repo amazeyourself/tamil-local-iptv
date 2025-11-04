@@ -603,13 +603,13 @@ https://stream.onecloudlive.in/bschd/live/index.m3u8
 rtmp://rtmp.bmlive.net:1935/bms/anbutvhd
 #EXTINF:-1 tvg-id="ShaliniTVKanchipuram" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392678_IMG-20250109-WA0048.jpg&w=1080&q=75" group-title="Kanchipuram",Shalini TV Kanchipuram [RTMP]
 rtmp://103.78.164.62/static/SHALINITVHD
-#EXTINF:-1 tvg-id="MMTV2" group-title="Unknown",MM TV [RTMP]
+#EXTINF:-1 tvg-id="MMTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392713_IMG-20250109-WA0034.jpg&w=1920&q=75" group-title="Unknown",MM TV [RTMP]
 rtmp://103.78.164.62/static/MMTVHD
-#EXTINF:-1 tvg-id="MMClassic" group-title="Unknown",MM Classic [RTMP]
+#EXTINF:-1 tvg-id="MMClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736395960_WhatsApp%2520Image%25202025-01-09%2520at%25209.42.01%2520AM.jpeg&w=1920&q=75" group-title="Unknown",MM Classic [RTMP]
 rtmp://103.78.164.62/static/MMCLASSIC
-#EXTINF:-1 tvg-id="SSSTV" group-title="Unknown",SSS TV [RTMP]
+#EXTINF:-1 tvg-id="SSSTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392738_cf77d13b-c021-40e7-9596-ce3964e03fc9.png&w=1920&q=75" group-title="Unknown",SSS TV [RTMP]
 rtmp://103.78.164.62/static/SSSHD
-#EXTINF:-1 tvg-id="QTV" group-title="Unknown",Q TV [RTMP]
+#EXTINF:-1 tvg-id="QTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392772_IMG-20250109-WA0035.jpg&w=1920&q=75" group-title="Unknown",Q TV [RTMP]
 rtmp://103.78.164.62/static/QTVHD
 #EXTINF:-1 tvg-id="UdhayamTV2" group-title="Unknown",Udhayam TV
 https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
@@ -625,3 +625,5 @@ https://view.rcserver.in/tmp_hls24/meialai/index.m3u8
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
 #EXTINF:-1 tvg-id="Bass18TV" group-title="Unknown",Bass 18 TV
 http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
+#EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
+https://stream.onecloudlive.in/deltatv/deltatvhd/index.m3u8
