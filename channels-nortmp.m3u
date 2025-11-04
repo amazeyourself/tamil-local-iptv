@@ -605,3 +605,5 @@ https://view.rcserver.in/tmp_hls24/meialai/index.m3u8
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
 #EXTINF:-1 tvg-id="Bass18TV" group-title="Unknown",Bass 18 TV
 https://anywhere.pwisetthon.com/http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
+#EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
+https://stream.onecloudlive.in/deltatv/deltatvhd/index.m3u8
