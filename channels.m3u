@@ -611,8 +611,6 @@ rtmp://103.78.164.62/static/MMCLASSIC
 rtmp://103.78.164.62/static/SSSHD
 #EXTINF:-1 tvg-id="QTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392772_IMG-20250109-WA0035.jpg&w=1920&q=75" group-title="Unknown",Q TV [RTMP]
 rtmp://103.78.164.62/static/QTVHD
-#EXTINF:-1 tvg-id="UdhayamTV2" group-title="Unknown",Udhayam TV
-https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="RCMusic" group-title="Unknown",RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 #EXTINF:-1 tvg-id="KaalaiTV" group-title="Unknown",Kaalai TV
@@ -623,7 +621,7 @@ https://view.rcserver.in/tmp_hls23/index.m3u8
 https://view.rcserver.in/tmp_hls24/meialai/index.m3u8
 #EXTINF:-1 tvg-id="ChenTV" group-title="Unknown",Chen TV
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
-#EXTINF:-1 tvg-id="Bass18TV" group-title="Unknown",Bass 18 TV
+#EXTINF:-1 tvg-id="BassTV" group-title="Unknown",Bass TV
 http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
 https://stream.onecloudlive.in/deltatv/deltatvhd/index.m3u8
