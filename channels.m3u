@@ -625,3 +625,5 @@ https://view.apserver.in/tmp_hls16/chentv/index.m3u8
 http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
 https://stream.onecloudlive.in/deltatv/deltatvhd/index.m3u8
+#EXTINF:-1 tvg-id="JaiTV" tvg-logo="https://play-lh.googleusercontent.com/APcXUrNRsMykUbsTpJd32uF6VMRqvhVV_davBoS_pUR-HT55AXcJm8TDe1RFfx8X0w=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",Jai TV
+https://play.applelive.in/jaitv/jaitv.m3u8
