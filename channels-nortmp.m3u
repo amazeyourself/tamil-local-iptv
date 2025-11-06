@@ -597,11 +597,11 @@ https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 https://view.rcserver.in/tmp_hls22/index.m3u8
 #EXTINF:-1 tvg-id="SKTV2" group-title="Unknown",SK TV
 https://view.rcserver.in/tmp_hls23/index.m3u8
-#EXTINF:-1 tvg-id="Mei Alai" group-title="Unknown",Mei Alai
+#EXTINF:-1 tvg-id="MeiAlai" group-title="Unknown",Mei Alai
 https://view.rcserver.in/tmp_hls24/meialai/index.m3u8
 #EXTINF:-1 tvg-id="ChenTV" group-title="Unknown",Chen TV
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
-#EXTINF:-1 tvg-id="BassTV" group-title="Unknown",Bass TV
+#EXTINF:-1 tvg-id="BassTV" tvg-logo="https://play-lh.googleusercontent.com/x6njvZ3CWH4ZYi8T5vfRdrpB9CVy3FBUwow_ExUZ3BoMVXxxVoo_7V5xmTaJ1Q2FuE7K=w480-h960-rw" group-title="Unknown",Bass TV
 https://anywhere.pwisetthon.com/http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
 https://stream.onecloudlive.in/deltatv/deltatvhd/index.m3u8
