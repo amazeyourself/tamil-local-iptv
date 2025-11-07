@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="KCTV" tvg-logo="https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w480-h960-rw" group-title="Unknown",KC TV
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
-#EXTINF:-1 tvg-id="RagaTV" group-title="Unknown",Raga TV
+#EXTINF:-1 tvg-id="RagaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RagaTV.png" group-title="Unknown",Raga TV
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
 #EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Sankarankoil",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.m3u8
@@ -9,11 +9,11 @@ https://live1.sscloud7.com/live/omsakthitv/index.m3u8
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV" tvg-logo="https://play-lh.googleusercontent.com/pGvPUIyZtW1-kPduEn593l_WAzeaLuEgl1oiT3-jXOPEPJ65zeeuCJQFVdsA0_fkb2Ss=w512-h960-rw" group-title="Unknown",Time TV
 https://live.olidigital.in/timetv/timetv/index.m3u8
-#EXTINF:-1 tvg-id="MoonTV" group-title="Unknown",Moon TV
+#EXTINF:-1 tvg-id="MoonTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MoonTV.png" group-title="Unknown",Moon TV
 https://live.maxtn.in/moontv/moontv/index.m3u8
 #EXTINF:-1 tvg-id="NTNTV" tvg-logo="https://play-lh.googleusercontent.com/V4GL0XO3McjRFJeANzwgRZDjI3UPIEjhMtfq4L9oVthSJo1loNfvkBuoSYE8BdDLvfY=w512-h960-rw" group-title="Nagapattinam",NTN TV
 https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
-#EXTINF:-1 tvg-id="KumariTV" group-title="Unknown",Kumari TV
+#EXTINF:-1 tvg-id="KumariTV" tvg-logo="" group-title="Unknown",Kumari TV
 https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 #EXTINF:-1 tvg-id="SakthiTV" group-title="Unknown",Sakthi TV
 https://live.sscloud7.in/live/sakthitv/index.m3u8
@@ -631,4 +631,5 @@ https://play.applelive.in/jaitv/jaitv.m3u8
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-id="KingTVRanipet" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1740572567_1740209948_IMG-20250220-WA0130.jpg&w=1080&q=75" group-title="Ranipet",King TV Ranipet
 https://ipcloud.live/kingtv/kingtv/index.m3u8
+
 
