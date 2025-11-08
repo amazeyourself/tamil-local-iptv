@@ -471,7 +471,7 @@ https://sscloud7.com/live/skytv/index.m3u8
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744217.jpg" group-title="Unknown",V TV
 https://live.applelive.in/vtv/vtv/index.m3u8
-#EXTINF:-1 tvg-id="ManiwayTV" group-title="Unknown",Maniway TV
+#EXTINF:-1 tvg-id="ManiwayTV" tvg-logo="https://singamcloud.com/public/upload/logo/channel%20logo/mani.png" group-title="Unknown",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 #EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757628.PNG" group-title="Unknown",Raghul TV
 http://alk.sscloud7.in:1935/live/raghultv/index.m3u8
@@ -631,6 +631,7 @@ https://play.applelive.in/jaitv/jaitv.m3u8
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-id="KingTVRanipet" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1740572567_1740209948_IMG-20250220-WA0130.jpg&w=1080&q=75" group-title="Ranipet",King TV Ranipet
 https://ipcloud.live/kingtv/kingtv/index.m3u8
+
 
 
 
