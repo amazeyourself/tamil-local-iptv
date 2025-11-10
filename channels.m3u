@@ -614,13 +614,17 @@ rtmp://103.78.164.62/static/QTVHD
 #EXTINF:-1 tvg-id="RCMusic" group-title="Unknown",RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 #EXTINF:-1 tvg-id="KaalaiTV" group-title="Unknown",Kaalai TV
-https://view.rcserver.in/tmp_hls22/index.m3u8
+https://view.rcserver.in/tmp_hls22/kaalaitv/index.m3u8
 #EXTINF:-1 tvg-id="SKTV2" group-title="Unknown",SK TV
-https://view.rcserver.in/tmp_hls23/index.m3u8
+https://view.rcserver.in/tmp_hls23/sktv/index.m3u8
+#EXTINF:-1 tvg-id="SKMusic" group-title="Unknown",SK Music
+https://view.rcserver.in/tmp_hls26/skmusic/index.m3u8
 #EXTINF:-1 tvg-id="MeiAlai" group-title="Unknown",Mei Alai
 https://view.rcserver.in/tmp_hls24/meialai/index.m3u8
 #EXTINF:-1 tvg-id="ChenTV" group-title="Unknown",Chen TV
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
+#EXTINF:-1 tvg-id="ChenPlus" group-title="Unknown",Chen Plus
+https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
 #EXTINF:-1 tvg-id="BassTV" tvg-logo="https://play-lh.googleusercontent.com/x6njvZ3CWH4ZYi8T5vfRdrpB9CVy3FBUwow_ExUZ3BoMVXxxVoo_7V5xmTaJ1Q2FuE7K=w480-h960-rw" group-title="Unknown",Bass TV
 http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV" group-title="Unknown",Delta TV
@@ -633,3 +637,5 @@ https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 https://ipcloud.live/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762598647_IMG-20251108-WA0090.jpg&w=1920&q=75" group-title="Unknown",Yatra TV
 https://live.rojatv.cloud/yatra/tv/index.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Delta TV
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
