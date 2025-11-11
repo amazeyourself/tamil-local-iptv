@@ -65,6 +65,8 @@ https://galaxyott.live/hls/suryatv.m3u8
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="ACPTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108596_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-1.png&w=1920&q=75" group-title="Madurai",ACP TV Madurai
 https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
+#EXTINF:-1 tvg-id="ACPIsaiOli" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762800961_WhatsApp%2520Image%25202025-11-10%2520at%25202.03.57%2520PM.jpeg&w=1920&q=75" group-title="Madurai",ACP Isai Oli
+rtmp://103.87.105.51:1935/acpisaioli/acpisaioli?psk=123456
 #EXTINF:-1 tvg-id="A2ATV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1732180191.jfif" group-title="Unknown",A2A TV
 https://live.sscloud7.in/live/a2atv/index.m3u8
 #EXTINF:-1 tvg-id="SuccesTVTamil" tvg-logo="" group-title="Unknown",Succes TV Tamil
@@ -639,3 +641,4 @@ https://ipcloud.live/kingtv/kingtv/index.m3u8
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Delta TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
