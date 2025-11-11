@@ -135,8 +135,10 @@ https://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
 https://toptv.phoenixcreations.online/toptv/toptv/index.m3u8
 #EXTINF:-1 tvg-id="RKTV" tvg-logo="https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w512-h960-rw" group-title="Tenkasi",RK TV [Not 24/7]
 https://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
-#EXTINF:-1 tvg-id="SubinTV" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam; Tenkasi Dist.",Subin TV
+#EXTINF:-1 tvg-id="SubinTV" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam; Tenkasi Dist.",Subin TV (GalaxyOTT/Jio)
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTVCloud7" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam; Tenkasi Dist.",Subin TV (Cloud7)
+https://sscloud7.com/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SKTV" tvg-logo="https://play-lh.googleusercontent.com/YvCWbikxgiEBpjRZ-DRaLxBcJcZnb54MfWnTUMCbbDX37QWsx6ZsYFJTWnFlZ3Q3lPE=w512-h960-rw" group-title="Trichy",SK TV
 https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="MaranTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757327.PNG" group-title="Tenkasi",Maran TV
@@ -153,8 +155,10 @@ https://apis.avmediawork.in/tvhls/rocktv.m3u8
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 tvg-id="DharshanTV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Kanchipuram",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai; Tenkasi Dist.",Suriyan TV
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai; Tenkasi Dist.",Suriyan TV (GalaxyOTT/Jio)
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="SuriyanTVCloud7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai; Tenkasi Dist.",Suriyan TV (Cloud7)
+https://sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/udhayam-tv.jpg" group-title="Pochampalli; Krishnagiri Dist.",Udhayam TV
 https://ipcloud.live/udhayamtv/live/index.m3u8
 #EXTINF:-1 tvg-id="DeiveegaOliTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756316526_karthi%2520tv%2520002%2520copy.png&w=1920&q=75" group-title="Unknown",Deiveega Oli TV
@@ -641,3 +645,4 @@ https://ipcloud.live/kingtv/kingtv/index.m3u8
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
