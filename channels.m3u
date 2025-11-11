@@ -639,6 +639,5 @@ https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 https://ipcloud.live/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762598647_IMG-20251108-WA0090.jpg&w=1920&q=75" group-title="Unknown",Yatra TV
 https://live.rojatv.cloud/yatra/tv/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Delta TV
+#EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
-
