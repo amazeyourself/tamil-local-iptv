@@ -544,7 +544,7 @@ http://play.applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1 tvg-id="PanjamiTV" group-title="TCCL platform",Panjami TV
 https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" group-title="Other platform",Thentamil TV
-https://gem.inet.moe/hls/thentamil.m3u8
+https://gem.inet.moe/hls/thentamill.m3u8
 #EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Unknown",Dharumai Adeenam TV
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
 #EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://play-lh.googleusercontent.com/UFXVYSiGbmGp5GJsyFaBISVrKSE7LRL3LeWnKZ30xBU7IhCLanRB8EXD7u1PPLGVqA=w512-h960-rw" group-title="Unknown",Bharathi TV
@@ -645,4 +645,5 @@ https://ipcloud.live/kingtv/kingtv/index.m3u8
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
 
