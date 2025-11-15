@@ -623,3 +623,7 @@ https://ipcloud.live/kingtv/kingtv/index.m3u8
 https://live.rojatv.cloud/yatra/tv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV2" group-title="Unknown",Suriyan TV
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="NRSChannel" tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w512-h960-rw" group-title="Unknown",NRS Channel
+https://notvstream.in/nrstv/nrstv.m3u8
+#EXTINF:-1 tvg-id="TiruppurVoiceTV" tvg-logo="https://play-lh.googleusercontent.com/7WwJlJcxOrQDjY2eOb1GNpLYQ_JF6fboUUmIb3b2R9tcdA_ewkTP94uCKXnbOw8mhaMw=w512-h960-rw" group-title="Tiruppur",Tiruppur Voice TV
+https://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
