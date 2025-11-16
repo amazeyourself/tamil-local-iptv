@@ -459,8 +459,10 @@ https://server.sscloud7.in/live/sshd/playlist.m3u8
 https://stream.sscloud7.in/live/livepcv/index.m3u8
 #EXTINF:-1 tvg-id="JRMalarTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.png" group-title="Alangulam; Tenkasi Dist.",JR Malar TV
 https://server.sscloud7.in/live/malartv/index.m3u8
-#EXTINF:-1 tvg-id="JithTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Unknown",Jith TV
+#EXTINF:-1 tvg-id="JithTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Vasudevanallur; Tenkasi Dist.",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
+#EXTINF:-1 tvg-id="BhakthiTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Vasudevanallur; Tenkasi Dist.",Bhakthi TV
+https://live.sscloud7.in/live/bhakthitv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" group-title="Unknown",Sky TV
 https://sscloud7.com/live/skytv/index.m3u8
 #EXTINF:-1 tvg-id="BoysTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746641352_1746637562_boys_tv-removebg-preview.png&w=1080&q=75" group-title="Unknown",Boys TV
