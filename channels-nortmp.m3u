@@ -269,7 +269,7 @@ https://stream.sscloud7.in/live/vishiltv1/index.m3u8
 https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/durai%20tv-4k.png?alt=media&token=632d3193-0055-4c0f-85a0-d912660239c8" group-title="Alangulam; Tenkasi Dist.",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
-#EXTINF:-1 tvg-id="AkashTV" tvg-logo="" group-title="Chennai",Akash TV
+#EXTINF:-1 tvg-id="AkashTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/03/akash-tv-300x169.jpg" group-title="Chennai",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/apple%20tv.png" group-title="Nagercoil; Kanyakumari Dist.",Apple TV Nagercoil
 https://play.applelive.in/appletv/appletv.m3u8
@@ -323,7 +323,7 @@ https://ipcloud.live/leotv/leotvhd/index.m3u8
 https://ipcloud.live/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="STV" tvg-logo="https://play-lh.googleusercontent.com/uwF7AfKUUjdGpIpAThFLvtn8heCbxmN9D8ealDqjZ7yit0lLp3A9eIeQDtcn7rRL8uIQlMGZoz2j8EUtbBGgeA=w512-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",S TV
 https://play.applelive.in/stv/stv.m3u8
-#EXTINF:-1 tvg-id="BossTelevision" tvg-logo="" group-title="Kanyakumari",Boss Television
+#EXTINF:-1 tvg-id="BossTelevision" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/boss-300x169.jpg" group-title="Kanyakumari",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-id="AasaiTV" tvg-logo="https://i.imgur.com/5p42C3t.jpg" group-title="Karur",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
@@ -451,8 +451,8 @@ https://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
 https://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
 #EXTINF:-1 tvg-id="ThirumalaiTVVadipatti" tvg-logo="" group-title="Vadipatti; Madurai Dist.",Thirumalai TV Vadipatti
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
-#EXTINF:-1 tvg-id="MaaTV" tvg-logo="" group-title="Unknown",Maa TV
-https://maatv.phoenixcreations.online/maatv/maatv/index.m3u8
+#EXTINF:-1 tvg-id="MaaTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/maa-tv-300x169.jpg" group-title="Unknown",Maa TV
+https://live.singamcloud.in/maatv/maatv/index.m3u8
 #EXTINF:-1 tvg-id="SSTVNagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Nagercoil; Kanyakumari Dist.",SS TV Nagercoil
 https://server.sscloud7.in/live/sshd/playlist.m3u8
 #EXTINF:-1 tvg-id="PCVChannel" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757048.PNG" group-title="Chennai",PCV Channel
