@@ -629,3 +629,5 @@ https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 https://notvstream.in/nrstv/nrstv.m3u8
 #EXTINF:-1 tvg-id="TiruppurVoiceTV" tvg-logo="https://play-lh.googleusercontent.com/7WwJlJcxOrQDjY2eOb1GNpLYQ_JF6fboUUmIb3b2R9tcdA_ewkTP94uCKXnbOw8mhaMw=w512-h960-rw" group-title="Tiruppur",Tiruppur Voice TV
 https://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
+#EXTINF:-1 tvg-id="MayuriTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1736220913.jpeg" group-title="Unknown",Mayuri TV
+https://server.sscloud7.in/live/mayuritvtvl/index.m3u8
