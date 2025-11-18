@@ -191,7 +191,7 @@ https://view.apserver.in/tmp_hls6/thulirtv/index.m3u8
 https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748264819_thendral%2520tv%2520madurai.png&w=1920&q=75" group-title="Madurai",Thendral TV Madurai [Not 24/7]
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-#EXTINF:-1 tvg-id="NammaGobiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Gobichettipalayam, Erode Dist.",Namma Gobi TV
+#EXTINF:-1 tvg-id="NammaGobiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Gobichettipalayam; Erode Dist.",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="JeyamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1745584449_Jeyam%2520Logo%2520copy.png&w=1920&q=75" group-title="Madurai",Jeyam TV Madurai [Not 24/7]
 https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
@@ -235,7 +235,7 @@ https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
 https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="UrchagamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754484180_UTV%2520Still%2520Back.png&w=1080&q=75" group-title="Unknown",Urchagam TV
 https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
-#EXTINF:-1 tvg-id="KumaranTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752739119_WhatsApp%2520Image%25202025-07-17%2520at%252012.53.10%2520PM.jpeg&w=1080&q=75" group-title="Unknown",Kumaran TV
+#EXTINF:-1 tvg-id="KumaranTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752739119_WhatsApp%2520Image%25202025-07-17%2520at%252012.53.10%2520PM.jpeg&w=1080&q=75" group-title="Gobichettipalayam; Erode Dist.",Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTV" tvg-logo="https://i.imgur.com/kQK80gB.png" group-title="Unknown",Thendral TV
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
@@ -671,3 +671,4 @@ http://brightmeltech.in/ramyatv/ramyatv.m3u8
 http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",V TV
 https://play.applelive.in/vtv/vtv.m3u8
+
