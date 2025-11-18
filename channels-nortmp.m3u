@@ -633,8 +633,6 @@ https://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
 https://server.sscloud7.in/live/mayuritvtvl/index.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/03/gtv-kumbakonam-300x169.png" group-title="Kumbakonam",G TV
 https://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 tvg-id="WinVisionTV" group-title="Unknown",Win Vision TV
-https://play.applelive.in/winvisiontv/winvisiontv.m3u8
 #EXTINF:-1 tvg-id="SriVasanthTV" tvg-logo="https://play-lh.googleusercontent.com/RrIUDazd9z6EZaRewzOa9tjeJELR5qT2eJkukFRvRRIe1Odo4nJEjkguxwHVM1_SAty7=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",Sri Vasanth TV
 https://play.applelive.in/vasanthtv/vasanthtv.m3u8
 #EXTINF:-1 tvg-id="MDNTV" group-title="Unknown",MDN TV
