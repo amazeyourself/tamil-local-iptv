@@ -647,3 +647,5 @@ http://brightmeltech.in/gsjktv/gsjktv.m3u8
 http://brightmeltech.in/ramyatv/ramyatv.m3u8
 #EXTINF:-1 tvg-id="RajaTV" tvg-logo="https://play-lh.googleusercontent.com/xcG5fdJJaLOK7joPQDZJ0mvBO4cDZWkZtVf56LKMexlpgE4X0oH6VTRVoLcSPdxLWA=w480-h960-rw" group-title="Unknown",Raja TV
 http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",V TV
+https://play.applelive.in/vtv/vtv.m3u8
