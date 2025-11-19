@@ -647,3 +647,5 @@ http://brightmeltech.in/ramyatv/ramyatv.m3u8
 http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",V TV
 https://play.applelive.in/vtv/vtv.m3u8
+#EXTINF:-1 tvg-id="MaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1763551915_Max_00716.png&w=1080&q=75" group-title="Tenkasi",Max TV
+https://stream.onecloudlive.in/maxtv/maxtvtenkasi/index.m3u8
