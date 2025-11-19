@@ -171,8 +171,8 @@ https://play.applelive.in/shatv/shatv.m3u8
 https://view.apserver.in/tmp_hls12/bakthimanam/index.m3u8
 #EXTINF:-1 tvg-id="SachinTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158345_sachin_00000%2520(1).png&w=1920&q=75" group-title="Sambavarvadakarai",Sachin TV
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
-#EXTINF:-1 tvg-id="SachinMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158383_Comp%25201_00075.png&w=1920&q=75" group-title="Sambavarvadakarai",Sachin Music [MPD]
-https://ipcloud.live/sachintv/musichd/index.mpd
+#EXTINF:-1 tvg-id="SachinMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158383_Comp%25201_00075.png&w=1920&q=75" group-title="Sambavarvadakarai",Sachin Music
+https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1 tvg-id="DhoniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158433_DHONI%2520TV%25202017%25205%2520copy%2520(2).png&w=1920&q=75" group-title="Sambavarvadakarai",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="AadvikTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158234_Aadvik%2520logo%25201_00000.png&w=1920&q=75" group-title="Sambavarvadakarai",Aadvik TV
@@ -669,5 +669,6 @@ http://brightmeltech.in/ramyatv/ramyatv.m3u8
 http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw" group-title="Nagercoil; Kanyakumari Dist.",V TV
 https://play.applelive.in/vtv/vtv.m3u8
+
 
 
