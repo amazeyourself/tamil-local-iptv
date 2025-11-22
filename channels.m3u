@@ -499,7 +499,7 @@ http://server3.sscloud7.in:1935/stmtv/srithangamalaimurugantv/playlist.m3u8
 http://168.220.233.77:1935/kmmusic/kmmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="VelavanTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png" group-title="Unknown",Velavan TV
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
-#EXTINF:-1 tvg-id="SkyTV2" group-title="Unknown",Sky TV
+#EXTINF:-1 tvg-id="SkyTVKarur" group-title="Karur",Sky TV Karur
 https://view.rcserver.in/tmp_hls6/skytv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV2" group-title="Unknown",Udhayam TV
 https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
@@ -539,8 +539,6 @@ https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
 https://view.apserver.in/tmp_hls9/liketv/index.m3u8
 #EXTINF:-1 tvg-id="EverestTV" group-title="Unknown",Everest TV
 https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
-#EXTINF:-1 tvg-id="SkyTV3" group-title="Unknown",Sky TV
-https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733809002_IMG-20241210-WA0097.jpg&w=1080&q=75" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTVTCCL" group-title="TCCL platform",Sky TV (TCCL)
@@ -673,5 +671,9 @@ http://brightmeltech.in/rajatv/rajatv.m3u8
 https://play.applelive.in/vtv/vtv.m3u8
 #EXTINF:-1 tvg-id="MaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1763551915_Max_00716.png&w=1080&q=75" group-title="Tenkasi",Max TV
 https://stream.onecloudlive.in/maxtv/maxtvtenkasi/index.m3u8
-
-
+#EXTINF:-1 tvg-id="AarthiTV" tvg-logo="https://play-lh.googleusercontent.com/K4lcOJ00VUc3V-PTjXS-CGy4uVx5YmktXOl1RT33UsX5fvXfOu-ZhFCWBmd66UImc_Q=w480-h960-rw" group-title="Unknown",Aarthi TV
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="SkyTV2" tvg-logo="https://play-lh.googleusercontent.com/eMcTyIjUHgM010YOPPk2HquXyNMmdYVI5iDMMv17PNyndEOS61OAIXNf8ZTclcRR9_k=w832-h470-rw" group-title="Unknown",Sky TV
+http://198.144.149.206:8080/NOTV/SKYTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="KanchiTV" tvg-logo="https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=w480-h960-rw" group-title="Unknown",Kanchi TV
+http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
