@@ -677,4 +677,5 @@ http://198.144.149.206:8080/NOTV/SKYTV/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="YaalTV" group-title="Unknown",Yaal TV
 http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
-
+#EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1721757628.PNG" group-title="Alangulam; Tenkasi Dist.",Raghul TV
+http://alk.sscloud7.in/live/raghultv/index.m3u8
