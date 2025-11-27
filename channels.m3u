@@ -65,7 +65,7 @@ https://galaxyott.live/hls/suryatv.m3u8
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="ACPTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108596_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-1.png&w=1920&q=75" group-title="Madurai",ACP TV [RTMP]
 rtmp://103.87.105.51:1935/acphd/acphd?psk=123456
-#EXTINF:-1 tvg-id="ACPClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108596_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-1.png&w=1920&q=75" group-title="Madurai",ACP Classic [RTMP]
+#EXTINF:-1 tvg-id="ACPClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746108655_ACP%2520TV%2520LOGO%252026-Mar-2025%252014-57-40%2520(2)-2.png&w=1080&q=75" group-title="Madurai",ACP Classic [RTMP]
 rtmp://103.87.105.51:1935/acpclassic/acpclassic?psk=123456
 #EXTINF:-1 tvg-id="ACPIsaiOli" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1762800961_WhatsApp%2520Image%25202025-11-10%2520at%25202.03.57%2520PM.jpeg&w=1920&q=75" group-title="Madurai",ACP Isai Oli [RTMP]
 rtmp://103.87.105.51:1935/acpisaioli/acpisaioli?psk=123456
@@ -685,4 +685,5 @@ http://alk.sscloud7.in/live/raghultv/index.m3u8
 http://stream.ashokadigital.net/aonetv/aonetvhd/index.m3u8
 #EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/BHARATHI-TV.jpeg?alt=media&token=52a2f68b-6b1d-4fdb-86d8-176d0438c922" group-title="Madurai",Bharathi TV
 https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
+
 
