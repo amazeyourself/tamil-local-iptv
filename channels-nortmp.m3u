@@ -355,8 +355,8 @@ https://app.ashokadigital.net/sscn/sscn/index.m3u8
 https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
 #EXTINF:-1 tvg-id="VidiyalTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743757301_IMG-20250404-WA0100.jpg&w=1920&q=75" group-title="Unknown",Vidiyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
-#EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752584483_rtv%2520logo.png%25202.png&w=1920&q=75" group-title="Unknown",R TV
-https://live.olidigital.in/rtv/rtv/index.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752584483_rtv%2520logo.png%25202.png&w=1920&q=75" group-title="Tirupattur",R TV
+https://anywhere.pwisetthon.com/http://stream.ashokadigital.net/rtv/rtv/index.m3u8
 #EXTINF:-1 tvg-id="PothigaiThendral" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741353214_IMG-20250307-WA0131.jpg&w=1920&q=75" group-title="Unknown",Pothigai Thendral
 https://ipcloud.live/pothigai/thendral/index.m3u8
 #EXTINF:-1 tvg-id="AppleTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1747967607_APPLE%2520TV.jpeg&w=1920&q=75" group-title="Unknown",Apple TV
