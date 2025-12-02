@@ -687,7 +687,5 @@ http://alk.sscloud7.in/live/raghultv/index.m3u8
 http://stream.ashokadigital.net/aonetv/aonetvhd/index.m3u8
 #EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/BHARATHI-TV.jpeg?alt=media&token=52a2f68b-6b1d-4fdb-86d8-176d0438c922" group-title="Madurai",Bharathi TV
 https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="EesanTV" tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w480-h960-rw" group-title="Karur",Eesan TV
+https://live.singamcloud.in/eesantv/eesantv/index.m3u8
