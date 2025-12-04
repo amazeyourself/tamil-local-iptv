@@ -405,6 +405,9 @@ https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasiclassic/rasiclas
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
+#EXTINF:-1 tvg-id="AnandamTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="State-wide",Anandam TV
+#EXTVLCOPT:http-referrer=https://oxolive.com
+https://fucking-tv-ott.keralive.workers.dev/mumt02/ANANDAMTV/index.m3u8
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="State-wide",Anandam Abi TV
 #EXTVLCOPT:http-referrer=https://oxolive.com
 https://fucking-tv-ott.keralive.workers.dev/mumt02/ABITV/index.m3u8
