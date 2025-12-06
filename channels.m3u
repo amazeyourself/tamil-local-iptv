@@ -411,12 +411,15 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTV2" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="State-wide",Anandam TV
+#EXTINF:-1 tvg-id="AnandamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="Madurai",Anandam TV
 #EXTVLCOPT:http-referrer=https://oxolive.com
 https://fucking-tv-ott.keralive.workers.dev/mumt02/ANANDAMTV/index.m3u8
-#EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="State-wide",Anandam Abi TV
+#EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="Madurai",Anandam Abi TV
 #EXTVLCOPT:http-referrer=https://oxolive.com
 https://fucking-tv-ott.keralive.workers.dev/mumt02/ABITV/index.m3u8
+#EXTINF:-1 tvg-id="AnandamUTV" tvg-logo="" group-title="Madurai",Anandam UTV
+#EXTVLCOPT:http-referrer=https://oxolive.com
+https://fucking-tv-ott.keralive.workers.dev/mumt02/UTVANANDAM/index.m3u8
 #EXTINF:-1 tvg-id="JayaamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732251489_Jayaam%2520copy.png&w=1920&q=75" group-title="Unknown",Jayaam TV
 http://jayaam.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RagamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736940221_SAVE_20250115_162418.jpg&w=1920&q=75" group-title="Ooty",Ragam TV [RTMP]
@@ -691,5 +694,6 @@ http://stream.ashokadigital.net/aonetv/aonetvhd/index.m3u8
 https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
 #EXTINF:-1 tvg-id="EesanTV" tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w480-h960-rw" group-title="Karur",Eesan TV
 https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+
 
 
