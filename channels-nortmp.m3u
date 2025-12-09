@@ -676,3 +676,7 @@ https://anywhere.pwisetthon.com/http://stream.ashokadigital.net/aonetv/aonetvhd/
 https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
 #EXTINF:-1 tvg-id="EesanTV" tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w480-h960-rw" group-title="Karur",Eesan TV
 https://live.singamcloud.in/eesantv/eesantv/index.m3u8
+#EXTINF:-1 tvg-id="VajramTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1765194225_202%2520vajram%2520tv%2520new%2520png.png&w=1920&q=75" group-title="Unknown",Vajram TV
+https://app.ashokadigital.net/app/68b001a0/index.m3u8
+#EXTINF:-1 tvg-id="VajraTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1765194315_203%2520VAJRA%2520NEW%2520LOGO%25202.png&w=1920&q=75" group-title="Unknown",Vajra TV
+https://app.ashokadigital.net/app/ad04b02c/index.m3u8
