@@ -73,8 +73,8 @@ https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1 tvg-id="PunithanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741094476_IMG-20250228-WA0079-removebg-preview.png&w=1920&q=75" group-title="Unknown",Punithan TV
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" group-title="Coimbatore",Asoka TV [Not 24/7]
-https://ipcloud.live/asokatv/asokahd/index.m3u8
+#EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" group-title="Coimbatore",Asoka TV
+https://app.ashokadigital.net/app/cc860669/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" tvg-logo="https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A=w512-h960-rw" group-title="Unknown",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-id="PRTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752245098_PR%2520TV%2520LOGO%2520PNG.png&w=1920&q=75" group-title="Nagercoil; Kanyakumari Dist.",PR TV
@@ -392,26 +392,31 @@ https://anywhere.pwisetthon.com/http://acv.7starcloud.com:1935/tamilstar/tv/play
 #EXTINF:-1 tvg-id="SVTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750189892_sv%2520tv%2520logo%2520png%2520copy.png&w=1920&q=75" group-title="Chennai",SV TV
 https://anywhere.pwisetthon.com/http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
 #EXTINF:-1 tvg-id="RasiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386440_RASI%2520TV%2520logo%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi TV
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasitvhd/index.mpd
 #EXTINF:-1 tvg-id="RasiTamil" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386498_RASI%2520TAMIL%2520%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Tamil
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasitamilhd/index.mpd
 #EXTINF:-1 tvg-id="RasiMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386556_RASI%2520MOVIES%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Movies
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasimovieshd/index.mpd
 #EXTINF:-1 tvg-id="RasiMusic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386594_RASI%2520MUSIC%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Music
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasimusichd/index.mpd
 #EXTINF:-1 tvg-id="RasiHollywood" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386628_Rasi%2520Hollywood.png&w=1920&q=75" group-title="State-wide",Rasi Hollywood
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 #EXTINF:-1 tvg-id="RasiComedy" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386692_Rasi%2520Comedy%2520copy.png&w=1920&q=75" group-title="State-wide",Rasi Comedy
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1 tvg-id="RasiClassic" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386659_Rasi%2520Classic%2520HD-2%2520(1).png&w=1920&q=75https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386594_RASI%2520MUSIC%2520LOGO%2520HD.png&w=1920&q=75" group-title="State-wide",Rasi Classic
-https://anywhere.pwisetthon.com/http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasiclassichd/index.mpd
+#EXTINF:-1 tvg-id="RasiCinema" group-title="State-wide",Rasi Cinema
+https://rasinetworks.in/live/rasicinemahd/index.mpd
+#EXTINF:-1 tvg-id="RasiCinemax" group-title="State-wide",Rasi Cinemax
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+#EXTINF:-1 tvg-id="RasiLifestyle" group-title="State-wide",Rasi Lifestyle
+https://rasinetworks.in/live/rasilifestylehd/index.mpd
 #EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
 #EXTINF:-1 tvg-id="AnandamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="Madurai",Anandam TV
-#EXTVLCOPT:http-referrer=https://oxolive.com
-https://fucking-tv-ott.keralive.workers.dev/mumt02/ANANDAMTV/index.m3u8
+https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="Madurai",Anandam Abi TV
 #EXTVLCOPT:http-referrer=https://oxolive.com
 https://fucking-tv-ott.keralive.workers.dev/mumt02/ABITV/index.m3u8
@@ -420,6 +425,8 @@ https://fucking-tv-ott.keralive.workers.dev/mumt02/ABITV/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt02/UTVANANDAM/index.m3u8
 #EXTINF:-1 tvg-id="JayaamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732251489_Jayaam%2520copy.png&w=1920&q=75" group-title="Unknown",Jayaam TV
 https://app.ashokadigital.net/app/67a779e9/index.m3u8
+#EXTINF:-1 tvg-id="RagamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736940221_SAVE_20250115_162418.jpg&w=1920&q=75" group-title="Ooty",Ragam TV
+https://app.ashokadigital.net/app/408a1120/index.m3u8
 #EXTINF:-1 tvg-id="CSKTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733983239_csk%2520tv%2520png%2520logo%2520kanishq.png&w=1920&q=75" group-title="Dharmapuri",CSK TV
 https://anywhere.pwisetthon.com/http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
 #EXTINF:-1 tvg-id="HariTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754982558_f90dff80-1533-4884-906a-de6f24041e53-removebg-preview.png&w=1920&q=75" group-title="Pochampalli; Krishnagiri Dist.",Hari TV
@@ -507,7 +514,7 @@ https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVKarur" tvg-logo="https://play-lh.googleusercontent.com/c6mTAt5hkqZtmfRu_xJiZLY8kTGEcSC2Z2bDZuhYbRvfRrFYZsMCQX_qF8GJEd4KA2At=w512-h960-rw" group-title="Karur",Jayam TV Karur
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
 #EXTINF:-1 tvg-id="JeyasubbuTV" group-title="Unknown",Jeyasubbu TV
-https://view.rcserver.in/tmp_hls13/jeyasubbumovies/index.m3u8
+https://view.rcserver.in/tmp_hls28/jeyasubbumovies/index.m3u8
 #EXTINF:-1 tvg-id="TamilnesanTV" group-title="Unknown",Tamilnesan TV
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
 #EXTINF:-1 tvg-id="SentamilTV" group-title="Unknown",Sentamil TV
@@ -577,7 +584,7 @@ https://rtmp.applelive.in/srivelavantvultrahd/srivelavantvultrahd/index.m3u8
 #EXTINF:-1 tvg-id="AshokaChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732631212_ashoka%25202%2520logo.png&w=1080&q=75" group-title="Salem",Ashoka Channel
 https://anywhere.pwisetthon.com/http://ashokatv.stream.ashokadigital.net/ashokaslm/ashokatv/index.m3u8
 #EXTINF:-1 tvg-id="CuddaloreVoiceTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754494620_Ver%25202.0_04.png&w=1080&q=75" group-title="Cuddalore",Cuddalore Voice TV
-https://anywhere.pwisetthon.comhttp://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
+https://app.ashokadigital.net/app/85b741d1/index.m3u8
 #EXTINF:-1 tvg-id="IrattaipathaiTV" group-title="Unknown",Irattaipaathai TV
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTINF:-1 tvg-id="MSMathanTV" group-title="Unknown",MS Mathan TV
@@ -608,7 +615,9 @@ https://server.sscloud7.in/live/malligai/index.m3u8
 https://mumbai-edge.smartplaytv.in/sstvTamil/index.m3u8
 #EXTINF:-1 tvg-id="BSCOld" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1761725256_WhatsApp%2520Image%25202025-10-28%2520at%25206.09.48%2520PM.jpeg&w=1920&q=75" group-title="Unknown",BSC Old
 https://stream.onecloudlive.in/bschd/live/index.m3u8
-#EXTINF:-1 tvg-id="RCMusic" group-title="Unknown",RC Music
+#EXTINF:-1 tvg-id="ShaliniTVKanchipuram" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736392678_IMG-20250109-WA0048.jpg&w=1080&q=75" group-title="Kanchipuram",Shalini TV Kanchipuram
+https://app.ashokadigital.net/app/9f53ea36/index.m3u8
+#EXTINF:-1 tvg-id="RCMusic" group-title="Karur",RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 #EXTINF:-1 tvg-id="KaalaiTV" group-title="Unknown",Kaalai TV
 https://view.rcserver.in/tmp_hls22/kaalaitv/index.m3u8
@@ -671,7 +680,7 @@ https://anywhere.pwisetthon.com/http://198.144.149.206:8080/NOTV/YAALTV/index.m3
 #EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1721757628.PNG" group-title="Alangulam; Tenkasi Dist.",Raghul TV
 https://anywhere.pwisetthon.com/http://alk.sscloud7.in/live/raghultv/index.m3u8
 #EXTINF:-1 tvg-id="A1TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1763730258_132%2520.%2520A1%2520TV.png&w=1920&q=75" group-title="Unknown",A1 TV
-https://anywhere.pwisetthon.com/http://stream.ashokadigital.net/aonetv/aonetvhd/index.m3u8
+https://app.ashokadigital.net/app/7fff5003/index.m3u8
 #EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/BHARATHI-TV.jpeg?alt=media&token=52a2f68b-6b1d-4fdb-86d8-176d0438c922" group-title="Madurai",Bharathi TV
 https://stream.onecloudlive.in/karnan/bharathitv/index.m3u8
 #EXTINF:-1 tvg-id="EesanTV" tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q64K34s9EKzrjgxTHdp5Li7HsmRE3dG7af=w480-h960-rw" group-title="Karur",Eesan TV
@@ -682,3 +691,9 @@ https://app.ashokadigital.net/app/68b001a0/index.m3u8
 https://app.ashokadigital.net/app/ad04b02c/index.m3u8
 #EXTINF:-1 tvg-id="CITIChannel" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png&w=1920&q=75" group-title="Unknown",Citi Channel
 https://app.ashokadigital.net/cititv/cititvhd/index.m3u8
+#EXTINF:-1 tvg-id="VMuziq" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1765724593_IMG-20251214-WA0210.png&w=1080&q=75" group-title="Unknown",V Muziq
+https://app.ashokadigital.net/vmusic/vmusic/index.m3u8
+#EXTINF:-1 tvg-id="UdhayamTV3" group-title="Unknown",Udhayam TV
+https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
+#EXTINF:-1 tvg-id="AzhagiTV" group-title="Unknown",Azhagi TV
+https://view.rcserver.in/tmp_hls25/azhagitv/index.m3u8
