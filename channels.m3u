@@ -713,3 +713,5 @@ https://app.ashokadigital.net/vmusic/vmusic/index.m3u8
 https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
 #EXTINF:-1 tvg-id="AzhagiTV" group-title="Unknown",Azhagi TV
 https://view.rcserver.in/tmp_hls25/azhagitv/index.m3u8
+#EXTINF:-1 tvg-id="PolimerChannel" tvg-logo="https://play-lh.googleusercontent.com/DiZsLeRIoky2i4qkkR36SF7R5MR_fwb0Hl41U3wAlVZsi1wKMBxbK3fzvln8YUQrmbkV=w512-h960-rw" group-title="Salem",Polimer Channel
+http://media.7starcloud.com:1935/polimer/live/playlist.m3u8
