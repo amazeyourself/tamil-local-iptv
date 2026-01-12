@@ -371,6 +371,8 @@ https://cloudstream4k.com/velantv/bsk/index.m3u8
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="JRPTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739251156_JRP%2520.png&w=1920&q=75" group-title="Unknown",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
+#EXTINF:-1 tvg-id="BalaTV" tvg-logo="https://play-lh.googleusercontent.com/59vyKG300-B1Mjz0mhXhiecDosmM0wWC2ROKEobJxfdVjfWqXzM6mMiSBtBrVfN2tCE=w480-h960-rw" group-title="Unknown",Bala TV
+https://ipcloud.live/jrptv/bala/index.m3u8
 #EXTINF:-1 tvg-id="AdhiyamaanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732121692_White%2520Logo%2520copy.png&w=1920&q=75" group-title="Unknown",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 #EXTINF:-1 tvg-id="CityTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCITY-TV-HD.png?alt=media&token=1e259b6a-23ce-44a3-9fbe-b6535a234bac" group-title="Kanchipuram",City TV
