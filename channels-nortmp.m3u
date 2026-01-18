@@ -543,14 +543,8 @@ https://view.apserver.in/tmp_hls9/liketv/index.m3u8
 https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733809002_IMG-20241210-WA0097.jpg&w=1080&q=75" group-title="Unknown",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-#EXTINF:-1 tvg-id="SkyTVTCCL" group-title="TCCL platform",Sky TV (TCCL)
-https://uiptv.iptv.pics/hls/skytv/index.m3u8
 #EXTINF:-1 tvg-id="SMaxTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758117813_stv%2520maxxxlogo%2520copy.png&w=1080&q=75" group-title="Nagercoil;Kanyakumari",S Max TV
 https://anywhere.pwisetthon.com/http://play.applelive.in/smaxtv/smaxtv.m3u8
-#EXTINF:-1 tvg-id="PanjamiTV" group-title="TCCL platform",Panjami TV
-https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
-#EXTINF:-1 tvg-id="ThentamilTV" group-title="Other platform",Thentamil TV
-https://gem.inet.moe/hls/thentamill.m3u8
 #EXTINF:-1 tvg-id="TaitalTV" tvg-logo="https://yt3.googleusercontent.com/48AlJqoP3u8C-B5G---PDt584sDFYqixwpHN9FSEYS_BWWy_ppnvvAzNeSMCFfWOGtXRbJX7AQ=s900-c-k-c0x00ffffff-no-rj" group-title="Unknown",Taital TV
 https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 #EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Unknown",Dharumai Adeenam TV
