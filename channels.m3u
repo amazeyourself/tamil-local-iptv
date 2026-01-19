@@ -837,3 +837,5 @@ https://iptvhls.inet.moe/hls/newchannel.m3u8
 https://ytv.iptv.pics/hls/cross.m3u8
 #EXTINF:-1 tvg-id="GMax" tvg-logo="" group-title="Unknown",G Max
 https://play.applelive.in/gcv/gcv.m3u8
+#EXTINF:-1 tvg-id="JeyamTelevision" tvg-logo="https://jeyamtv.in/wp-content/uploads/2020/01/jeyam-tv-logo-e1581244005299.png" group-title="Christian;Unknown",Jeyam Television
+https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
