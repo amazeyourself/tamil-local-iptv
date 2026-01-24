@@ -413,11 +413,11 @@ https://rasinetworks.in/live/rasicinemahd/index.mpd
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
 #EXTINF:-1 tvg-id="RasiLifestyle" group-title="State-wide",Rasi Lifestyle
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
-#EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV
+#EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" group-title="Unknown",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
-#EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Unknown",Santhiya TV JKM
+#EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" group-title="Unknown",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746452472_lo.png&w=1920&q=75" group-title="Madurai",Anandam TV
+#EXTINF:-1 tvg-id="AnandamTVMadurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746452472_lo.png" group-title="Madurai",Anandam TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="Madurai",Anandam Abi TV
 https://mumt02.tangotv.in/ABITV/index.m3u8
@@ -837,3 +837,4 @@ https://play.applelive.in/gcv/gcv.m3u8
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 #EXTINF:-1 tvg-id="PCNChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" group-title="Unknown",PCN Channel
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
