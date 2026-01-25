@@ -773,7 +773,7 @@ https://ipcloud.live/solaitv/solaihd/index.m3u8
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-id="MallaiTV" group-title="Unknown" tvg-logo="https://i.ibb.co/QvTHJWhy/1000136573.jpg",Mallai TV
 https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
-#EXTINF:-1 tvg-id="MMTV" tvg-logo="http://tnm3u.live/icon/tamil/local/mmtv.png" group-title="Unknown",MM TV
+#EXTINF:-1 tvg-id="MMTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMM-TV.png?alt=media&token=ccb7a8dd-b2ac-4498-9e92-67271192e6b9" group-title="Unknown",MM TV
 https://ipcloud.live/mmtv/mmtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SRMusix" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240625_0713451452390300174130287.png" group-title="Unknown",SR Musix
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
@@ -837,3 +837,4 @@ https://play.applelive.in/gcv/gcv.m3u8
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 #EXTINF:-1 tvg-id="PCNChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" group-title="Unknown",PCN Channel
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
