@@ -15,8 +15,8 @@ https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 tvg-id="SubinTV" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam;Tenkasi",Subin TV (GalaxyOTT/Jio)
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 tvg-id="SubinTVCloud7" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam;Tenkasi",Subin TV (Cloud7)
-https://sscloud7.com/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SubinTVPhoenix" tvg-logo="https://subintv.in/SUBINLOGO.png" group-title="Alangulam;Tenkasi",Subin TV (Phoenix)
+http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8
 #EXTINF:-1 tvg-id="DharsanTV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Kanchipuram",Dharsan TV
 https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Surandai;Tenkasi",Suriyan TV (GalaxyOTT/Jio)
@@ -837,5 +837,6 @@ https://play.applelive.in/gcv/gcv.m3u8
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 #EXTINF:-1 tvg-id="PCNChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" group-title="Unknown",PCN Channel
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
+
 
 
