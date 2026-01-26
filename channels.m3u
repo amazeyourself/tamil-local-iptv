@@ -683,7 +683,9 @@ https://app.ashokadigital.net/app/68b001a0/index.m3u8
 https://app.ashokadigital.net/app/ad04b02c/index.m3u8
 #EXTINF:-1 tvg-id="CITIChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Karnataka",Citi Channel
 https://app.ashokadigital.net/cititv/cititvhd/index.m3u8
-#EXTINF:-1 tvg-id="VMuziq" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765724593_IMG-20251214-WA0210.png" group-title="Music;Unknown",V Muziq
+#EXTINF:-1 tvg-id="VTamizh" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765724593_IMG-20251214-WA0210.png" group-title="Music;Unknown",V Tamizh
+https://app.ashokadigital.net/app/89c09acf/index.m3u8
+#EXTINF:-1 tvg-id="VMuziq" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png" group-title="Music;Unknown",V Muziq
 https://app.ashokadigital.net/vmusic/vmusic/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTV3" group-title="Unknown",Udhayam TV
 https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
@@ -921,3 +923,5 @@ http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/index.m3u8
 http://mmtv.phoenixcreations.online/mmtv/mm/playlist.m3u8
 #EXTINF:-1 tvg-id="KirubaiGoodnewsTV" tvg-logo="https://play-lh.googleusercontent.com/LfRXaqN5celAnHn_8Y8bQeypCIzpVhIiiUwOVYeblqe1e_F6ClEArPl61L-pbpvV-fHqFePGke8-QANxurinvw=w512-h960-rw" group-title="Christian",Kirubai Goodnews TV
 http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
+#EXTINF:-1 tvg-id="JayamTV3" group-title="Unknown",Jayam TV
+https://app.ashokadigital.net/app/db285ebc/index.m3u8
