@@ -793,8 +793,10 @@ https://play.applelive.in/crstv/crstv.m3u8
 https://play.applelive.in/joygoodnewstv/joygoodnewstv.m3u8
 #EXTINF:-1 tvg-id="NanjilNathamTV" tvg-logo="https://tamiltvchannels.com/img/devotional/Nanjilnatham%20TV.png" group-title="Christian;Unknown",Nanjil Natham TV
 https://play.applelive.in/hls/nanjilnathamtv.m3u8
-#EXTINF:-1 tvg-id="VACTV" tvg-logo="" group-title="Christian;Unknown",VAC TV
+#EXTINF:-1 tvg-id="ShammahTV" tvg-logo="https://tamiltvchannels.com/img/devotional/Shammah TV.png" group-title="Christian;Nagercoil;Kanyakumari",Shammah TV
 https://play.applelive.in/shammahtv/shammahtv.m3u8
+#EXTINF:-1 tvg-id="VACTV" tvg-logo="" group-title="Christian;Nagercoil;Kanyakumari",VAC TV
+https://play.applelive.in/mariyamathatv/mariyamathatv.m3u8
 #EXTINF:-1 tvg-id="JoyGoodnewsTV" tvg-logo="https://tamiltvchannels.com/img/devotional/Joygoodnews%20TV.png" group-title="Christian;Unknown",Joy Goodnews TV
 https://play.applelive.in/mariyamathatv/mariyamathatv.m3u8
 #EXTINF:-1 tvg-id="DevaTV" tvg-logo="https://tamiltvchannels.com/img/devotional/Deva TV HD.png" group-title="Christian;Thuckalay;Kanyakumari",Deva TV
@@ -925,3 +927,4 @@ http://mmtv.phoenixcreations.online/mmtv/mm/playlist.m3u8
 http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVAlangulam" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayamTVAlangulam.png" group-title="Alangulam;Tenkasi",Jayam TV Alangulam
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
+
