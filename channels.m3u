@@ -881,9 +881,9 @@ https://play.applelive.in/penguinhd/penguinhd.m3u8
 http://punnagaidesamtv.phoenixcreations.online/punnagaidesamtv/punnagaidesamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AyyaAgilathirattuTV" tvg-logo="https://i.ibb.co/v6FzN61r/1000144432.png" group-title="Unknown",Ayya Agilathirattu TV
 http://alk.sscloud7.in/live/ayyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="OneMovies" tvg-logo="" group-title="State-wide", One Movies
+#EXTINF:-1 tvg-id="OneMovies" tvg-logo="" group-title="State-wide",One Movies
 https://stream.rojatv.cloud/one/movies/index.m3u8
-#EXTINF:-1 tvg-id="OneHollywood" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_1126324313884021657110601.png" group-title="State-wide", One Hollywood
+#EXTINF:-1 tvg-id="OneHollywood" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_1126324313884021657110601.png" group-title="State-wide",One Hollywood
 https://stream.rojatv.cloud/one/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="AnalaiExpress" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png" group-title="Unknown",Analai Express
 http://198.144.149.206:8080/ANALAI_MOVIE/index.m3u8?token=GTR
@@ -905,3 +905,4 @@ https://play.applelive.in/royaltv/royaltv.m3u8
 https://play.applelive.in/holylandtv/holylandtv.m3u8
 #EXTINF:-1 tvg-id="AyyaTV" tvg-logo="" group-title="Nagercoil;Kanyakumari",Ayya TV
 https://play.applelive.in/ayyatv/ayyatv.m3u8
+
