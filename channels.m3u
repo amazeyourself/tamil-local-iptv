@@ -426,7 +426,7 @@ https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="" group-title="Madurai",Anandam Abi TV
 https://mumt02.tangotv.in/ABITV/index.m3u8
 #EXTINF:-1 tvg-id="AnandamUTV" tvg-logo="" group-title="Madurai",Anandam UTV
-https://mumt03.tangotv.in/UTVANANDAM/index.m3u8
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
 #EXTINF:-1 tvg-id="JayaamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732251489_Jayaam%20copy.png" group-title="Unknown",Jayaam TV
 https://app.ashokadigital.net/app/67a779e9/index.m3u8
 #EXTINF:-1 tvg-id="RagamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736940221_SAVE_20250115_162418.jpg" group-title="Ooty",Ragam TV
@@ -499,8 +499,6 @@ https://rtmp.applelive.in/boystv/boystv/index.m3u8
 https://live.applelive.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="ManiwayTV" tvg-logo="https://singamcloud.com/public/upload/logo/channel%20logo/mani.png" group-title="Unknown",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
-#EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757628.PNG" group-title="Unknown",Raghul TV
-http://alk.sscloud7.in:1935/live/raghultv/index.m3u8
 #EXTINF:-1 tvg-id="KingTVAlangulam" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.PNG" group-title="Alangulam;Tenkasi",King TV Alangulam
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="DeviTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" group-title="Rajapalayam",Devi TV
@@ -905,6 +903,7 @@ https://play.applelive.in/royaltv/royaltv.m3u8
 https://play.applelive.in/holylandtv/holylandtv.m3u8
 #EXTINF:-1 tvg-id="AyyaTV" tvg-logo="" group-title="Nagercoil;Kanyakumari",Ayya TV
 https://play.applelive.in/ayyatv/ayyatv.m3u8
+
 
 
 
