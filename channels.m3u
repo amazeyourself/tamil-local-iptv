@@ -671,8 +671,6 @@ http://198.144.149.206:8080/NOTV/SKYTV/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="YaalTV" group-title="Unknown",Yaal TV
 http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="RaghulTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1721757628.PNG" group-title="Alangulam;Tenkasi",Raghul TV
-http://alk.sscloud7.in/live/raghultv/index.m3u8
 #EXTINF:-1 tvg-id="A1TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1763730258_132%20.%20A1%20TV.png" group-title="Unknown",A1 TV
 https://app.ashokadigital.net/app/7fff5003/index.m3u8
 #EXTINF:-1 tvg-id="BharathiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/BHARATHI-TV.jpeg?alt=media&token=52a2f68b-6b1d-4fdb-86d8-176d0438c922" group-title="Madurai",Bharathi TV
@@ -903,6 +901,7 @@ https://play.applelive.in/royaltv/royaltv.m3u8
 https://play.applelive.in/holylandtv/holylandtv.m3u8
 #EXTINF:-1 tvg-id="AyyaTV" tvg-logo="" group-title="Nagercoil;Kanyakumari",Ayya TV
 https://play.applelive.in/ayyatv/ayyatv.m3u8
+
 
 
 
