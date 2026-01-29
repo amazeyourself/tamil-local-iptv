@@ -915,3 +915,5 @@ http://alk.sscloud7.in/live/mariyevazhgatv/index.m3u8
 http://alk.sscloud7.in/live/arputhamtv/index.m3u8
 #EXTINF:-1 tvg-id="SelvaTamilTV" tvg-logo="https://i.ibb.co/ksrxqTBM/1000144453.png" group-title="Alangulam;Tenkasi" group-title="PLC",Selva Tamil TV
 https://stream.sscloud7.in/live/selvatamiltv/index.mpd
+#EXTINF:-1 tvg-id="SuperTVDindigul" tvg-logo="" group-title="Dindigul" group-title="PLC",Super TV Dindigul [RTMP]
+rtmp://122.165.249.163/live/supertv
