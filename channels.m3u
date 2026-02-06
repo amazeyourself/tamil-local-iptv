@@ -233,7 +233,7 @@ https://play.applelive.in/haitv/haitv.m3u8
 https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
 #EXTINF:-1 tvg-id="ChannelSpice" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/SPICE-TV.png?alt=media&token=cc1b732b-e3cf-4a30-a0ca-cc3b51e6ce60" tvg-region="Theni" group-title="PLC",Channel Spice
 https://stream.onecloudlive.in/spicetv/spicetv/index.mpd
-#EXTINF:-1 tvg-id="UrchagamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754484180_UTV%20Still%20Back.png" tvg-region="Unknown" group-title="PLC",Urchagam TV
+#EXTINF:-1 tvg-id="UrchagamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754484180_UTV%20Still%20Back.png" tvg-region="Unknown" group-title="Devotional;Hindu",Urchagam TV
 https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
 #EXTINF:-1 tvg-id="KumaranTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752739119_WhatsApp%20Image%202025-07-17%20at%2012.53.10%20PM.jpeg" tvg-region="Gobichettipalayam;Erode" group-title="PLC",Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
@@ -817,7 +817,7 @@ https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://play-lh.googleusercontent.com/casJz_N_Pc0VK3YJ9LaB4fHTp_YF4MWA93Jt0Lul6kMGK4-UzDJTEt6q-aoaWjGYRA=w512-h960-rw" tvg-region="Thuraiyur;Tiruchirapalli" group-title="PLC",Top TV Thuraiyur
 https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
-#EXTINF:-1 tvg-id="JayTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayTV.png" tvg-region="Unknown" group-title="PLC",Jay TV
+#EXTINF:-1 tvg-id="JayTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayTV.png" tvg-region="Chennai" group-title="PLC",Jay TV
 https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
 #EXTINF:-1 tvg-id="ParamsTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",Params TV
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
@@ -967,3 +967,13 @@ https://ipcloud.live/saharatv/saharatv/index.m3u8
 https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 #EXTINF:-1 tvg-id="TamilOliTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",Tamil Oli TV
 https://view.apserver.in/tmp_hls14/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="TamilPiraiTV" tvg-logo="" tvg-region="Unknown" group-title="Devotional;Islam",Tamil Pirai TV
+https://kayal.inet.moe/kayal/kayaltv/index.m3u8
+#EXTINF:-1 tvg-id="IslamicChannel" tvg-logo="" tvg-region="Kanyakumari" group-title="Devotional;Islam",Islamic Channel
+https://play.applelive.in/islamicchannel/islamicchannel.m3u8
+#EXTINF:-1 tvg-id="DeepamTV" tvg-logo="https://bmcloud.in/apptest/uploads/6854fcb41cf23.png" tvg-region="Kanyakumari" group-title="Devotional;Hindu",Deepam TV
+https://play.applelive.in/deebamtv/deebamtv.m3u8
+#EXTINF:-1 tvg-id="SharonTV2" tvg-logo="" tvg-region="Unknown" group-title="Devotional;Christian",Sharon TV
+https://rtmp.bmlive.net/bms/sharontv/index.m3u8
+#EXTINF:-1 tvg-id="ArputharYesuTV" tvg-logo="https://bmcloud.in/apptest/uploads/6854638ce4239.png" tvg-region="Unknown" group-title="Devotional;Christian",Arputhar Yesu TV
+https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
