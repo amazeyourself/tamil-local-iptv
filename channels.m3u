@@ -33,7 +33,7 @@ https://live.sscloud7.in/live/aaryaatv/index.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" tvg-logo="https://play-lh.googleusercontent.com/OI5HmCytC3TzhwE8dBGtZzgHaZ9qpSGH4AorISFfpZOe-ytCd367BV-iQMK55TBvhp32S1t2t1G6wLbfFeCgBg=w512-h960-rw" tvg-region="Coimbatore" group-title="Movies",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="BhagyamTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Bhagyam TV
+#EXTINF:-1 tvg-id="BhagyamTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BhagyamTV.png" tvg-region="Unknown" group-title="PLC",Bhagyam TV
 #EXTVLCOPT:http-referrer=https://m3uplay.com
 https://m3uplay.com/leo/live.m3u8?id=3358&format=.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-logo="https://play-lh.googleusercontent.com/qAyUZPMllAhkhcuNK-3sCcnSC6SGT83oytQjtMNwLGiXXO7P5qZb6yg3Dp0jahi5fkA=w512-h960-rw" tvg-region="Coimbatore" group-title="PLC",KC TV
@@ -998,4 +998,5 @@ http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 https://ipcloud.live/ctn/arasu/index.m3u8
 #EXTINF:-1 tvg-id="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
+
 
