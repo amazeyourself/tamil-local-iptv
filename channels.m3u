@@ -592,9 +592,9 @@ https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
 https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1 tvg-id="BSCOld" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761725256_WhatsApp%20Image%202025-10-28%20at%206.09.48%20PM.jpeg" tvg-region="Unknown" group-title="Classic",BSC Old
 https://stream.onecloudlive.in/bschd/live/index.m3u8
-#EXTINF:-1 tvg-id="ShaliniTVKanchipuram" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392678_IMG-20250109-WA0048.jpg" tvg-region="Kanchipuram" group-title="PLC",Shalini TV Kanchipuram
-https://app.ashokadigital.net/app/9f53ea36/index.m3u8
-#EXTINF:-1 tvg-id="MMTV2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392713_IMG-20250109-WA0034.jpg" tvg-region="Kanchipuram" group-title="PLC",MM TV [RTMP]
+#EXTINF:-1 tvg-id="ShaliniTVKanchipuram" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392678_IMG-20250109-WA0048.jpg" tvg-region="Kanchipuram" group-title="PLC",Shalini TV Kanchipuram [RTMP]
+rtmp://103.78.164.62/static/SHALINITVHD
+#EXTINF:-1 tvg-id="MMTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392713_IMG-20250109-WA0034.jpg" tvg-region="Kanchipuram" group-title="PLC",MM TV [RTMP]
 rtmp://103.78.164.62/static/MMTVHD
 #EXTINF:-1 tvg-id="MMClassic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736395960_WhatsApp%20Image%202025-01-09%20at%209.42.01%20AM.jpeg" tvg-region="Kanchipuram" group-title="Classic",MM Classic [RTMP]
 rtmp://103.78.164.62/static/MMCLASSIC
@@ -1000,4 +1000,5 @@ https://ipcloud.live/ctn/arasu/index.m3u8
 https://ipcloud.live/ctn/magalir/index.m3u8
 #EXTINF:-1 tvg-id="DinaTharani" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM=w480-h960-rw" tvg-region="Unknown" group-title="News",Dina Tharani
 https://stream.sscloud7.in/live/ddtv/index.m3u8
+
 
