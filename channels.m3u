@@ -187,7 +187,7 @@ https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 #EXTINF:-1 tvg-id="JPMusicTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1763572153_JP%20music%20tv.png" tvg-region="Sambavarvadakarai" group-title="PLC",JP Music TV
 https://stream.onecloudlive.in/sachintv/jpmusichd/index.m3u8
 #EXTINF:-1 tvg-id="MinnalTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/minnal-tv.png?alt=media&token=d47021f9-26fb-457e-8b70-38cce4bbc672" tvg-region="Madurai" group-title="PLC",Minnal TV
-https://ipcloud.live/minnaltv/minnalhd/index.m3u8
+https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1 tvg-id="AkilamTV" tvg-logo="https://play-lh.googleusercontent.com/O2VYtHNRr69SaCKZ3NKYz4-JpCu7Va1tc7agAbpB-rdRa-PsKrwW-_VbZE3gLvDjew=w512-h960-rw" tvg-region="Thisayanvilai;Tirunelveli" group-title="PLC",Akilam TV
 https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="Queens143" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107527_QUEENS%20143.png" tvg-region="Namakkal" group-title="PLC",Queens 143
@@ -1000,3 +1000,4 @@ https://ipcloud.live/ctn/arasu/index.m3u8
 https://ipcloud.live/ctn/magalir/index.m3u8
 #EXTINF:-1 tvg-id="DinaTharani" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM=w480-h960-rw" tvg-region="Unknown" group-title="News",Dina Tharani
 https://stream.sscloud7.in/live/ddtv/index.m3u8
+
