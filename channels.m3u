@@ -829,7 +829,7 @@ https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 #EXTINF:-1 tvg-id="ThendralTVAlangulam" tvg-logo="https://play-lh.googleusercontent.com/8I68-sq1hLelZj5NkltrWXL5tYHqSc3CzCRKxFH43LhIHkuCpv4m8hQUsmb6krDN=w512-h960-rw" tvg-region="Alangulam;Tenkasi" group-title="PLC",Thendral TV Alangulam
 http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
-#EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" tvg-region="Thuraiyur;Tiruchirapalli" group-title="PLC",Top TV Thuraiyur
+#EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" tvg-region="Thuraiyur;Trichy" group-title="PLC",Top TV Thuraiyur
 https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
 #EXTINF:-1 tvg-id="JayTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayTV.png" tvg-region="Chennai" group-title="PLC",Jay TV
 https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
@@ -1033,6 +1033,7 @@ http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" tvg-logo="" tvg-region="" group-title="PLC;TACTV Platform",Thentamil TV [RTMP]
 rtmp://thentv.stream.onecloudlive.in:1935/thentv/thentvhd
+
 
 
 
