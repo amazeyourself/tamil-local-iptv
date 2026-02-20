@@ -3,13 +3,10 @@
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="NTCTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai" group-title="PLC",NTC TV
+#EXTINF:-1 tvg-id="NTCTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai;Thanjavur" group-title="PLC",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="UltimateTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" tvg-region="Trichy" group-title="PLC",Ultimate TV
-#EXTVLCOPT:http-referrer=https://m3uplay.com
-https://m3uplay.com/leo/live.m3u8?id=3396&format=.m3u8
-#EXTINF:-1 tvg-id="AnandhamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.png" tvg-region="Tenkasi" group-title="PLC",Anandham TV
-https://server.sscloud7.in/live/anandhamtv/index.m3u8
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
 #EXTINF:-1 tvg-id="SuriyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732170490_WhatsApp_Image_2024-11-21_at_11.10.20_AM-removebg-preview%20(2).png" tvg-region="Tiruvannamalai" group-title="PLC",Suriya TV
 https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 tvg-id="SubinTV@Jio" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Subin TV (GalaxyOTT/Jio/TP)
@@ -82,6 +79,8 @@ https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id="MNTV" tvg-logo="https://mntv.in/style/images/logo-dark.png" tvg-region="Dharmapuri" group-title="PLC",MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id="MNMusic" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" tvg-region="Dharmapuri" group-title="PLC",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="BoobshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" tvg-region="Unknown" group-title="PLC",Boobsh TV
 https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
 #EXTINF:-1 tvg-id="GEMTV" tvg-logo="https://yt3.googleusercontent.com/0POAEUrXj9S3H6jYBYF8D894bb599adV9t18qJmUdrcYpAYUdKonTWku7QYVHU0WeRnmstkQ=s900-c-k-c0x00ffffff-no-rj" tvg-region="State-wide" group-title="News",GEM TV
