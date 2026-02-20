@@ -3,11 +3,10 @@
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="NTCTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai" group-title="PLC",NTC TV
+#EXTINF:-1 tvg-id="NTCTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai;Thanjavur" group-title="PLC",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="UltimateTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" tvg-region="Trichy" group-title="PLC",Ultimate TV
-#EXTVLCOPT:http-referrer=https://m3uplay.com
-https://m3uplay.com/leo/live.m3u8?id=3396&format=.m3u8
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
 #EXTINF:-1 tvg-id="AnandhamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.png" tvg-region="Tenkasi" group-title="PLC",Anandham TV
 https://server.sscloud7.in/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732170490_WhatsApp_Image_2024-11-21_at_11.10.20_AM-removebg-preview%20(2).png" tvg-region="Tiruvannamalai" group-title="PLC",Suriya TV
@@ -1034,5 +1033,6 @@ http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" tvg-logo="" tvg-region="" group-title="PLC;TACTV Platform",Thentamil TV [RTMP]
 rtmp://thentv.stream.onecloudlive.in:1935/thentv/thentvhd
+
 
 
