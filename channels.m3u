@@ -1033,9 +1033,3 @@ http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" tvg-logo="" tvg-region="" group-title="PLC;TACTV Platform",Thentamil TV [RTMP]
 rtmp://thentv.stream.onecloudlive.in:1935/thentv/thentvhd
-
-
-
-
-
-
