@@ -1,20 +1,17 @@
----
-name: addchannel
+name: Add a new channel
 about: Request an addition to the playlist.
-title: "[Add a new channel]"
+title: "Add: "
 labels: add stream
 assignees: ''
-
----
-
-- type: input
+body:
+    - type: input
     id: name
     attributes:
-      label: Channel name
-      description: Name of the channel goes here.
-      placeholder: ex. Shalini TV
+        label: Channel name
+        description: Name of the channel goes here.
+        placeholder: ex. Shalini TV
     validations:
-      required: true
+        required: true
 - type: input
   id: region
   attributes:
