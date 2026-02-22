@@ -2,7 +2,7 @@ name: "Add a new channel"
 description: "Request an addition to the playlist."
 title: "[Add]: "
 labels: "add stream"
-projects: "amazeyourself/tamil-local-iptv"
+projects: "amazeyourself/1"
 assignees:
   - amazeyourself
 body:
