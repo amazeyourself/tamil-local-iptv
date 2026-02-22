@@ -49,7 +49,7 @@ body:
       placeholder: ex. https://server.sscloud7.in/live/devitv/index.m3u8
     validations:
       required: True
-- type: input
+  - type: input
     id: logo
     attributes:
       label: Channel logo
@@ -57,7 +57,7 @@ body:
       placeholder: ex. https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png
     validations:
       required: false
-- type: textarea
+  - type: textarea
     id: notes
     attributes:
       label: Notes
