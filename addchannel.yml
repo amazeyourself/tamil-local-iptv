@@ -1,0 +1,67 @@
+name: Add a new channel
+description: Request an addition to the playlist.
+title: "[Add]: "
+labels: "add stream"
+projects: "amazeyourself/tamil-local-iptv"
+assignees:
+  - amazeyourself
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Channel name
+      description: Name of the channel to be added
+      placeholder: ex. Devi TV
+    validations:
+      required: True
+  - type: input
+    id: region
+    attributes:
+      label: Channel region
+      description: Region where the channel belongs to (Use '~' if the region is unknown)
+      placeholder: ex. Rajapalayam
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Channel category
+      description: Category in which the channel belongs to (default is PLC)
+      multiple: true
+      options:
+        - PLC
+        - Movies
+        - Music
+        - Classic
+        - Lifestyle
+        - News
+        - Devotional (Hindu)
+        - Devotional (Islamic)
+        - Devotional (Christian)
+        - Platform
+      default: 0
+    validations:
+      required: true
+- type: input
+    id: link
+    attributes:
+      label: Channel link
+      description: Link to the stream of the channel
+      placeholder: ex. https://server.sscloud7.in/live/devitv/index.m3u8
+    validations:
+      required: True
+- type: input
+    id: logo
+    attributes:
+      label: Channel logo
+      description: Link to the logo of the channel
+      placeholder: ex. https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Additional notes go here
+    validations:
+      required: false
