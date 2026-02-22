@@ -1,10 +1,12 @@
+---
 name: Add a new channel
 about: Request an addition to the playlist.
 title: "Add: "
 labels: add stream
 assignees: ''
-body:
-    - type: input
+
+---
+- type: input
     id: name
     attributes:
         label: Channel name
