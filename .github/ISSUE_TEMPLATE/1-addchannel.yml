@@ -1,7 +1,7 @@
 name: Add a new channel
 description: Request an addition to the playlist.
-title: 'Add: '
-labels: 'add stream'
+title: "Add: "
+labels: "add stream"
 assignees:
   - amazeyourself
 body:
@@ -17,7 +17,7 @@ body:
     id: region
     attributes:
       label: Channel region
-      description: Region where the channel belongs to (Use '~' if the region is unknown)
+      description: Region where the channel belongs to (Use "~" if the region is unknown)
       placeholder: ex. Rajapalayam
     validations:
       required: false
@@ -57,7 +57,7 @@ body:
       placeholder: ex. https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png
     validations:
       required: false
-  - type: textarea
+- type: textarea
     id: notes
     attributes:
       label: Notes
