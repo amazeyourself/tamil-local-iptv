@@ -1030,7 +1030,7 @@ http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="CTV" tvg-logo="https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w512-h960-rw" tvg-region="Unknown" group-title="PLC",C TV
 http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThentamilTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThentamilTV.png" tvg-region="" group-title="PLC;Platform",Thentamil TV
-http://thentv.stream.onecloudlive.in:8080/thentv/thentvhd/index.m3u8
+http://thentv.stream.onecloudlive.in/thentv/thentvhd/index.m3u8
 #EXTINF:-1 tvg-id="AnbuTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761325584_anbu%20tv.png" tvg-region="Unknown" group-title="PLC",Anbu TV
 https://rtmp.bmlive.net/bms/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="PalkarTV" tvg-chno="189" tvg-logo="" tvg-region="Unknown" group-title="PLC",Palkar
