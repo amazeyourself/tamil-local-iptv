@@ -411,7 +411,7 @@ https://rasinetworks.in/live/rasicinemahd/index.mpd
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
 #EXTINF:-1 tvg-id="RasiLifestyle" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RasiLifestyle.png" tvg-region="State-wide" group-title="Lifestyle",Rasi Lifestyle
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
-#EXTINF:-1 tvg-id="SanthiyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" tvg-region="Kumbakonam" group-title="PLC",Santhiya TV
+#EXTINF:-1 tvg-id="SanthiyaTV" tvg-chno="13" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" tvg-region="Kumbakonam" group-title="PLC",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SanthiyaTVJKM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533803_saN.png" tvg-region="Unknown" group-title="PLC",Santhiya TV JKM
 https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
@@ -915,7 +915,7 @@ http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
 https://app.ashokadigital.net/app/db285ebc/index.m3u8
 #EXTINF:-1 tvg-id="PaasamalarTV" tvg-logo="https://play-lh.googleusercontent.com/5ZzLBuMhc1abMJ8KnaTw0Jg3ydqRKNLJrY31DSYD2iR9wCOpuN-XXNxdfI7uqKlXFJEmHFO9ffvh56JS7LbI9g=w512-h960-rw" tvg-region="Unknown" group-title="PLC",Paasamalar TV
 https://stream.sscloud7.in/live/paasamalartv/index.m3u8
-#EXTINF:-1 tvg-id="KarthickTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png" tvg-region="Tirunelveli" group-title="PLC",Karthick TV
+#EXTINF:-1 tvg-chno="8" tvg-id="KarthickTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png" tvg-region="Tirunelveli" group-title="PLC",Karthick TV
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
 #EXTINF:-1 tvg-id="JeniferTV" tvg-logo="https://i.ibb.co/wF0LnNcQ/1000144434.jpg" tvg-region="Alangulam;Tenkasi" group-title="PLC",Jenifer TV
 https://live1.sscloud7.in/live/jenifertv/index.m3u8
