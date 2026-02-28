@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SanaTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="PLC",Sana TV
+#EXTINF:-1 tvg-id="SanaTV@GalaxyOTT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV (GalaxyOTT)
 https://galaxyott.live/hls/sanatv.m3u8
-#EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="Music",Sana Plus
-https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id="SanaTV@Distro" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV (Distro)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/6af32fbc-ad75-40ca-8d8e-8f26abc1f1d5/0.m3u8
+#EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-region="Panruti;Cuddalore" group-title="Music",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="NTCTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai;Thanjavur" group-title="PLC",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="UltimateTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" tvg-region="Trichy" group-title="PLC",Ultimate TV
-https://cable92tataplay.akamaized.net/live/utv/index.mpd
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
 #EXTINF:-1 tvg-id="AnandhamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.png" tvg-region="Tenkasi" group-title="PLC",Anandham TV
 https://server.sscloud7.in/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732170490_WhatsApp_Image_2024-11-21_at_11.10.20_AM-removebg-preview%20(2).png" tvg-region="Tiruvannamalai" group-title="PLC",Suriya TV
 https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1 tvg-id="SubinTV@Jio" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Subin TV (GalaxyOTT/Jio/TP)
+#EXTINF:-1 tvg-id="SubinTV@Jio" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Subin TV (GalaxyOTT/Jio/Tata Play)
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV@Phoenix" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Subin TV (Phoenix)
 http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8
@@ -1043,4 +1045,5 @@ http://rajatv.phoenixcreations.online/sstv/sstv/playlist.m3u8
 http://rajatv.phoenixcreations.online/rajatv/raja/playlist.m3u8
 #EXTINF:-1 tvg-id="MMTVValliyur" tvg-logo="https://play-lh.googleusercontent.com/KYp4jlQ7vzYLBQMDJPCAaep_EYWWdSZ6FEnvQxAxvCYapVcI6eEWEWRSFt56sPMZ2rIWg3LJuF80lN3P5Li_WFg=w512-h960-rw" tvg-region="Valliyur;Tenkasi" group-title="PLC",MM TV Valliyur
 http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
+
 
