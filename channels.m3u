@@ -530,9 +530,9 @@ https://view.rcserver.in/tmp_hls20/index.m3u8
 #EXTINF:-1 tvg-id="QMaxPlus" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/QMaxPlus.png" tvg-region="Unknown" group-title="PLC",QMax Plus
 https://view.rcserver.in/tmp_hls22/qmaxtv/index.m3u8
 #EXTINF:-1 tvg-id="ThiraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTV.png" tvg-region="Erode" group-title="Movies",Thirai TV
-https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+https://live.apcloud.in/thiraitv/thiraitvhd/index.m3u8
 #EXTINF:-1 tvg-id="ThiraiTVMusic" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTVMusic.png" tvg-region="Erode" group-title="Music",Thirai TV Music
-https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
 #EXTINF:-1 tvg-id="BKTV" tvg-region="Ellapalayam;Erode" group-title="PLC",BK TV
 https://view.apserver.in/tmp_hls3/bktv/index.m3u8
 #EXTINF:-1 tvg-id="DhejesTV" tvg-region="Erode" group-title="PLC",Dhejes TV
@@ -1043,3 +1043,4 @@ http://rajatv.phoenixcreations.online/sstv/sstv/playlist.m3u8
 http://rajatv.phoenixcreations.online/rajatv/raja/playlist.m3u8
 #EXTINF:-1 tvg-id="MMTVValliyur" tvg-logo="https://play-lh.googleusercontent.com/KYp4jlQ7vzYLBQMDJPCAaep_EYWWdSZ6FEnvQxAxvCYapVcI6eEWEWRSFt56sPMZ2rIWg3LJuF80lN3P5Li_WFg=w512-h960-rw" tvg-region="Valliyur;Tenkasi" group-title="PLC",MM TV Valliyur
 http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
+
