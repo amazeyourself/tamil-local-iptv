@@ -909,8 +909,6 @@ http://jostv.phoenixcreations.online/jostv/jostv/index.m3u8
 http://kannatv.phoenixcreations.online/kannatv/kanna/index.m3u8
 #EXTINF:-1 tvg-id="JoshuaTV" tvg-logo="https://play-lh.googleusercontent.com/fAEzE--u8OqcYmZ5aI_QCqBlLGfHwMpPqlbR8Vv67dMtb9332QKZ85LX995gDCmen2OE=w512-h960-rw" tvg-region="Alangulam;Surandai;Sankarankovil;Tenkasi" group-title="Devotional;Christian",Joshua TV
 http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/index.m3u8
-#EXTINF:-1 tvg-id="MMTV3" tvg-logo="https://play-lh.googleusercontent.com/KYp4jlQ7vzYLBQMDJPCAaep_EYWWdSZ6FEnvQxAxvCYapVcI6eEWEWRSFt56sPMZ2rIWg3LJuF80lN3P5Li_WFg=w512-h960-rw" tvg-region="Valliyur;Tirunelveli" group-title="PLC",MM TV
-http://mmtv.phoenixcreations.online/mmtv/mm/playlist.m3u8
 #EXTINF:-1 tvg-id="KirubaiGoodnewsTV" tvg-logo="https://play-lh.googleusercontent.com/LfRXaqN5celAnHn_8Y8bQeypCIzpVhIiiUwOVYeblqe1e_F6ClEArPl61L-pbpvV-fHqFePGke8-QANxurinvw=w512-h960-rw" tvg-region="Uinown" group-title="Devotional;Christian",Kirubai Goodnews TV
 http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVAlangulam" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayamTVAlangulam.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Jayam TV Alangulam
@@ -1053,11 +1051,11 @@ https://rtmp.bmlive.net/webaduga/webaduga/index.m3u8
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1 tvg-id="AbiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI%20TV.png" tvg-region="Unknown" group-title="PLC",Abi TV [RTMP]
 rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
-#EXTINF:-1 tvg-id="DineshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772769336_WhatsApp Image 2026-03-05 at 8.36.34 AM.jpeg" tvg-region="Unknown" group-title="PLC",Dinesh TV
+#EXTINF:-1 tvg-id="DineshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772769336_WhatsApp%20Image%202026-03-05%20at%208.36.34%20AM.jpeg" tvg-region="Unknown" group-title="PLC",Dinesh TV
 http://ipcloud.live/dsrchannel/dsrhd/index.m3u8
-#EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila Tv_00151.png" tvg-region="Sivaganga;Madurai" group-title="PLC",Nila TV Sivaganga
+#EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila%20Tv_00151.png" tvg-region="Sivaganga;Madurai" group-title="PLC",Nila TV Sivaganga
 https://ipcloud.live/nilatvsvg/nilatv/index.m3u8
-#EXTINF:-1 tvg-id="MaduraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772719964_madhura tv.png" tvg-region="Madurai" group-title="PLC",Madura TV
+#EXTINF:-1 tvg-id="MaduraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772719964_madhura%20tv.png" tvg-region="Madurai" group-title="PLC",Madura TV
 https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-id="StarMedia" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773809677_WhatsApp%20Image%202026-03-18%20at%209.42.26%20AM.jpeg" tvg-region="Unknown" group-title="PLC",Star Media
 https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
