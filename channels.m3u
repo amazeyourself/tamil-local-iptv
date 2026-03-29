@@ -1063,3 +1063,5 @@ https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
 https://jowhtv.phoenixcreations.online/jowhtv/jowh/index.m3u8
 #EXTINF:-1 tvg-id="BlueMoonTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Blue Moon TV
 https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
+#EXTINF:-1 tvg-id="KallaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774607362_Kallai%20Tv.png" tvg-region="Unknown" group-title="PLC",Kallai TV
+https://stream.onecloudlive.in/kallaiads/kallaitv/index.m3u8
