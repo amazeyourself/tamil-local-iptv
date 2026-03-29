@@ -216,7 +216,7 @@ https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8
 #EXTINF:-1 tvg-id="MaruthiTV" tvg-logo="https://play-lh.googleusercontent.com/LSjXF_sRhe2bGwzZUSEeDwBtopkY3lj6Ftn-A4vPsogTWodKtFe14lOAGL7L8qgryC8=w512-h960-rw" tvg-region="Vazhapadi;Salem" group-title="PLC",Maruthi TV
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756047174_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV
-https://app.ashokadigital.net/app/db285ebc/index.m3u8
+https://stream.rojatv.cloud/jayam4k/index.m3u8
 #EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" tvg-region="Kodaikanal" group-title="PLC",M Television
 https://ipcloud.live/mtv/menhd/index.m3u8
 #EXTINF:-1 tvg-id="MSNTV" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w512-h960-rw" tvg-region="Cuddalore" group-title="PLC",MSN TV
@@ -713,6 +713,8 @@ https://play.applelive.in/dolphintv/dolphintv.m3u8
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="TSNMusic" tvg-logo="" tvg-region="Unknown" group-title="Music",TSN Music
 http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="TSNHollywoodTamil" tvg-logo="" tvg-region="Unknown" group-title="Movies",TSN Hollywood Tamil
+http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="AppuTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AppuTV.png" tvg-region="Udangudi;Thoothukudi" group-title="PLC",Appu TV
 http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="PCN" tvg-logo="https://i.ibb.co/vcfjYB9/PCN.png" tvg-region="Unknown" group-title="PLC",PCN
@@ -911,8 +913,6 @@ http://kannatv.phoenixcreations.online/kannatv/kanna/index.m3u8
 http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/index.m3u8
 #EXTINF:-1 tvg-id="KirubaiGoodnewsTV" tvg-logo="https://play-lh.googleusercontent.com/LfRXaqN5celAnHn_8Y8bQeypCIzpVhIiiUwOVYeblqe1e_F6ClEArPl61L-pbpvV-fHqFePGke8-QANxurinvw=w512-h960-rw" tvg-region="Uinown" group-title="Devotional;Christian",Kirubai Goodnews TV
 http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
-#EXTINF:-1 tvg-id="JayamTVAlangulam" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayamTVAlangulam.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Jayam TV Alangulam
-https://app.ashokadigital.net/app/db285ebc/index.m3u8
 #EXTINF:-1 tvg-id="PaasamalarTV" tvg-logo="https://play-lh.googleusercontent.com/5ZzLBuMhc1abMJ8KnaTw0Jg3ydqRKNLJrY31DSYD2iR9wCOpuN-XXNxdfI7uqKlXFJEmHFO9ffvh56JS7LbI9g=w512-h960-rw" tvg-region="Unknown" group-title="PLC",Paasamalar TV
 https://stream.sscloud7.in/live/paasamalartv/index.m3u8
 #EXTINF:-1 tvg-id="KarthickTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png" tvg-region="Tirunelveli" group-title="PLC",Karthick TV
@@ -1065,3 +1065,25 @@ https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
 https://stream.onecloudlive.in/kallaiads/kallaitv/index.m3u8
 #EXTINF:-1 tvg-id="NakshatraTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Nakshatra TV
 https://rtmp.bmlive.net/stream/nakshatra/index.m3u8
+#EXTINF:-1 tvg-id="JayamTVPolur" tvg-logo="" tvg-region="Polur,Tiruvannamalai" group-title="PLC",Jayam TV Polur
+https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
+#EXTINF:-1 tvg-id="SivaTV" tvg-logo="https://play-lh.googleusercontent.com/J8Ih5f6cYVKL5QTGi55mMU8-uPuBnjTCrdFZc7HNPIDrajuLhP2qGjAlvGfUSeCwYWo=w512-h960-rw" tvg-region="Gandarvakottai;Thanjavur" group-title="PLC",Siva TV
+http://xstream.onecloudlive.in:8080/sivatv/sivatv/index.m3u8
+#EXTINF:-1 tvg-id="SiddharTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Siddhar TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="IthazhTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Ithazh TV [RTMP]
+rtmp://148.113.170.17/static/ithal
+#EXTINF:-1 tvg-id="MathanTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Mathan TV
+https://ipcloud.live/mathantv/mathantv/index.m3u8
+#EXTINF:-1 tvg-id="EzraTV" tvg-logo="" tvg-region="Unknown" group-title="Devotional;Christian",Ezra TV
+http://riotv.stream.onecloudlive.in/riotv/riotvmax/index.m3u8
+#EXTINF:-1 tvg-id="MurugaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Muruga TV
+rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
+#EXTINF:-1 tvg-id="BoovaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Boova TV
+rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
+#EXTINF:-1 tvg-id="CSKTV2" tvg-logo="" tvg-region="Unknown" group-title="Movies",CSK TV
+rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
+#EXTINF:-1 tvg-id="PowerTV" tvg-logo="" tvg-region="Unknown" group-title="Movies",Power TV
+rtmp://103.136.136.77:1935/powertv/powertv?psk=123456
+#EXTINF:-1 tvg-id="KaniTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kani TV
+rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
