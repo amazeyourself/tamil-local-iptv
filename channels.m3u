@@ -100,7 +100,7 @@ http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
 #EXTINF:-1 tvg-id="SuccesTVTamil" tvg-logo="https://play-lh.googleusercontent.com/s5QfLQXyMf5LyjbX-4lY3EMuOw_tPP3oX3zwg_9Hn8h6EoiqNrpFnwjpRLhu88C4un4=w512-h960-rw" tvg-region="Kanchipuram" group-title="PLC",Succes TV Tamil
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 #EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" tvg-region="Coimbatore" group-title="PLC",Asoka TV
-https://app.ashokadigital.net/app/cc860669/index.m3u8
+http://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" tvg-logo="https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A=w512-h960-rw" tvg-region="Unknown" group-title="PLC",No 1 TV
 https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-id="PRTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752245098_PR%20TV%20LOGO%20PNG.png" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",PR TV
@@ -729,7 +729,7 @@ https://stream.onecloudlive.in/manjutv/manjutv/index.m3u8
 https://stream.singamcloud.in/jjeyam/jjeyam/index.m3u8
 #EXTINF:-1 tvg-id="JeyamPlus" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JeyamPlus.png" tvg-region="" group-title="PLC;TCCL Platform;TACTV Platform",Jeyam Plus
 https://stream.singamcloud.in/jeyamplus/jeyamplus/index.m3u8
-#EXTINF:-1 tvg-id="DJeyam" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DJeyam.png" tvg-region="" group-title="PLC;TCCL Platform;TACTV Platform",D Jeyam 
+#EXTINF:-1 tvg-id="DJeyam" tvg-logo="https://i.ibb.co/VYbgLDk7/1000137312.jpg" tvg-region="" group-title="PLC;TCCL Platform;TACTV Platform",D Jeyam 
 https://stream.singamcloud.in/djeyam/djeyam/index.m3u8
 #EXTINF:-1 tvg-id="TharaniTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8dEDu2C1VZk09oicxW-SU8hxRSdivqmjw2GSvUPwnqyA=s900-c-k-c0x00ffffff-no-rj" tvg-region="Tirunelveli" group-title="PLC",Tharani TV
 https://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
@@ -1071,7 +1071,7 @@ rtmp://148.113.170.17/static/ithal
 https://ipcloud.live/mathantv/mathantv/index.m3u8
 #EXTINF:-1 tvg-id="EzraTV" tvg-logo="" tvg-region="Unknown" group-title="Devotional;Christian",Ezra TV
 https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
-#EXTINF:-1 tvg-id="MurugaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Muruga TV [RTMP]
+#EXTINF:-1 tvg-id="MurugaTV" tvg-logo="" tvg-region="Puducherry" group-title="PLC",Muruga TV [RTMP]
 rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
 #EXTINF:-1 tvg-id="BoovaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Boova TV [RTMP]
 rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
@@ -1081,3 +1081,7 @@ rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
 rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
 #EXTINF:-1 tvg-id="HelloTamilTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Hello Tamil TV
 https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
+#EXTINF:-1 tvg-id="RPlusTV" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w512-h960-rw" tvg-region="Namakkal" group-title="PLC",R Plus TV
+http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.mpd
+#EXTINF:-1 tvg-id="CityTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",City TV
+https://stream.onecloudlive.in/citytv/citytv/index.m3u8
