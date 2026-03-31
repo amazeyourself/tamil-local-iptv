@@ -1075,7 +1075,7 @@ https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
 rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
 #EXTINF:-1 tvg-id="BoovaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Boova TV [RTMP]
 rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
-#EXTINF:-1 tvg-id="CSKTV2" tvg-logo="" tvg-region="Unknown" group-title="Movies",CS TV [RTMP]
+#EXTINF:-1 tvg-id="CSTV" tvg-logo="" tvg-region="Unknown" group-title="Movies",CS TV [RTMP]
 rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
 #EXTINF:-1 tvg-id="KaniTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kani TV [RTMP]
 rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
