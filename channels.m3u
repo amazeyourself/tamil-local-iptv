@@ -912,19 +912,19 @@ https://view.rcserver.in/tmp_hls23/kaalaitv/index.m3u8
 #EXTINF:-1 tvg-id="SKTVKarur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SKTVKarur.png" tvg-region="Karur" group-title="PLC",SK TV
 https://view.rcserver.in/tmp_hls24/sktv/index.m3u8
 #EXTINF:-1 tvg-id="AuroTV" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Puducherry" group-title="PLC",Auro TV
-http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Puducherry" group-title="PLC",Ridsys TV
-http://ptu.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
 #EXTINF:-1 tvg-id="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Madurai" group-title="PLC",AJK Tv
-http://ptu.ridsys.in/riptv/live/AJK_TV/index.m3u8
+http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
 #EXTINF:-1 tvg-id="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Movies",AJK Movie
-http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
 #EXTINF:-1 tvg-id="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Kids",AJK Kids
 http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Puducherry" group-title="PLC",S Media
-http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
+http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Puducherry" group-title="PLC",Latha Smile TV
-http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
 #EXTINF:-1 tvg-id="SarahMovie" tvg-logo="" tvg-region="Puducherry" group-title="Movies",Sarah Movie
 http://ajkiptv.ridsys.in/riptv/live/SARAH_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="TianaaMusic" tvg-logo="" tvg-region="Puducherry" group-title="Music",Tianaa Music
