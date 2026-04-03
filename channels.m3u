@@ -1055,7 +1055,7 @@ https://ipcloud.live/mathantv/mathantv/index.m3u8
 https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
 #EXTINF:-1 tvg-id="MurugaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MurugaTV.png" tvg-region="Puducherry" group-title="PLC",Muruga TV [RTMP]
 rtmp://103.136.136.77:1935/muruga4k/muruga4k?psk=123456
-#EXTINF:-1 tvg-id="BoovaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Boova TV [RTMP]
+#EXTINF:-1 tvg-id="BoovaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BoovaTV.png" tvg-region="Unknown" group-title="PLC",Boova TV [RTMP]
 rtmp://103.136.136.77:1935/boova4k/boova4k?psk=123456
 #EXTINF:-1 tvg-id="CSTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CSTV.png" tvg-region="Unknown" group-title="Movies",CS TV [RTMP]
 rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
