@@ -927,11 +927,11 @@ https://view.rcserver.in/tmp_hls24/sktv/index.m3u8
 http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Puducherry" group-title="PLC",Ridsys TV
 http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Madurai" group-title="PLC",AJK Tv
+#EXTINF:-1 tvg-id="AJKTV" tvg-logo="https://i.ibb.co/WNzjYdHZ/30048.png" tvg-region="Puducherry" group-title="PLC",AJK TV
 http://ptuf.ridsys.in/riptv/live/AJK_TV/index.m3u8
-#EXTINF:-1 tvg-id="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Movies",AJK Movie
+#EXTINF:-1 tvg-id="AJKMovie" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Puducherry" group-title="Movies",AJK Movie
 http://ptuf.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
-#EXTINF:-1 tvg-id="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Madurai" group-title="Kids",AJK Kids
+#EXTINF:-1 tvg-id="AJKKids" tvg-logo="https://i.ibb.co/QFbnSHjD/30050.png" tvg-region="Puducherry" group-title="Kids",AJK Kids
 http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Puducherry" group-title="PLC",S Media
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
@@ -941,6 +941,8 @@ http://ptuf.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
 http://ajkiptv.ridsys.in/riptv/live/SARAH_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="TianaaMusic" tvg-logo="" tvg-region="Puducherry" group-title="Music",Tianaa Music
 http://ajkiptv.ridsys.in/riptv/live/TIANAA_MUSIC_HD/index.m3u8
+#EXTINF:-1 tvg-id="MVDigitalNetwork" tvg-logo="" tvg-region="Puducherry" group-title="Music",MV Digital Network
+http://ajkiptv.ridsys.in/riptv/live/MV_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="MRTV2" tvg-logo="https://bmcloud.in/apptest/uploads/68e6001d4b01e.png" tvg-region="Unknown" group-title="PLC",MR TV
 https://rtmp.bmlive.net/bms/bms/index.m3u8
 #EXTINF:-1 tvg-id="AhaTV" tvg-logo="https://bmcloud.in/apptest/uploads/6936d638886a5.jpg" tvg-region="Unknown" group-title="PLC",Aha TV
