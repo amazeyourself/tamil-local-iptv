@@ -1076,7 +1076,7 @@ rtmp://103.136.136.77:1935/cs4k/cs4k?psk=123456
 #EXTINF:-1 tvg-id="KaniTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KaniTV.png" tvg-region="Unknown" group-title="PLC",Kani TV [RTMP]
 rtmp://103.136.136.77:1935/kanitv/kanitv?psk=123456
 #EXTINF:-1 tvg-id="HelloTamilTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/HelloTamilTV.png" tvg-region="Unknown" group-title="PLC",Hello Tamil TV
-https://view.rcserver.in/tmp_hls26/index.m3u8
+https://view.rcserver.in/tmp_hls26/hellotamiltv/index.m3u8
 #EXTINF:-1 tvg-id="RPlusTV" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w512-h960-rw" tvg-region="Namakkal" group-title="PLC",R Plus TV
 http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.mpd
 #EXTINF:-1 tvg-id="CityTV2" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CityTV.png" tvg-region="Unknown" group-title="PLC",City TV
