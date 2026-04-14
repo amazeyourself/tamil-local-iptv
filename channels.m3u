@@ -959,7 +959,7 @@ https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
 #EXTINF:-1 tvg-id="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Unknown" group-title="PLC",Koodal TV
 https://web.applelive.in/koodaltv/koodaltv/index.m3u8
-#EXTINF:-1 tvg-id="CrayonzTV" tvg-logo="https://bmcloud.in/apptest/uploads/692fdeb6e1666.png" tvg-region="Unknown" group-title="PLC",Crayonz TV
+#EXTINF:-1 tvg-id="CrayonzTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" tvg-region="Unknown" group-title="PLC",Crayonz TV
 https://rtmp.bmlive.net/stream/crayonz/index.m3u8
 #EXTINF:-1 tvg-id="SKMedia" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SKMedia.png" tvg-region="Unknown" group-title="PLC",SK Media
 https://rtmp.bmlive.net/stream/skmedia/index.m3u8
