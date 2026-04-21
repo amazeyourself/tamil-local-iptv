@@ -1146,9 +1146,9 @@ http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="KSRTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",KSR TV
 http://ksrtv.stream.onecloudlive.in:8080/ksrtv/ksrtvhd/index.m3u8
 #EXTINF:-1 tvg-id="BhairavaTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Bhairava TV
-http://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
+https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
 #EXTINF:-1 tvg-id="SabariTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sabari TV
-http://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
+https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
 #EXTINF:-1 tvg-id="VIPTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",VIP TV
 https://ipcloud.live/vip/viptv/index.m3u8
 #EXTINF:-1 tvg-id="ThiraiTamilTV" tvg-logo="" tvg-region="Unknown" group-title="Movies",Thirai Tamil TV
