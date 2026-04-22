@@ -1101,7 +1101,7 @@ https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
 https://play.applelive.in/eagletv/eagletv.m3u8
 #EXTINF:-1 tvg-id="TTNTV" tvg-logo="https://i.ibb.co/shRMXxh/Ttn250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",TTN TV
 https://web.applelive.in/stream/ttntv/index.m3u8
-#EXTINF:-1 tvg-id="OmmTVNagercoil" tvg-logo="https://i.ibb.co/qM3f5YvS/Ommtv.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="Devotional;Hindu",Omm TV Nagercoil
+#EXTINF:-1 tvg-id="OmmTVNagercoil" tvg-logo="https://i.ibb.co/dsMKnK76/1000148497.png" tvg-region="Nagercoil;Kanyakumari" group-title="Devotional;Hindu",Omm TV Nagercoil
 https://web.applelive.in/ommtv/ommtv/index.m3u8
 #EXTINF:-1 tvg-id="AmmaTVNagercoil" tvg-logo="https://i.ibb.co/39jqBzg6/Amma250x250.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Amma TV Nagercoil
 https://web.applelive.in/stream/ammatv/index.m3u8
