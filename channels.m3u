@@ -694,7 +694,7 @@ https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
 #EXTINF:-1 tvg-id="AzhagiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AzhagiTV.png" tvg-region="Unknown" group-title="PLC",Azhagi TV
 https://view.rcserver.in/tmp_hls17/azhagitv/index.m3u8
 #EXTINF:-1 tvg-id="PolimerChannel" tvg-logo="https://play-lh.googleusercontent.com/DiZsLeRIoky2i4qkkR36SF7R5MR_fwb0Hl41U3wAlVZsi1wKMBxbK3fzvln8YUQrmbkV=w512-h960-rw" tvg-region="Salem" group-title="PLC",Polimer Channel
-http://media.7starcloud.com:1935/polimer/live/playlist.m3u8
+http://polimer.7starcloud.com:1935/polimer/live/live.m3u8
 #EXTINF:-1 tvg-id="HeartbeatTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767337190_HEART%20BEETT.png" tvg-region="Unknown" group-title="PLC",Heartbeat TV
 https://rtmp.bmlive.net/bms/heartbeattv/stream.m3u8
 #EXTINF:-1 tvg-id="HansithaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" tvg-region="Unknown" group-title="PLC",Hansitha TV
