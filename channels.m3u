@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-id="SanaTV@GalaxyOTT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SanaTV@Distro" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV (DistroTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=VcGQSvUuGWi
 #EXTINF:-1 tvg-id="SanaTV@TataPlay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV (Tata Play)
 https://cable75tataplay.akamaized.net/hls/sanatv.m3u8
