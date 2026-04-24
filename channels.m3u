@@ -284,8 +284,10 @@ https://app.ashokadigital.net/app/12f5e922/index.m3u8
 https://notvstream.in/mathitv/mathitv/index.m3u8
 #EXTINF:-1 tvg-id="RainbowTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" tvg-region="Erode" group-title="PLC",Rainbow TV
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
-#EXTINF:-1 tvg-id="SaiTVMadurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" tvg-region="Madurai" group-title="PLC",Sai TV
-https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
+#EXTINF:-1 tvg-id="SaiTVMadurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" tvg-region="Madurai" group-title="PLC",Sai TV Madurai
+https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.mpd
+#EXTINF:-1 tvg-id="SaiTVMadurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" tvg-region="Madurai" group-title="PLC",Sai TV Madurai (NOTV)
+http://198.144.149.206:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="AnbuTVSivakasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744352400_IMG-20250411-WA0102-removebg-preview.png" tvg-region="Sivakasi" group-title="PLC",Anbu TV
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-id="NellaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753792693_WhatsApp_Image_2025-07-29_at_5.34.20_AM-removebg-preview.png" tvg-region="Tirunelveli" group-title="PLC",Nellai TV
@@ -1142,5 +1144,11 @@ https://tn.streamezy.in/hls/tthirai/live.m3u8
 rtmp://103.136.136.77:1935/citytv/citytv?psk=123456
 #EXTINF:-1 tvg-id="KLTV" tvg-logo="" tvg-region="Karaikal;Puducherry" group-title="PLC",KL TV [RTMP]
 rtmp://103.136.136.77:1935/kl4k/kl4k?psk=123456
-#EXTINF:-1 tvg-id="JSPTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",JSP TV
+#EXTINF:-1 tvg-id="JSPTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",JSP TV [RTMP]
 rtmp://103.136.136.77:1935/jsp4k/jsp4k?psk=123456
+#EXTINF:-1 tvg-id="JoyTV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" tvg-region="Chennai" group-title="PLC",Joy TV
+https://joy.inet.moe/live/joytv/index.m3u8
+#EXTINF:-1 tvg-id="JoyTV" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" tvg-region="Chennai" group-title="PLC",Joy TV HD
+https://ktismaservers.in:3412/live/joytvlive.m3u8
+#EXTINF:-1 tvg-id="ArighniTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Arighni TV
+https://dmtv.iptv.pics/live/dmtv/index.m3u8
