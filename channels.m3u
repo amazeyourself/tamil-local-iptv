@@ -643,7 +643,7 @@ https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 https://view.rcserver.in/tmp_hls21/meialai/index.m3u8
 #EXTINF:-1 tvg-id="JaiTV" tvg-logo="https://play-lh.googleusercontent.com/APcXUrNRsMykUbsTpJd32uF6VMRqvhVV_davBoS_pUR-HT55AXcJm8TDe1RFfx8X0w=w640-h960-rw" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Jai TV
 https://play.applelive.in/jaitv/jaitv.m3u8
-#EXTINF:-1 tvg-id="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/RNJI7zZh3z3FU-KkGLsyJou7JVmXU7jh9LA8V1zYfMiHymnmgLTZrCnyB-NeSk_OrGQMCMG2-jmssbeovxt6RMg=w6400-h2880-rw" tvg-region="Unknown" group-title="PLC",CTN Channel
+#EXTINF:-1 tvg-id="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/jVzIOdCDyf0oKFuxINZKfsZ4uU5Yq8L_0U6K_pD2_UH1AOPC_nBil47FtEaUUNkL0CrhreydyXUir-D6ombb=w1024-h500-rw" tvg-region="Unknown" group-title="PLC",CTN Channel
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-id="KingTVRanipet" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740572567_1740209948_IMG-20250220-WA0130.jpg" tvg-region="Ranipet" group-title="PLC",King TV Ranipet
 https://ipcloud.live/kingtv/kingtv/index.mpd
@@ -1159,7 +1159,7 @@ https://stream.rojatv.cloud/Arramtv/komarapalayam/index.m3u8
 http://luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
 #EXTINF:-1 tvg-id="LuckyTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/LuckyTV.png" tvg-region="Sayalkudi;Ramanathapuram" group-title="PLC",Lucky TV
 https://stream.rojatv.cloud/LUCKYTV/onecloud/index.m3u8
-#EXTINF:-1 tvg-id="NakkubettaTV" tvg-logo="https://play-lh.googleusercontent.com/n8HM6cgcx1PhavqlloBdloQUqkVvFOvoiC9KtxlJk1_FOhdOFxKeBZt5t3b6kMvUuNU=w480-h960-rw" tvg-region="Nilgris" group-title="PLC;Badaga",Nakkubetta TV
+#EXTINF:-1 tvg-id="NakkubettaTV" tvg-logo="https://play-lh.googleusercontent.com/n8HM6cgcx1PhavqlloBdloQUqkVvFOvoiC9KtxlJk1_FOhdOFxKeBZt5t3b6kMvUuNU=w512-h960-rw" tvg-region="Nilgris" group-title="PLC;Badaga",Nakkubetta TV
 https://rojatv.cloud/nbtv/nbtv/index.m3u8
 #EXTINF:-1 tvg-id="VinothTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VinothTV.png" tvg-region="Unknown" group-title="PLC",Vinoth TV
 https://server.sscloud7.in/live/vinothtv/index.m3u8
@@ -1231,7 +1231,7 @@ https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 #EXTINF:-1 tvg-id="MyFaithTV" tvg-logo="https://play-lh.googleusercontent.com/jwlLipuM4pwkQqg6ImIgREz9w6fhXfjnepY3tS5j8E0rgWVSROCqcxsyWKpGzxAFoSux=w640-h1080-rw" tvg-region="Unknown" group-title="Christian Devotional",My Faith TV
 https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
-#EXTINF:-1 tvg-id="AdhisayamTV" tvg-logo="https://i.imgur.com/6b3nJcD.png" tvg-region="Unknown" group-title="Christian Devotional",Adhisayam TV
+#EXTINF:-1 tvg-id="AdhisayamTV" tvg-logo="https://i.imgur.com/6b3nJcD.png" tvg-region="Chennai" group-title="Christian Devotional",Adhisayam TV
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVChennai" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MTVChennai.png" tvg-region="Chennai" group-title="PLC",MTV Chennai
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
@@ -1251,3 +1251,7 @@ https://live.onecloudlive.in/delta/namtv/index.m3u8
 https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTime" tvg-logo="https://i.ibb.co/JRmvfqgj/GNT.png" tvg-region="Tirunelveli;Tenkasi" group-title="Christian Devotional",Good News Time
 https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
+#EXTINF:-1 tvg-id="JayamTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/ubSsc9-EysszvQIAHy9iHpzL7qjEd3yQlBVDYrpaKS2qH1j9sZmmIsT0hOgZplYiuhDc2206kZn3TXZUOiOoHtY=w1024-h500-rw" tvg-region="Trichy" group-title="PLC",Jayam TV Trichy
+https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
+#EXTINF:-1 tvg-id="VTamil" tvg-logo="https://play-lh.googleusercontent.com/6E6PtA12xox3B4nqpsYXpFa9_xd1kYDZT3pK98art2aNW0a9p4cXJe6pKlxXDx6fvgvTCwd_6-guqtjkJ7OvwQ=w640-h960-rw" tvg-region="Unknown" group-title="PLC",V Tamil
+https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
