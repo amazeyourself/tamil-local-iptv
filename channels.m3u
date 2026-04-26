@@ -169,6 +169,8 @@ http://sartv2.phoenixcreations.online:1935/sartv2/sartv2/playlist.m3u8
 http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w640-h960-rw" tvg-region="Unknown" group-title="PLC",Phoenix TV
 http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w640-h960-rw" tvg-region="Unknown" group-title="PLC",Phoenix TV [TamilStream]
+https://phoenix-hs-ott.tamilstream.in/phoenix/phoenix/playlist.m3u8
 #EXTINF:-1 tvg-id="SKTV" tvg-logo="https://play-lh.googleusercontent.com/YvCWbikxgiEBpjRZ-DRaLxBcJcZnb54MfWnTUMCbbDX37QWsx6ZsYFJTWnFlZ3Q3lPE=w640-h960-rw" tvg-region="Trichy" group-title="PLC",SK TV
 https://stream.galaxyott.live/live/sktv/index.m3u8
 #EXTINF:-1 tvg-id="MaranTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757327.PNG" tvg-region="Tenkasi" group-title="PLC",Maran TV
@@ -223,9 +225,9 @@ rtmp://thendralmdu.ipcloud.live:1935/thendralmdu/madurai
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="RJTamil" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" tvg-region="Unknown" group-title="PLC",RJ Tamil
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTV@SD" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w640-h960-rw" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV
+#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w640-h960-rw" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV
 https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTV@HD" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w640-h960-rw" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV HD
+#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w640-h960-rw" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV HD
 https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanColours" tvg-logo="https://play-lh.googleusercontent.com/nuubOwnutfaQfo3YS37g0og2JD_XeeOPlztGfHAPRiwKlxwyNUxbmHyvfo-zCfdBYUZ2ahHXrxVBvrr3ziz3prg=w640-h960-rw" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan Colours
 https://live.olidigital.in/aadhavantvcolours/aadhavantvcolours/index.m3u8
@@ -233,10 +235,12 @@ https://live.olidigital.in/aadhavantvcolours/aadhavantvcolours/index.m3u8
 https://view.apserver.in/tmp_hls4/aadhavancolours/index.m3u8
 #EXTINF:-1 tvg-id="MaruthiTV" tvg-logo="https://play-lh.googleusercontent.com/LSjXF_sRhe2bGwzZUSEeDwBtopkY3lj6Ftn-A4vPsogTWodKtFe14lOAGL7L8qgryC8=w640-h960-rw" tvg-region="Vazhapadi;Salem" group-title="PLC",Maruthi TV
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
-#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756047174_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV TNC
+#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV Sivakasi
 https://stream.rojatv.cloud/jayam4k/index.m3u8
-#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756047174_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV TNC [RTMP]
+#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV Sivakasi [RTMP]
 rtmp://in-south-blr.livepush.io/live/rtmp_855a06c27c63420e9eb56e6ff68dd2v7
+#EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi" group-title="PLC",Jayam TV Sivakasi [Phoenix]
+https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVKodai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" tvg-region="Kodaikanal" group-title="PLC",MTV Kodaikanal
 https://ipcloud.live/mtv/menhd/index.m3u8
 #EXTINF:-1 tvg-id="MSNTV" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w640-h960-rw" tvg-region="Cuddalore" group-title="PLC",MSN TV
