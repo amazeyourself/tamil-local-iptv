@@ -1,5 +1,5 @@
 # Tamil Local IPTV
-IPTV streams of local cable channels (as well as digital and international channels) in Tamil Nadu.
+IPTV streams of local cable channels in Tamil Nadu (as well as digital and international channels).
 
 **NOTE:** Not all streams are guaranteed to work. Sometimes certain streams may go down, due to the servers being shut down or taking too long to respond.
 
