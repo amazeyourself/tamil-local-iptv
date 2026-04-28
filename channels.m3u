@@ -181,7 +181,7 @@ https://live.sscloud7.in/live/suryatv/index.mpd
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 tvg-id="TamilOliTV" tvg-logo="https://play-lh.googleusercontent.com/fRbNk6OxA12aYw0Vu7jSbv1HUivEv_Zr8WcUQta67fJf1gfScLn-SLdmWCu5p9rWtjE" tvg-region="Karur" group-title="PLC",Tamil Oli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
-#EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://play-lh.googleusercontent.com/I-rcjG38vEXWpJnCPBGYwb7ewylDfPPM-F6V7YkQ2WovdqFdo5V3gpwebrMDNx_LX2V21hURwSbOLZKFvvo_pQ" tvg-region="Pochampalli;Krishnagiri" group-title="PLC",Udhayam TV
+#EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775134393_UDHAYAM%20TV.png" tvg-region="Pochampalli;Krishnagiri" group-title="PLC",Udhayam TV
 https://ipcloud.live/udhayamtv/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="SailamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png" tvg-region="Salem" group-title="PLC",Sailam TV
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
