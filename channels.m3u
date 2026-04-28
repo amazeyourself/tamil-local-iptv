@@ -185,7 +185,7 @@ https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 https://ipcloud.live/udhayamtv/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="SailamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png" tvg-region="Salem" group-title="PLC",Sailam TV
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
-#EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA" tvg-region="Thuckalay;Kanyakumari" group-title="PLC",Sha TV
+#EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1745500074_WhatsApp%20Image%202025-04-24%20at%206.20.29%20PM.jpeg" tvg-region="Thuckalay;Kanyakumari" group-title="PLC",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-id="MullaiTV" tvg-logo="https://play-lh.googleusercontent.com/wfADwsL_Py771w_iaMVZNMa83w8JAhIAIrnRjMCoW8lN-6ip-F5jE4gvvJkMf3u7BA" tvg-region="Erode" group-title="PLC",Mullai TV
 https://live.apcloud.in/mullaitv/live/index.m3u8
@@ -229,9 +229,9 @@ rtmp://thendralmdu.ipcloud.live:1935/thendralmdu/madurai
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="RJTamil" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" tvg-region="Unknown" group-title="PLC",RJ Tamil
 https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV
+#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746109073_c6062833-32cc-4572-a93b-e1e5c28e7693-removebg-preview.png" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV
 https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
-#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV HD
+#EXTINF:-1 tvg-id="AadhavanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746109073_c6062833-32cc-4572-a93b-e1e5c28e7693-removebg-preview.png" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan TV HD
 https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanColours" tvg-logo="https://play-lh.googleusercontent.com/nuubOwnutfaQfo3YS37g0og2JD_XeeOPlztGfHAPRiwKlxwyNUxbmHyvfo-zCfdBYUZ2ahHXrxVBvrr3ziz3prg" tvg-region="Sholavandan;Madurai" group-title="PLC",Aadhavan Colours
 https://live.olidigital.in/aadhavantvcolours/aadhavantvcolours/index.m3u8
