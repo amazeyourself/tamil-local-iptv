@@ -1171,7 +1171,7 @@ https://ipcloud.live/vip/viptv/index.m3u8
 https://tn.streamezy.in/hls/tthirai/live.m3u8
 #EXTINF:-1 tvg-id="CityTVPondy" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CityTVPondy.png" tvg-region="Chennai;Puducherry" group-title="PLC",City TV Puducherry [RTMP]
 rtmp://103.136.136.77:1935/citytv/citytv?psk=123456
-#EXTINF:-1 tvg-id="KLTV" tvg-logo="https://github.com/amazeyourself/tamil-local-iptv/blob/main/logos/KLTV.png?raw=true" tvg-region="Karaikal;Puducherry" group-title="PLC",KL TV [RTMP]
+#EXTINF:-1 tvg-id="KLTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KLTV.png" tvg-region="Karaikal;Puducherry" group-title="PLC",KL TV [RTMP]
 rtmp://103.136.136.77:1935/kl4k/kl4k?psk=123456
 #EXTINF:-1 tvg-id="JSPTV" tvg-logo="" tvg-region="Puducherry" group-title="PLC",JSP TV [RTMP]
 rtmp://103.136.136.77:1935/jsp4k/jsp4k?psk=123456
