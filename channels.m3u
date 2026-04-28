@@ -187,7 +187,7 @@ https://ipcloud.live/udhayamtv/udhayamtv/index.m3u8
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
 #EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1745500074_WhatsApp%20Image%202025-04-24%20at%206.20.29%20PM.jpeg" tvg-region="Thuckalay;Kanyakumari" group-title="PLC",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
-#EXTINF:-1 tvg-id="MullaiTV" tvg-logo="https://play-lh.googleusercontent.com/wfADwsL_Py771w_iaMVZNMa83w8JAhIAIrnRjMCoW8lN-6ip-F5jE4gvvJkMf3u7BA" tvg-region="Erode" group-title="PLC",Mullai TV
+#EXTINF:-1 tvg-id="MullaiTV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp%20Image%202026-04-08%20at%207.00.55%20PM.jpeg" tvg-region="Erode" group-title="PLC",Mullai TV
 https://live.apcloud.in/mullaitv/live/index.m3u8
 #EXTINF:-1 tvg-id="SachinTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158345_sachin_00000%20(1).png" tvg-region="Sambavarvadakarai" group-title="PLC",Sachin TV
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
@@ -305,13 +305,13 @@ https://ipcloud.live/nellaitv/suriyatv/index.m3u8
 http://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-id="King24x7" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107492_KING24X7%20logo.png" tvg-region="Namakkal" group-title="PLC",King 24x7
 https://notvstream.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-id="SmileyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756996.PNG" tvg-region="Tenkasi" group-title="PLC",Smiley TV
+#EXTINF:-1 tvg-id="SmileyTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737125892_Smiley%20Logo%20181122.png" tvg-region="Tenkasi" group-title="PLC",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
-#EXTINF:-1 tvg-id="VishilTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1725798337.PNG" tvg-region="Virudhunagar" group-title="PLC",Vishil TV
+#EXTINF:-1 tvg-id="VishilTV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656152_WhatsApp Image 2026-04-08 at 7.14.39 PM.jpeg" tvg-region="Virudhunagar" group-title="PLC",Vishil TV
 https://stream.sscloud7.in/live/vishiltv1/index.mpd
 #EXTINF:-1 tvg-id="VishilMax" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" tvg-region="Virudhunagar" group-title="PLC",Vishil Max
-https://stream.sscloud7.in/live/vishiltv2/index.mpd
-#EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/durai%20tv-4k.png?alt=media&token=632d3193-0055-4c0f-85a0-d912660239c8" tvg-region="Alangulam;Tenkasi" group-title="PLC",Durai TV
+https://stream.sscloud7.in/live/vishiltv2/index.m3u8
+#EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiTV.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="DuraiMelodies" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiMelodies.png" tvg-region="Alangulam;Tenkasi" group-title="Music",Durai Melodies
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
@@ -339,8 +339,6 @@ https://sscloud7.com/live/malartv/index.m3u8
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 #EXTINF:-1 tvg-id="EagleTVTenkasi" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/EagleTV.png" tvg-region="Tenkasi" group-title="PLC",Eagle TV Tenkasi
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1 tvg-id="SubashTV" tvg-logo="https://i.ibb.co/mJKHqvP/Subashtv.png" tvg-region="Tenkasi" group-title="PLC",Subash TV
-https://ipcloud.live/subashtv/subashhd/index.m3u8
 #EXTINF:-1 tvg-id="NTVTrichy" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733812543_Ntv-Logo-png.png" tvg-region="Trichy" group-title="PLC",NTV Trichy
 https://notvstream.in/ntv/ntv/index.m3u8
 #EXTINF:-1 tvg-id="ArunaiTV" tvg-logo="https://play-lh.googleusercontent.com/rx51OW3qTWnBS1n4MFKamvlE80KkK_19X4E-YbzS7ADFI0pjQJaupdroh2EejghwxQ" tvg-region="Tiruvannamalai" group-title="PLC",Arunai TV
@@ -357,12 +355,14 @@ https://notvstream.in/thirumalaitv/thirumalaitv/index.m3u8
 https://notvstream.in/subitv/subitv/index.m3u8
 #EXTINF:-1 tvg-id="AnandamTV" tvg-logo="https://play-lh.googleusercontent.com/LmQF1KlnKDVTyvBAC3ASnLd7l2eqnMzTdqCBM0gxPLGO3IEW5qHgqXvoA2mrn9Oj3Q" tvg-region="Gobichettipalayam;Erode" group-title="PLC",Anandam TV
 https://notvstream.in/anandamtv/anandamtv/index.m3u8
-#EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737002385_1732253762_IMG-20241122-WA0018-removebg-preview" tvg-region="Kanchipuram" group-title="PLC",Hitech TV
+#EXTINF:-1 tvg-id="HitechTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746534068_HI%20TECH.png" tvg-region="Kanchipuram" group-title="PLC",Hitech TV
 https://notvstream.in/hitechtv/hitechtv/index.m3u8
 #EXTINF:-1 tvg-id="OrangeTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733810867_ORANGE%20TV.png" tvg-region="Erode" group-title="PLC",Orange TV
 https://notvstream.in/orangetv/orangetv/index.m3u8
 #EXTINF:-1 tvg-id="LeoTV" tvg-logo="https://play-lh.googleusercontent.com/Q_nq06NXPL1xKE9GFxRq77sNLlwePoTqmcmPVdlJOV5yhwSIbLPGXe1xuI2veS-BTp0" tvg-region="Kadainallur;Tenkasi" group-title="PLC",Leo TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
+#EXTINF:-1 tvg-id="LeoTV" tvg-logo="https://play-lh.googleusercontent.com/Q_nq06NXPL1xKE9GFxRq77sNLlwePoTqmcmPVdlJOV5yhwSIbLPGXe1xuI2veS-BTp0" tvg-region="Kadainallur;Tenkasi" group-title="PLC",Leo TV [IPLive]
+https://stream.iplive.xyz/hls/leotv/index.m3u8
 #EXTINF:-1 tvg-id="BossTelevision" tvg-logo="https://i.ibb.co/jZVXKPSy/BossTV.jpg" tvg-region="Kanyakumari" group-title="PLC",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-id="AasaiTV" tvg-logo="https://i.imgur.com/5p42C3t.jpg" tvg-region="Karur" group-title="PLC",Aasai TV
@@ -377,11 +377,11 @@ https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
 #EXTINF:-1 tvg-id="NishaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731776131_WhatsApp_Image_2024-11-16_at_8.36.22_PM-removebg-preview.png" tvg-region="Salem" group-title="PLC",Nisha TV
 http://103.159.180.5:1935/live/nisha/live.m3u8
-#EXTINF:-1 tvg-id="AmmanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman%20tv%20png%20logo.png" tvg-region="Unknown" group-title="PLC",Amman TV
+#EXTINF:-1 tvg-id="AmmanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman%20tv%20png%20logo.png" tvg-region="Salem" group-title="PLC",Amman TV
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
-#EXTINF:-1 tvg-id="AmmanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman%20tv%20png%20logo.png" tvg-region="Unknown" group-title="PLC",Amman TV [RTMP]
+#EXTINF:-1 tvg-id="AmmanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754665306_amman%20tv%20png%20logo.png" tvg-region="Salem" group-title="PLC",Amman TV [RTMP]
 rtmp://103.155.33.67:1935/live/ammantv
-#EXTINF:-1 tvg-id="AmmanPlus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764597422_WhatsApp%20Image%202025-12-01%20at%206.44.54%20PM.png" tvg-region="Unknown" group-title="PLC",Amman Plus [RTMP]
+#EXTINF:-1 tvg-id="AmmanPlus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764597422_WhatsApp%20Image%202025-12-01%20at%206.44.54%20PM.png" tvg-region="Salem" group-title="PLC",Amman Plus [RTMP]
 rtmp://103.155.33.67:1935/live/ammantvplus
 #EXTINF:-1 tvg-id="OscarTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1741858477_PeMGZ-pz_400x400.png" tvg-region="Coimbatore;Thoothukudi" group-title="PLC",Oscar TV
 https://account21.livebox.co.in/oscartvhls/live.m3u8
@@ -411,7 +411,7 @@ https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
 https://cloudstream4k.com/velantv/bsk/index.m3u8
 #EXTINF:-1 tvg-id="JRPTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP%20.png" tvg-region="Madurai" group-title="PLC",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
-#EXTINF:-1 tvg-id="BalaTV" tvg-logo="https://play-lh.googleusercontent.com/59vyKG300-B1Mjz0mhXhiecDosmM0wWC2ROKEobJxfdVjfWqXzM6mMiSBtBrVfN2tCE" tvg-region="Dindigul" group-title="PLC",Bala TV
+#EXTINF:-1 tvg-id="BalaTV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775710023_WhatsApp Image 2026-04-09 at 10.13.05 AM.jpeg" tvg-region="Dindigul" group-title="PLC",Bala TV
 https://ipcloud.live/jrptv/bala/index.m3u8
 #EXTINF:-1 tvg-id="AdhiyamaanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732121692_White%20Logo%20copy.png" tvg-region="Salem" group-title="PLC",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
@@ -491,13 +491,11 @@ http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" tvg-region="Coimbatore" group-title="PLC",K Channel
 https://live.brightmeltech.in/kchannel/kchannel.m3u8
-#EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746326505_iworldtv%20logo1.png" tvg-region="Karur" group-title="PLC",IWorld TV
-https://view.apserver.in/tmp_hls10/iworldtv/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTamilTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" tvg-region="Dindigul" group-title="PLC",Aadhavan Tamil TV
 http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
 #EXTINF:-1 tvg-id="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE" tvg-region="Virudhunagar" group-title="PLC",Jothi Bala TV
 http://jothibalatv.phoenixcreations.online/jothibalatv/jothibalatv/index.m3u8
-#EXTINF:-1 tvg-id="LotusTV" tvg-logo="https://play-lh.googleusercontent.com/zI2dPLwW9CojH8Gu2MQS70hEbGd8yJBZMwzFN1DS1YfGxsGeW7FZ3273SSbuSud179bqYg-FUE3ekmIwByNd2Q" tvg-region="Kodumudi;Erode" group-title="PLC",Lotus TV
+#EXTINF:-1 tvg-id="LotusTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1759064671_WhatsApp_Image_2025-09-28_at_5.56.32_PM-removebg-preview.png" tvg-region="Kodumudi;Erode" group-title="PLC",Lotus TV
 http://lotustv.phoenixcreations.online/lotustv/lotustv/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVAmbai" tvg-logo="https://play-lh.googleusercontent.com/l06iyyboWjfU13_hZe2fSTjNHtlTZ12YqFcQmwkJF68rLuL_cg6qRykYdiEv8H6tKg" tvg-region="Ambasamudram" group-title="PLC",Thendral TV Ambai
 http://thendraltv.phoenixcreations.online/thendraltv/thendraltv/index.m3u8
@@ -511,6 +509,8 @@ http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 #EXTINF:-1 tvg-id="MaaTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/maa-tv-300x169.jpg" tvg-region="Tirunelveli" group-title="PLC",Maa TV
 https://live.singamcloud.in/maatv/maatv/index.m3u8
+#EXTINF:-1 tvg-id="MaaTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/maa-tv-300x169.jpg" tvg-region="Tirunelveli" group-title="PLC",Maa TV [Phoenix]
+http://maatv.phoenixcreations.online/maatv/maatv/index.m3u8
 #EXTINF:-1 tvg-id="SSTVNagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",SS TV Nagercoil
 https://server.sscloud7.in/live/sshd/playlist.m3u8
 #EXTINF:-1 tvg-id="PCVChannel" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757048.PNG" tvg-region="Chennai" group-title="PLC",PCV Channel
@@ -523,22 +523,20 @@ https://sscloud7.com/live/jithtv/index.m3u8
 https://live.sscloud7.in/live/bhakthitv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735972022.PNG" tvg-region="Virudhunagar" group-title="PLC",Sky TV
 https://sscloud7.com/live/skytv/index.m3u8
-#EXTINF:-1 tvg-id="BoysTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1738842096.jfif" tvg-region="Kanyakumari" group-title="PLC",Boys TV
+#EXTINF:-1 tvg-id="BoysTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890703_WhatsApp_Image_2025-02-18_at_8.27.30_PM-removebg-preview.png" tvg-region="Kanyakumari" group-title="PLC",Boys TV
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752744217.jpg" tvg-region="Kanyakumari" group-title="PLC",V TV
-https://live.applelive.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="ManiwayTV" tvg-logo="https://singamcloud.com/public/upload/logo/channel%20logo/mani.png" tvg-region="Unknown" group-title="PLC",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 #EXTINF:-1 tvg-id="KingTVAlangulam" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.PNG" tvg-region="Alangulam;Tenkasi" group-title="PLC",King TV Alangulam
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-id="DeviTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" tvg-region="Rajapalayam" group-title="PLC",Devi TV
+#EXTINF:-1 tvg-id="DeviTV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/phoenixtv1703503372.jpg" tvg-region="Rajapalayam" group-title="PLC",Devi TV
 https://server.sscloud7.in/live/devitv/index.m3u8
-#EXTINF:-1 tvg-id="SriThangamalaiMuruganTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1752476824.jpeg" tvg-region="Unknown" group-title="PLC",Sri Thangamalai Murugan Tv
+#EXTINF:-1 tvg-id="SriThangamalaiMuruganTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775060426_WhatsApp%20Image%202026-04-01%20at%209.45.49%20PM.jpeg" tvg-region="Unknown" group-title="PLC",Sri Thangamalai Murugan Tv
 https://live.sscloud7.in/stmtv/srithangamalaimurugantv/index.m3u8
-#EXTINF:-1 tvg-id="KMMusic" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1754406985.PNG" tvg-region="Unknown" group-title="Music",KM Music
+#EXTINF:-1 tvg-id="KMMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771730164_km%20music.png" tvg-region="Unknown" group-title="Music",KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 #EXTINF:-1 tvg-id="VelavanTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Velavan TV
-http://velavantv.sscloud7.in/live/velavantv/index.m3u8
+https://server.sscloud7.in/live/velavantv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTVKarur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiAMPvQdn3e68Q90iUhMckQEf_EPgIyG7OQ&s" tvg-region="Karur" group-title="PLC",Sky TV Karur
 https://view.rcserver.in/tmp_hls11/skytv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTVMadurai" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/UdhayamTVMadurai.png" tvg-region="Madurai" group-title="PLC",Udhayam TV Madurai
@@ -557,7 +555,7 @@ https://view.rcserver.in/tmp_hls16/senthamiltv/index.m3u8
 https://view.rcserver.in/tmp_hls18/index.m3u8
 #EXTINF:-1 tvg-id="AmmaVision" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AmmaVision.png" tvg-region="Karur" group-title="PLC",Amma Vision
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
-#EXTINF:-1 tvg-id="JayamTVKarur2" tvg-logo="https://play-lh.googleusercontent.com/fv-GlWrLfcfS22qBZwl7vkukmo_mKk-qOVhMe808gDHgzVk_ayR7PVEVxfPOXTyBjRGW=w1052-h592-rw" tvg-region="Karur" group-title="PLC",Jayam TV
+#EXTINF:-1 tvg-id="JayamTVKarur2" tvg-logo="https://play-lh.googleusercontent.com/fv-GlWrLfcfS22qBZwl7vkukmo_mKk-qOVhMe808gDHgzVk_ayR7PVEVxfPOXTyBjRGW" tvg-region="Karur" group-title="PLC",Jayam TV
 https://view.rcserver.in/tmp_hls20/index.m3u8
 #EXTINF:-1 tvg-id="QMaxPlus" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/QMaxPlus.png" tvg-region="Unknown" group-title="PLC",QMax Plus
 https://view.rcserver.in/tmp_hls22/qmaxtv/index.m3u8
