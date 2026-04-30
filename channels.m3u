@@ -1275,9 +1275,9 @@ https://live.primestream.in/prime/music/index.m3u8
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 #EXTINF:-1 tvg-id="ParamsTV2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" tvg-region="Unknown" group-title="PLC",Params TV
 http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
-#EXTINF:-1 tvg-id="ShakthiChannel" tvg-logo="https://images.jdmagicbox.com/comp/pondicherry/m7/0413px413.x413.110106194607.y6m7/catalogue/shakthi-channel-kosapalayam-pondicherry-television-channels-20389hf-250.jpg" tvg-region="Puducherry" group-title="PLC",Shakthi Channel
+#EXTINF:-1 tvg-id="ShakthiChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" tvg-region="Puducherry" group-title="PLC",Shakthi Channel
 https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
-#EXTINF:-1 tvg-id="DevaTV" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Unknown" group-title="PLC",Deva TV
+#EXTINF:-1 tvg-id="DevaTV2" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Unknown" group-title="PLC",Deva TV
 http://devatv.sscloud7.in/live/devatv/index.m3u8
 #EXTINF:-1 tvg-id="SaiTVTKS" tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc" tvg-region="Tenkasi" group-title="PLC",Sai TV Tenkasi
 http://saitv.sscloud7.in/live/livesaitv/index.m3u8
