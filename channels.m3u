@@ -9,9 +9,9 @@ https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
 #KODIPROP:mimetype=application/dash+xml
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=VcGQSvUuGWi
-#EXTINF:-1 tvg-id="SanaTV" tvg-logo="httzps://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV [Tata Play]
+#EXTINF:-1 tvg-id="SanaTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV [Tata Play]
 https://cable75tataplay.akamaized.net/hls/sanatv.m3u8
-#EXTINF:-1 tvg-id="SanaTV" tvg-logo="httzps://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV [OTTLive]
+#EXTINF:-1 tvg-id="SanaTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="PLC",Sana TV [OTTLive]
 https://stream.ottlive.co.in/sanatv/index.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanaplus.png" tvg-region="Panruti;Cuddalore" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
