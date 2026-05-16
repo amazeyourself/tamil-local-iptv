@@ -1287,3 +1287,5 @@ https://live.apcloud.in/mrtv/mrtvhd/index.m3u8
 https://mediacp.hiredhosting.com/hls/hwnzhmjhym/hwnzhmjhym.m3u8
 #EXTINF:-1 tvg-id="DolphinTVSVK" tvg-logo="" tvg-region="Sivakasi;Virudhunagar" group-title="PLC",Dolphin TV Sivakasi
 https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
+#EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="" tvg-region="Unknown" group-title="Hindu Devotional",Aruljothi TV
+https://jothi.inet.moe/jothitv/index.m3u8
