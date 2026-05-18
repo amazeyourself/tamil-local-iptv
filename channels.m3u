@@ -1283,9 +1283,11 @@ http://anutv.phoenixcreations.online/anutv/anutv/index.m3u8
 https://view.rcserver.in/tmp_hls27/acftv/index.m3u8
 #EXTINF:-1 tvg-id="MRTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MR TV
 https://live.apcloud.in/mrtv/mrtvhd/index.m3u8
-#EXTINF:-1 tvg-id="TunefulTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Tuneful TV
+#EXTINF:-1 tvg-id="TunefulTV" tvg-logo="" tvg-region="Unknown" group-title="Music",Tuneful TV
 https://mediacp.hiredhosting.com/hls/hwnzhmjhym/hwnzhmjhym.m3u8
 #EXTINF:-1 tvg-id="DolphinTVSVK" tvg-logo="" tvg-region="Sivakasi;Virudhunagar" group-title="PLC",Dolphin TV Sivakasi
 https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
-#EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="" tvg-region="Unknown" group-title="Hindu Devotional",Aruljothi TV
+#EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="" tvg-region="Unknown" group-title="Hindu Devotional;TCCL Platform",Aruljothi TV
 https://jothi.inet.moe/jothitv/index.m3u8
+#EXTINF:-1 tvg-id="AppleTVThanjai" tvg-logo="" tvg-region="Thanjavur" group-title="PLC",Apple TV Thanjavur
+https://stream.ipcloud.live/appletv/appletv/index.m3u8
