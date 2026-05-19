@@ -158,13 +158,13 @@ https://ipcloud.live/skytv/skytv/index.m3u8
 #EXTINF:-1 tvg-id="PaavaiTV" tvg-logo="https://play-lh.googleusercontent.com/QqeM-vu6XSHC2RnsHIavFBogRePV9Tife_VuLTzn9wdJIpDksMV31ha7dd7U5uoJtw" tvg-region="Tirupattur" group-title="PLC",Paavai TV
 https://ipcloud.live/paavai/live/index.m3u8
 #EXTINF:-1 tvg-id="AdvikaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AdvikaTV.png" tvg-region="Madurai" group-title="PLC",Advika TV [RTMP]
-rtmp://stream.advikadigital.in/advika/advika
+https://stream.advikadigital.in/advika/advika/index.mpd
 #EXTINF:-1 tvg-id="SSMusic" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SSMusic.png" tvg-region="Madurai" group-title="Music",SS Music [RTMP]
-rtmp://stream.advikadigital.in/advika/ssmusic
+https://stream.advikadigital.in/advika/ssmusic/index.mpd
 #EXTINF:-1 tvg-id="SreeSaravanaaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SriSaravana.png" tvg-region="Madurai" group-title="PLC",Sree Saravanaa TV [RTMP]
-rtmp://stream.advikadigital.in/advika/saravana
+https://stream.advikadigital.in/advika/saravana/index.mpd
 #EXTINF:-1 tvg-id="Veerbox" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/Veerbox.png" tvg-region="Madurai" group-title="PLC",Veerbox [RTMP]
-rtmp://stream.advikadigital.in/advika/veerbox
+https://stream.advikadigital.in/advika/veerbox/index.mpd
 #EXTINF:-1 tvg-id="DeavathaiTV" tvg-logo="https://play-lh.googleusercontent.com/TD_XAFnpLJk1A9pT-vMW1dImZDTRpN7UZ8F8KGWy8u0z7LnG19MWeiTtnRJenT4-YlA" tvg-region="Unknown" group-title="PLC",Deavathai TV
 https://ipcloud.live/devadhaitv/devadhaitv/index.m3u8
 #EXTINF:-1 tvg-id="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA" tvg-region="Unknown" group-title="PLC",SMCV TV
