@@ -1296,7 +1296,7 @@ https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
 #EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="" tvg-region="Unknown" group-title="Hindu Devotional;TCCL Platform",Aruljothi TV
 https://jothi.inet.moe/jothitv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVThanjai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779002306_aple%20tv.png" tvg-region="Thanjavur" group-title="PLC",Apple TV Thanjavur
-https://stream.ipcloud.live/appletv/appletv/index.m3u8
+https://stream.ipcloud.live/appletv/appletv/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
 #EXTINF:-1 tvg-id="BanyanTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BanyanTV.png" tvg-region="Unknown" group-title="PLC",Banyan TV
 https://view.rcserver.in/tmp_hls32/banyantv/index.m3u8?token=YW1hemV5
 #EXTINF:-1 tvg-id="DTV2" tvg-logo="" tvg-region="Unknown" group-title="PLC",D TV
@@ -1324,7 +1324,7 @@ https://account33.livebox.co.in/bibletvhls/live.m3u8
 #EXTINF:-1 tvg-id="HeavenTV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1762083112_images%20(2).png" tvg-region="Chennai" group-title="Christian Devotional",Heaven TV
 https://heaventv.livebox.co.in/heaventvhls/live.m3u8
 #EXTINF:-1 tvg-id="ChittoorTV" tvg-logo="https://play-lh.googleusercontent.com/2i6WzXrl4KiiAYz7wWnyo0yvi2l9wAvZYV7YljDFfCTmlGBGQ6qfp1MeB1vRKHnO2Go" tvg-region="Chittoor;Andhra Pradesh" group-title="PLC",Chittoor TV
-https://server.streamwell.in/hls/chittoortvhd.m3u8?token=dHVsbml0aXNhZHVtZHVt
+https://server.streamwell.in/hls/chittoortvhd.m3u8
 #EXTINF:-1 tvg-id="Channel316" tvg-logo="https://phoenixcreations.online/ott/joshuaott/uploads/1761713549_316%20tv.png" tvg-region="Chennai" group-title="Christian Devotional",Channel 316
 https://channel316.livebox.co.in/c316hls/live.m3u8
 #EXTINF:-1 tvg-id="GraceTVCGL" tvg-logo="https://phoenixcreations.online/ott/joshuaott/uploads/1761714754_grace%20Chengalpattu.png" tvg-region="Chengalpattu" group-title="Christian Devotional",Grace TV
