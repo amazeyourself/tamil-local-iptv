@@ -1,9 +1,6 @@
 import urllib3
-import urllib
 import json
 import xml.etree.ElementTree as ET
-import pathlib
-from lxml import etree
 import gzip
 from datetime import datetime
 
