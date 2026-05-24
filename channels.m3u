@@ -1343,3 +1343,5 @@ https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 #EXTINF:-1 tvg-id="SMediaPDC" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Puducherry" group-title="PLC",S Media Puducherry
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
+#EXTINF:-1 tvg-id="CholaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="PLC",Chola TV
+https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
