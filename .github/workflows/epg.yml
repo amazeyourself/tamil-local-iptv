@@ -28,7 +28,7 @@ jobs:
           pip install urllib3
 
       - name: Run script
-        run: "python ./epg.py"
+        run: "python main/scripts/epg.py"
 
       - name: Commit changes if any
         run: |
