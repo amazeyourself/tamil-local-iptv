@@ -28,7 +28,7 @@ jobs:
           pip install urllib3
 
       - name: Run script
-        run: "python ./scripts/guide.py"
+        run: "python guide.py"
 
       - name: Commit changes if any
         run: |
