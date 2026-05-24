@@ -54,7 +54,7 @@ for i in epglinks:
             progico = ET.SubElement(prog, 'icon')
             progico.set("src", thumb)
     else:
-        epgroot = ET.fromstring(resp.data, parser=etree.XMLParser(recover=True,encoding='utf-8'))
+        epgroot = ET.fromstring(resp.data)
         for type_tag in epgroot.findall('programme'):
             title = type_tag.find('title').text
             desctag = type_tag.find('desc')
