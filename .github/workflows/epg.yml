@@ -28,7 +28,7 @@ jobs:
           pip install urllib3
 
       - name: Run script
-        run: "python /home/runner/work/tamil-local-iptv/tamil-local-iptv/./scripts/epg.py"
+        run: "python ./scripts/guide.py"
 
       - name: Commit changes if any
         run: |
