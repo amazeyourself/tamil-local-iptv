@@ -1,4 +1,4 @@
-name: Generate Whiplash EPG
+name: Generate EPG
 
 on:
   schedule:
