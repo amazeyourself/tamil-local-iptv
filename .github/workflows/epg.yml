@@ -28,8 +28,9 @@ jobs:
           pip install urllib3
 
       - name: Run script
-        run: "python guide.py"
-
+        run: |
+          chmod +x autorun.sh
+          ./autorun.sh
       - name: Commit changes if any
         run: |
           git config --global user.email "action@github.com"
