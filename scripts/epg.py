@@ -39,7 +39,8 @@ for i in epglinks:
             prog.set('stop', stop)
             prog.set('catchup-id', catchup)
             title = prgdata['showname']
-            desc = prgdata['description']
+            if prgdata['description'] != None:
+                desc = prgdata['description']
             cat = prgdata['showCategory']
             date = prgdata['serverDate'][0:9].replace("-", "")
             thumb = "https://jiotv.catchup.cdn.jio.com/dare_images/shows/" + prgdata['episodeThumbnail']
