@@ -1017,9 +1017,9 @@ https://play.applelive.in/islamicchannel/islamicchannel.m3u8
 https://play.applelive.in/deebamtv/deebamtv.m3u8
 #EXTINF:-1 tvg-id="SharonTV2" tvg-logo="https://bmcloud.in/apptest/uploads/6855909199a57.png" tvg-region="Unknown" group-title="Christian Devotional",Sharon TV
 https://rtmp.bmlive.net/bms/sharontv/index.m3u8
-#EXTINF:-1 tvg-id="ArputharYesuTV" tvg-logo="https://play-lh.googleusercontent.com/Y4A-pPCvdE_GyEnvHTYjP3IQncyEMWAMwhKe5ugSTW-HRYLJxc1o2AqJHuLj5HJUBmGO" tvg-region="Chennai" group-title="Christian Devotional",Arputhar Yesu TV
+#EXTINF:-1 tvg-id="ArputharYesuTV" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" tvg-region="Chennai" group-title="Christian Devotional",Arputhar Yesu TV
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
-#EXTINF:-1 tvg-id="ArputharYesuTV" tvg-logo="https://play-lh.googleusercontent.com/Y4A-pPCvdE_GyEnvHTYjP3IQncyEMWAMwhKe5ugSTW-HRYLJxc1o2AqJHuLj5HJUBmGO" tvg-region="Chennai" group-title="Christian Devotional",Arputhar Yesu TV [Livebox]
+#EXTINF:-1 tvg-id="ArputharYesuTV" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" tvg-region="Chennai" group-title="Christian Devotional",Arputhar Yesu TV [Livebox]
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="FoxTV" tvg-logo="https://play-lh.googleusercontent.com/y08p17uRsZ0hztiU9omcldzXhIFr43PsqKVsb9Q7sW-jeUy58z2d9XQr3WXlOZWjONDxAAYzeVHNs28ZE7pp" tvg-region="Unknown" group-title="Christian Devotional",Fox TV
 https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
