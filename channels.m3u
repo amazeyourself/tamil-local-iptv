@@ -1303,7 +1303,7 @@ https://live.apcloud.in/mrtv/mrtvhd/index.m3u8
 https://mediacp.hiredhosting.com/hls/hwnzhmjhym/hwnzhmjhym.m3u8
 #EXTINF:-1 tvg-id="DolphinTVSVK" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DolphinTVSVK.png" tvg-region="Sivakasi;Virudhunagar" group-title="PLC",Dolphin TV Sivakasi
 https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
-#EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="" tvg-region="Unknown" group-title="Hindu Devotional;TCCL Platform",Aruljothi TV
+#EXTINF:-1 tvg-id="AruljothiTV" tvg-logo="https://yt3.googleusercontent.com/AisYFDeHlVihkX-FuhLDKZqVVuvFkL0pcO5-dp48-Meu3P8oKLylgJB8Yee7ZXvSgrFlmFSxrA" tvg-region="Unknown" group-title="Hindu Devotional;TCCL Platform",Aruljothi TV
 https://jothi.inet.moe/jothitv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVThanjai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779002306_aple%20tv.png" tvg-region="Thanjavur" group-title="PLC",Apple TV Thanjavur
 https://stream.ipcloud.live/appletv/appletv/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
