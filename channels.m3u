@@ -754,8 +754,12 @@ https://live1.sscloud7.in/live/ohmtv/playlist.m3u8
 https://play.applelive.in/atn/atn.m3u8
 #EXTINF:-1 tvg-id="DolphinTV" tvg-logo="https://i.ibb.co/237vjkWT/Dolphin5v.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Dolphin TV
 https://play.applelive.in/dolphintv/dolphintv.m3u8
-#EXTINF:-1 tvg-id="SNRTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",SNR TV
+#EXTINF:-1 tvg-id="SNRTV" tvg-logo="https://i.ibb.co/N25vZ9yM/SNR-TV.png" tvg-region="Unknown" group-title="PLC",SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="ChitherTV" tvg-logo="https://i.ibb.co/9HLHx70N/chither.png" tvg-region="Unknown" group-title="PLC",Chither TV
+http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="SiddharIsai" tvg-logo="https://i.ibb.co/CprjkByr/Gemini-Generated-Image-z8g34uz8g34uz8g3.png" tvg-region="Unknown" group-title="Music",Siddhar Isai
+http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="TSNMusic" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TSNMusic.png" tvg-region="Unknown" group-title="Music",TSN Music
 http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="AppuTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AppuTV.png" tvg-region="Udangudi;Thoothukudi" group-title="PLC",Appu TV
@@ -1110,10 +1114,6 @@ https://rtmp.bmlive.net/stream/nakshatra/index.m3u8
 https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
 #EXTINF:-1 tvg-id="SivaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SivaTV.png" tvg-region="Gandarvakottai;Thanjavur" group-title="PLC",Siva TV
 https://app.xstream.onecloudlive.in/sivatv/sivatv/index.m3u8
-#EXTINF:-1 tvg-id="SiddharTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SiddharTV.png" tvg-region="Unknown" group-title="PLC",Siddhar TV
-http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-id="SiddharIsai" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TSNHollywoodTamil.png" tvg-region="Unknown" group-title="Music",Siddhar Isai
-http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="IthazhTV" tvg-logo="https://play-lh.googleusercontent.com/WOVl9OoVhMuStsl6ws9HTXQZrQgk__GjErulmJpy7JnCxOp0yDc5e0SThZ5lIF87xrY" tvg-region="Unknown" group-title="PLC",Ithazh TV [RTMP]
 rtmp://148.113.170.17/static/ithal
 #EXTINF:-1 tvg-id="MathanTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MathanTV.png" tvg-region="Unknown" group-title="PLC",Mathan TV
