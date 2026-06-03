@@ -1350,3 +1350,5 @@ https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="CholaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="PLC",Chola TV
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
+#EXTINF:-1 tvg-id="ThamilTV" tvg-logo="https://tamilradios.org/wp-content/uploads/2026/04/thamil-tv.png" tvg-region="Canada" group-title="International",Thamil TV
+https://amigofx.com:1936/tv360/tv360/playlist.m3u8
