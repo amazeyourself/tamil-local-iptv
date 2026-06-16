@@ -47,7 +47,9 @@ for i in epglinks:
             progtitle = ET.SubElement(prog, 'title')
             progtitle.text = title
             progdesc = ET.SubElement(prog, 'desc')
-            progdesc.text = desc
+            if desc != None:
+                progdesc = ET.SubElement(prog, 'desc')
+                progdesc.text = desc
             progcat = ET.SubElement(prog, 'category')
             progcat.text = cat
             progdate = ET.SubElement(prog, 'date')
