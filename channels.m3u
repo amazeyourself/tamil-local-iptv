@@ -1356,5 +1356,7 @@ https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWF
 https://amigofx.com:1936/tv360/tv360/playlist.m3u8
 #EXTINF:-1 tvg-id="LimeTV" tvg-logo="https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC" tvg-region="Surandai;Tenkasi" group-title="PLC",Lime TV
 https://stream.iplive.xyz/limetv/limetvchannel/index.mpd
-#EXTINF:-1 tvg-id="JetTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/" tvg-region="Unknown" group-title="PLC",Jet TV
+#EXTINF:-1 tvg-id="JetTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781170961_JET%20TV%20LOGO%20MAIN%20PNG.png" tvg-region="Unknown" group-title="PLC",Jet TV
 https://stream.apcloud.in/jettv/jettvhd/index.m3u8
+#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="" tvg-region="Unknown" group-title="Music",Retro Music
+https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
