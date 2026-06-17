@@ -1374,3 +1374,17 @@ http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
 http://198.144.149.196:8080/EyeMedia/music/index.m3u8
 #EXTINF:-1 tvg-id0"EyeTamilComedy" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" tvg-region="Unknown" group-title="International;Comedy",Eye Tamil Comedy 
 http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
+#EXTINF:-1 tvg-id="PrinceTV" tvg-logo="https://play-lh.googleusercontent.com/SrJsp7zhnpCoWvsFru2y8kLRXerhlSf50JRlQQI0EOnn3JeqY1tql-fs26XiRwp4oE1q1ltcoWlcUztIj6AB" tvg-region="Unknown" group-title="PLC",Prince TV
+http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
+#EXTINF:-1 tvg-id="BelanTV" tvg-logo="https://play-lh.googleusercontent.com/cwfA2qtWt_pxqVHfCB6gAWXfllLCzd5vd5E21R0qJQRSdlPG8vYQLxmlV0a-JQw_ra0_Ho7hQPl1uQQpcqkT" tvg-region="Unknown" group-title="Christian Devotional",Belan TV
+http://belantv.phoenixcreations.online/belantv/belan/playlist.m3u8
+#EXTINF:-1 tvg-id="SriTV" tvg-logo="https://play-lh.googleusercontent.com/WVVmROs0-HduRDHoPjdyF-o4BWIHE5cVK8KC2uHzBeCskktLCZ9npcRLv9__UebaAhXrdY21xURmyrzyGJ4Ayg" tvg-region="Unknown" group-title="PLC",Sri TV
+http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
+#EXTINF:-1 tvg-id="VelTV" tvg-logo="https://play-lh.googleusercontent.com/T13Cd01S46L8YqzPzLWwtE_38xY5DZesG7khQsGQu2nxbve886mjKqFBNCDBJQ88TDKgMr1ZjZJJebYp2uSFyg" tvg-region="Unknown" group-title="PLC",Vel TV
+https://saran.phoenixcreations.online/veltv/vel/playlist.m3u8
+#EXTINF:-1 tvg-id="KingsTV" tvg-logo="https://play-lh.googleusercontent.com/cXclrtlhO6v3NvMl4rlHUY8daedag1Ugbdv8S5Fl5NiBSGDUzIk55Snrv0k94MNapkG9ffgLHFiNXx2qN56OYQ" tvg-region="Unknown" group-title="PLC",Kings TV
+http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
+#EXTINF:-1 tvg-id="BigilTV" tvg-logo="https://play-lh.googleusercontent.com/yKAvmjZyBijb-QXYdfLQKEkLSnsLIkahT-9Dqozc59x0oVebBIMO6JQStbEP_QeL7IgkNNCF_h5kJhsLQLwE_A" tvg-region="Karur" group-title="PLC",Bigil TV
+http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Unknown" group-title="PLC",Vetri TV
+http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
