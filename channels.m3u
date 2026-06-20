@@ -1384,23 +1384,23 @@ https://saran.phoenixcreations.online/veltv/vel/playlist.m3u8
 http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
 #EXTINF:-1 tvg-id="BigilTV" tvg-logo="https://play-lh.googleusercontent.com/yKAvmjZyBijb-QXYdfLQKEkLSnsLIkahT-9Dqozc59x0oVebBIMO6JQStbEP_QeL7IgkNNCF_h5kJhsLQLwE_A" tvg-region="Karur" group-title="PLC",Bigil TV
 http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Unknown" group-title="PLC",Vetri TV
+#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Karur" group-title="PLC",Vetri TV
 http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTamilTV" tvg-logo="https://i.ibb.co/B2y3FhrY/R-Tamil-TV.png" tvg-region="Unknown" group-title="PLC",R Tamil TV
-https://layastream.in/cdn/rtamil/index.m3u8
+https://layastream.in/cdn/rtamil/index.mpd
 #EXTINF:-1 tvg-id="RCinemax" tvg-logo="https://i.ibb.co/ZzH8n0jG/R-Cinemax.png" tvg-region="Unknown" group-title="Movies",R Cinemax
-https://layastream.in/cdn/rcinemax/index.m3u8
+https://layastream.in/cdn/rcinemax/index.mpd
 #EXTINF:-1 tvg-id="RCinePrime" tvg-logo="https://i.ibb.co/ycNgPGqB/CINE-PRIME-1.png" tvg-region="Unknown" group-title="Movies",R Cine Prime
-https://layastream.in/live/plc1/index.m3u8
+https://layastream.in/live/plc1/index.mpd
 #EXTINF:-1 tvg-id="RHollywood" tvg-logo="https://i.ibb.co/Gfbhd8R5/R-Hollywood.png" tvg-region="Unknown" group-title="Movies",R Hollywood
-https://layastream.in/cdn/rhollywood/index.m3u8
+https://layastream.in/cdn/rhollywood/index.mpd
 #EXTINF:-1 tvg-id="RithikTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Rithik TV
-https://layastream.in/cdn/rlifestyle/index.m3u8
+https://layastream.in/cdn/rlifestyle/index.mpd
 #EXTINF:-1 tvg-id="KClassic" tvg-logo="" tvg-region="Unknown" group-title="Movies",K Classic
-https://layastream.in/cdn/rclassic/index.m3u8
+https://layastream.in/cdn/rclassic/index.mpd
 #EXTINF:-1 tvg-id="GreenTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Green TV
-https://layastream.in/cdn/rmovies/index.m3u8
+https://layastream.in/cdn/rmovies/index.mpd
 #EXTINF:-1 tvg-id="RajTamilSongs" tvg-logo="https://i.ibb.co/zVTqnvCj/R-Music.png" tvg-region="Unknown" group-title="PLC",Raj Tamil Songs
-https://layastream.in/cdn/rmusic/index.m3u8?token=OGIdMcr6
+https://layastream.in/cdn/rmusic/index.mpd?token=OGIdMcr6
 #EXTINF:-1 tvg-id="ShriSakthiTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Shri Sakthi TV
 https://view.apserver.in/tmp_hls6/srisakthitv/index.m3u8
