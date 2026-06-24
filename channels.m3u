@@ -317,7 +317,7 @@ https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/
 #EXTINF:-1 tvg-id="EagleTVNamakkal" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746463528_WhatsApp_Image_2025-05-05_at_8.17.32_PM-removebg-preview.png" tvg-region="Namakkal" group-title="PLC",Eagle TV Namakkal
 https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTINF:-1 tvg-id="AshokaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631170_ashoka%20tv%20logo%20png.png" tvg-region="Salem" group-title="PLC",Ashoka TV
-http://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="MathiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753716414_madhi%20tv.png" tvg-region="Namakkal" group-title="PLC",Mathi TV
 https://notvstream.in/mathitv/mathitv/index.m3u8
 #EXTINF:-1 tvg-id="RainbowTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" tvg-region="Erode" group-title="PLC",Rainbow TV
