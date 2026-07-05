@@ -1186,8 +1186,12 @@ https://stream.rojatv.cloud/LUCKYTV/onecloud/index.m3u8
 https://rojatv.cloud/nbtv/nbtv/index.m3u8
 #EXTINF:-1 tvg-id="VinothTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VinothTV.png" tvg-region="Unknown" group-title="PLC",Vinoth TV
 https://server.sscloud7.in/live/vinothtv/index.m3u8
-#EXTINF:-1 tvg-id="VTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/QfZqN2OEgxOq65ndB6E8xfypQYbPusJ_IG9YDw5Op-uG89VswRm_TE7EJ3C44KiiBMU" tvg-region="Trichy" group-title="PLC",VTV Trichy
+#EXTINF:-1 tvg-id="VTamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VTamil.png" tvg-region="Trichy" group-title="PLC",V Tamil
 http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="VTamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VTamil.png" tvg-region="Trichy" group-title="PLC",V Tamil [OliDigital]
+https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="VTamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VTamil.png" tvg-region="Trichy" group-title="PLC",V Tamil [NellaiIPTV]
+https://real-vk.proxy.nellaiiptv.com/VTV/index.m3u8
 #EXTINF:-1 tvg-id="KSRTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KSRTV.png" tvg-region="Unknown" group-title="PLC",KSR TV
 http://ksrtv.stream.onecloudlive.in:8080/ksrtv/ksrtvhd/index.m3u8
 #EXTINF:-1 tvg-id="BhairavaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BhairavaTV.png" tvg-region="Aruppukottai;Virudhunagar" group-title="PLC",Bhairava TV
@@ -1274,8 +1278,6 @@ https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
 https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
 #EXTINF:-1 tvg-id="JayamTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/ubSsc9-EysszvQIAHy9iHpzL7qjEd3yQlBVDYrpaKS2qH1j9sZmmIsT0hOgZplYiuhDc2206kZn3TXZUOiOoHtY" tvg-region="Trichy" group-title="PLC",Jayam TV Trichy
 https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
-#EXTINF:-1 tvg-id="VTamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VTamil.png" tvg-region="Unknown" group-title="PLC",V Tamil
-https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="KathirTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" tvg-region="Unknown" group-title="PLC",Kathir TV
 https://stream.ipcloud.live/kathirtvhd/livestream/index.m3u8
 #EXTINF:-1 tvg-id="DharaniTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DharaniTV2.png" tvg-region="Unknown" group-title="PLC",Dharani TV
@@ -1454,8 +1456,10 @@ https://srv4.nellaiiptv.com/live/selfietv/index.m3u8
 https://srv2.nellaiiptv.com/live/stv/index.m3u8
 #EXTINF:-1 tvg-id="PNTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777320043.webp" tvg-region="Unknown" group-title="PLC",PN TV
 https://stream.onecloudlive.in/pntv/pntv/index.m3u8
-#EXTINF:-1 tvg-id="SunSmartTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" tvg-region="Coimbatore" group-title="SCV Platform",Sun Smart TV
+#EXTINF:-1 tvg-id="SunSmartTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" tvg-region="Coimbatore" group-title="SCV Platform;VK Digital Platform",Sun Smart TV
 https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8
+#EXTINF:-1 tvg-id="SunSmartTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" tvg-region="Coimbatore" group-title="SCV Platform;VK Digital Platform",Sun Smart TV [NellaiIPTV]
+https://real-vk.proxy.nellaiiptv.com/SUNSMARTTV/index.m3u8
 #EXTINF:-1 tvg-id="SDMedia" tvg-logo="" tvg-region="Tirunelveli" group-title="PLC",SD Media (No Signal)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="KrishTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Krish TV
