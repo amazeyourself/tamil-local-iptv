@@ -1292,6 +1292,8 @@ https://live.primestream.in/prime/music/index.m3u8
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 #EXTINF:-1 tvg-id="ParamsTV2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" tvg-region="Unknown" group-title="PLC",Params TV
 http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
+#EXTINF:-1 tvg-id="ParamsTV2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" tvg-region="Unknown" group-title="PLC",Params TV
+http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 tvg-id="ShakthiChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" tvg-region="Puducherry" group-title="PLC",Shakthi Channel
 https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
 #EXTINF:-1 tvg-id="DevaTV2" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" tvg-region="Unknown" group-title="PLC",Deva TV
