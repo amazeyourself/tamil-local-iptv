@@ -570,8 +570,6 @@ https://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 https://view.rcserver.in/tmp_hls15/jeyasubbumovies/index.m3u8
 #EXTINF:-1 tvg-id="TamilnesanTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TamilnesanTV.png" tvg-region="Unknown" group-title="PLC",Tamilnesan TV
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
-#EXTINF:-1 tvg-id="AppleTVKumbakkonam" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AppleTVKumbakonam.png" tvg-region="Kumbakonam" group-title="PLC",Apple TV Kumbakonam
-https://view.rcserver.in/tmp_hls18/index.m3u8
 #EXTINF:-1 tvg-id="AmmaVision" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AmmaVision.png" tvg-region="Karur" group-title="PLC",Amma Vision
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 #EXTINF:-1 tvg-id="JayamTVKarur2" tvg-logo="https://play-lh.googleusercontent.com/fv-GlWrLfcfS22qBZwl7vkukmo_mKk-qOVhMe808gDHgzVk_ayR7PVEVxfPOXTyBjRGW" tvg-region="Karur" group-title="PLC",Jayam TV
