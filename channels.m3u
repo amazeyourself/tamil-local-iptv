@@ -1484,3 +1484,5 @@ https://play.applelive.in/rktv/rktv.m3u8
 https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8
 #EXTINF:-1 tvg-id="SkyTVSathankulam" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1774419292.webp" tvg-region="Sathankulam;Thoothukudi" group-title="PLC",Sky TV Sathankulam
 https://stream.onecloudlive.in/skytvhd/skytvhd/index.m3u8
+#EXTINF:-1 tvg-id="VaagaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" tvg-region="Unknown" group-title="PLC",Vaagai TV
+https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
