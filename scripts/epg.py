@@ -61,7 +61,8 @@ for i in epglinks:
         for type_tag in epgroot.findall('programme'):
             title = type_tag.find('title').text
             desctag = type_tag.find('desc')
-            desc = desctag.text
+            if desctag.text != None:
+                desc = desctag.text
             start = type_tag.get("start")
             stop = type_tag.get("stop")
             prog = ET.SubElement(root, 'programme')
