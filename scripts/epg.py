@@ -71,8 +71,9 @@ for i in epglinks:
             prog.set('stop', stop)
             progtitle = ET.SubElement(prog, 'title')
             progtitle.text = title
-            progdesc = ET.SubElement(prog, 'desc')
-            progdesc.text = desc
+            if desctag != None:
+                progdesc = ET.SubElement(prog, 'desc')
+                progdesc.text = desc
 
 
 xml_data = ET.tostring(root)
