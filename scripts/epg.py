@@ -61,7 +61,7 @@ for i in epglinks:
         for type_tag in epgroot.findall('programme'):
             title = type_tag.find('title').text
             desctag = type_tag.find('desc')
-            if desctag.text != None:
+            if desctag != None:
                 desc = desctag.text
             start = type_tag.get("start")
             stop = type_tag.get("stop")
