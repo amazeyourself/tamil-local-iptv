@@ -1494,3 +1494,5 @@ http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="PLC",Royal TV Nellai
 https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
+#EXTINF:-1 tvg-id="MTNTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MTN TV
+https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
