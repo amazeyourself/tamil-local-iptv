@@ -487,7 +487,7 @@ http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV@Tiruchengode" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SriKrishnaTCG.png" tvg-region="Tiruchengode;Namakkal" group-title="PLC",Sri Krishna TV Tiruchengode
 #http://krishnatk.7starcloud.com:1935/live/livestream/live.m3u8
 #EXTINF:-1 tvg-id="VaaniVisuals" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1749032751_vaani%20bbb.png" tvg-region="Chekkanurani;Madurai" group-title="PLC",Vaani Visuals
-https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8
+https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/index.m3u8
 #EXTINF:-1 tvg-id="KCTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1738325933_k%20ctn%20logo%20png.png" tvg-region="Kallakurichi" group-title="PLC",KCTN TV
 #http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VCTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1738325831_all.png" tvg-region="Kallakurichi" group-title="PLC",VCTN TV
