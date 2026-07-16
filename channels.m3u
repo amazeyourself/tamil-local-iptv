@@ -1492,3 +1492,5 @@ https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
 http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 #EXTINF:-1 tvg-id="MayilTV" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil%20tv%20logo%20ip%20tv%20copy.jpg" tvg-region="Mayiladuthurai" group-title="PLC",Mayil TV
 http://103.186.231.25:8080/hls/mayiltv/index.m3u8
+#EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="PLC",Royal TV Nellai
+https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
