@@ -1452,7 +1452,7 @@ https://srv4.nellaiiptv.com/live/aruntv/index.m3u8
 https://deva.nellaiiptv.com/live/devatv/index.m3u8
 #EXTINF:-1 tvg-id="LourdesTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp" tvg-region="Puducherry" group-title="Christian Devotional",Lourdes TV
 https://srv2.nellaiiptv.com/live/pondicherry-lourdestv/index.m3u8
-#EXTINF:-1 tvg-id="SelfieTV2" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782729015.webp" tvg-region="Unknown" group-title="PLC",Selfie TV
+#EXTINF:-1 tvg-id="SelfieTV2" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266089.webp" tvg-region="Unknown" group-title="PLC",Selfie TV
 https://srv4.nellaiiptv.com/live/selfietv/index.m3u8
 #EXTINF:-1 tvg-id="STVMDU" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp" tvg-region="Madurai" group-title="PLC",S TV Madurai
 https://srv2.nellaiiptv.com/live/stv/index.m3u8
