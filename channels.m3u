@@ -1496,5 +1496,5 @@ http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784140379_mtn%20tv.png" tvg-region="Unknown" group-title="PLC",MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
-#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Swastik TV
+#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="PLC",Swastik TV
 https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
