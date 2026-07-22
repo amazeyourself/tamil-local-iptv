@@ -1271,7 +1271,7 @@ http://indiamatrix.in/penieltv/penieltv.m3u8
 #EXTINF:-1 tvg-id="SilverSatMedia" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SilverSatMedia.png" tvg-region="Puducherry" group-title="PLC",Silver Sat Media
 http://sanplayout.xyz/live2/silversatmedia/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" tvg-region="Unknown" group-title="PLC",Delta TV
-https://live.onecloudlive.in/delta/namtv/index.m3u8
+https://srv5.nellaiiptv.com/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-id="ThangamTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png" tvg-region="Unknown" group-title="PLC",Thangam TV
 https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTime" tvg-logo="https://i.ibb.co/JRmvfqgj/GNT.png" tvg-region="Tirunelveli;Tenkasi" group-title="Christian Devotional",Good News Time
@@ -1450,7 +1450,7 @@ http://112.133.198.71:1935/srivinayagatv/hollywood/playlist.m3u8
 https://srv3.nellaiiptv.com/live/pdptv/index.m3u8
 #EXTINF:-1 tvg-id="ArunTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/arun_tv_1770713108.webp" tvg-region="Tirunelveli" group-title="PLC",Arun TV
 https://srv4.nellaiiptv.com/live/aruntv/index.m3u8
-#EXTINF:-1 tvg-id="STVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1780489506.webp" tvg-region="Tirunelveli" group-title="PLC",S TV Nellai
+#EXTINF:-1 tvg-id="ITV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784626706.webp" tvg-region="Tirunelveli" group-title="PLC",I TV
 https://deva.nellaiiptv.com/live/devatv/index.m3u8
 #EXTINF:-1 tvg-id="LourdesTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp" tvg-region="Puducherry" group-title="Christian Devotional",Lourdes TV
 https://srv2.nellaiiptv.com/live/pondicherry-lourdestv/index.m3u8
@@ -1496,7 +1496,7 @@ http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="PLC",Royal TV Nellai
 https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
-#EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784140379_mtn%20tv.png" tvg-region="Unknown" group-title="PLC",MTN TV
+#EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784603031_ashoka-digital-320x180%20(2).gif" tvg-region="Unknown" group-title="PLC",MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="PLC",Swastik TV
 https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
