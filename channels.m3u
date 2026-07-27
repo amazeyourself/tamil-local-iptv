@@ -884,9 +884,9 @@ https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" tvg-region="Thuraiyur;Trichy" group-title="PLC",Top TV Thuraiyur
 https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
-#EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" tvg-region="Thuraiyur;Trichy" group-title="PLC",Top TV Thuraiyur (2.5 min catchup)
+#EXTINF:-1 tvg-id="TopTVThuraiyur" tvg-logo="https://i.ibb.co/Y4QfMPr1/logo.png" tvg-region="Thuraiyur;Trichy" group-title="PLC",Top TV Thuraiyur [RojaTV]
 https://stream.rojatv.cloud/TOPTV/onecloud/index.m3u8
-#EXTINF:-1 tvg-id="JayTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayTV.png" tvg-region="Chennai" group-title="PLC",Jay TV
+#EXTINF:-1 tvg-id="JayTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JayTV.png" tvg-region="Chennai" group-title="PLC;TCCL Platform",Jay TV
 https://stream.onecloudlive.in/jaytv/jaytvhd/index.m3u8
 #EXTINF:-1 tvg-id="AnnaiTV" tvg-logo="https://i.ibb.co/F4htQDVY/Annai-TVHD.jpg" tvg-region="Chennai" group-title="PLC;TCCL Platform",Annai TV
 https://annainew.livebox.co.in/annailivehls/live.m3u8
@@ -1502,3 +1502,5 @@ https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="GurudevanTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Gurudevan TV
 https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
+#EXTINF:-1 tvg-id="BalaTV2" tvg-logo="https://play-lh.googleusercontent.com/G-PgqZh_3VQ2HfqnBpctD1aQBfB0h8SuLpeB34j8iVS0axyUN80QB4ruyLIEO3qxEg2U55e45uCeYylWiC9s" tvg-region="Unknown" group-title="PLC",Bala TV
+http://balatv.phoenixcreations.online/balatv/bala/playlist.m3u8
