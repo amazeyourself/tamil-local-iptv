@@ -286,7 +286,7 @@ https://ipcloud.live/msntv/msntv/index.m3u8
 https://ipcloud.live/msntv/saamitv/index.m3u8
 #EXTINF:-1 tvg-id="JeevanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754418564_WhatsApp%20Image%202025-08-05%20at%209.34.59%20PM.jpeg" tvg-region="Dharapura;Tiruppur" group-title="PLC",Jeevan TV
 https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
-#EXTINF:-1 tvg-id="RioTV" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0" tvg-region="Alangulam;Tenkasi" group-title="PLC",Rio TV
+#EXTINF:-1 tvg-id="RioTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp%20Image%202026-08-01%20at%206.41.03%20PM.jpeg" tvg-region="Alangulam;Tenkasi" group-title="PLC",Rio TV
 http://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="EzraBibleNetwork" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11830.png" tvg-region="Alangulam;Tenkasi" group-title="Christian Devotional",Ezra Bible Network
 https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
