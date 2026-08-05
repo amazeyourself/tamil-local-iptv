@@ -82,6 +82,8 @@ https://stream.galaxyott.live/live/nijamtv/index.m3u8
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 #EXTINF:-1 tvg-id="KCMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784854592_WhatsApp%20Image%202026-07-23%20at%201.38.19%20PM.jpeg" tvg-region="Coimbatore" group-title="Music",KC Music
 https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
+#EXTINF:-1 tvg-id="RagaTV" tvg-logo="https://i.ibb.co/KzSwyBN4/1000146992.jpg" tvg-region="Unknown" group-title="PLC",Raga TV
+https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
 #EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107774_rannig%20logo%20copy%20(1).png" tvg-region="Sankarankovil;Tenkasi" group-title="PLC",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.mpd
 #EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107774_rannig%20logo%20copy%20(1).png" tvg-region="Sankarankovil;Tenkasi" group-title="PLC",Om Sakthi TV [1Cloud]
@@ -108,11 +110,11 @@ https://skystream.in/live/vedha6528/index.m3u8
 https://stream.sscloud7.in/live/deivaoli/index.m3u8
 #EXTINF:-1 tvg-id="GMusic" tvg-logo="https://bmcloud.in/apptest/uploads/693b05704a9f7.png" tvg-region="Vellore" group-title="PLC",G Music
 https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
-#EXTINF:-1 tvg-id="Dtv" tvg-logo="https://d6pro.in/uploads/tv_image/dtv.png" tvg-region="Coimbatore" group-title="PLC",Dtv
+#EXTINF:-1 tvg-id="Dtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d%20tv%20logo%20(1).png" tvg-region="Coimbatore" group-title="PLC",Dtv
 https://stream.d6-pro.com/Dtv/live/index.m3u8
 #EXTINF:-1 tvg-id="806" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" tvg-region="Coimbatore" group-title="Music",Tunes 6 Music
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
-#EXTINF:-1 tvg-id="Dbhakthi" tvg-logo="https://d6pro.in/uploads/tv_image/dbhakti.jpg" tvg-region="Coimbatore" group-title="Hindu Devotional",Dbhakthi
+#EXTINF:-1 tvg-id="Dbhakthi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" tvg-region="Coimbatore" group-title="Hindu Devotional",Dbhakthi
 https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
 #EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://i.ibb.co/jvKb71Xr/Whats-App-Image-2025-02-22-at-17-05-18-65d6fd32-removebg-preview.png" tvg-region="Unknown" group-title="PLC",Vani TV
 https://live.maxtn.in/vanitv/vanitv/index.m3u8
@@ -1400,6 +1402,22 @@ http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
 http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782118239.webp" tvg-region="Karur" group-title="PLC",Vetri TV
 http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTamilMovies" tvg-logo="https://i.ibb.co/B2y3FhrY/R-Tamil-TV.png" tvg-region="Unknown" group-title="Movies",R Tamil Movies
+https://wave.rojatv.cloud/RTAMIL/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="RCinemax" tvg-logo="https://i.ibb.co/ZzH8n0jG/R-Cinemax.png" tvg-region="Unknown" group-title="Movies",R Cinemax
+https://wave.rojatv.cloud/RCINEMAX/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="RCinePrime" tvg-logo="https://i.ibb.co/ycNgPGqB/CINE-PRIME-1.png" tvg-region="Unknown" group-title="Movies",R Cine Prime
+https://wave.rojatv.cloud/RCINEPRIME/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="RHollywood" tvg-logo="https://i.ibb.co/Gfbhd8R5/R-Hollywood.png" tvg-region="Unknown" group-title="Movies",R Hollywood
+https://wave.rojatv.cloud/RHOLLYWOOD/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="RithikTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Rithik TV
+https://wave.rojatv.cloud/RLIFESTYLE/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="KClassic" tvg-logo="" tvg-region="Unknown" group-title="Movies",K Classic
+https://wave.rojatv.cloud/RCLASSIC/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="GreenTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Green TV
+https://wave.rojatv.cloud/GREENTV/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="RajTamilSongs" tvg-logo="https://i.ibb.co/zVTqnvCj/R-Music.png" tvg-region="Unknown" group-title="Music",Raj Tamil Songs
+https://wave.rojatv.cloud/RMUSIC/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
 #EXTINF:-1 tvg-id="ShriSakthiTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Shri Sakthi TV
 https://view.apserver.in/tmp_hls6/srisakthitv/index.m3u8
 #EXTINF:-1 tvg-id="RubyDigitalTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png" tvg-region="Unknown" group-title="PLC",Ruby Digital TV
@@ -1489,7 +1507,7 @@ https://srvx.nellaiiptv.com/restream/1785854283/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="Unknown" group-title="PLC",MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="PLC",Swastik TV
-https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
+https://srvx.nellaiiptv.com/restream/1785855231/index.m3u8
 #EXTINF:-1 tvg-id="GurudevanTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" tvg-region="Unknown" group-title="PLC",Gurudevan TV
 https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
 #EXTINF:-1 tvg-id="BalaTV2" tvg-logo="https://play-lh.googleusercontent.com/G-PgqZh_3VQ2HfqnBpctD1aQBfB0h8SuLpeB34j8iVS0axyUN80QB4ruyLIEO3qxEg2U55e45uCeYylWiC9s" tvg-region="Unknown" group-title="PLC",Bala TV
@@ -1502,3 +1520,9 @@ https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
 https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 #EXTINF:-1 tvg-id="SarahTV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785900010_WhatsApp%20Image%202026-08-04%20at%209.34.30%20PM.jpeg" tvg-region="Unknown" group-title="PLC",Sarah TV
 https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
+#EXTINF:-1 tvg-id="ERRSports" tvg-logo="" tvg-region="Unknown" group-title="Sports",ERR Sports
+https://wave.rojatv.cloud/RSPORTS/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="NilanTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Nilan TV
+https://wave.rojatv.cloud/NILANTV/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0dF5sL2yX8cM4tP9zJ1kR7bN6vQ3mC5xZ8
+#EXTINF:-1 tvg-id="HimalayaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1780921420_himalaya%20tv%20hosur.png" tvg-region="Hosur" group-title="PLC",Himalaya TV
+https://app.ashokadigital.net/app/eb990565/index.m3u8
