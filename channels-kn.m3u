@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KMNewsBengaluru" tvg-name="KM News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" tvg-region="Bengaluru" group-title="News",KM News Bengaluru
+https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
+#EXTINF:-1 tvg-id="AuraMusicBeats" tvg-name="Aura Music Beats" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784648327_2fc7c419-b616-4652-981d-2f57e9c8219f-Photoroom.png" tvg-region="Unknown" group-title="Music",Aura Music Beats
+https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
+#EXTINF:-1 tvg-id="KadambaTV" tvg-name="Kadamba TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650288_603.png" tvg-region="Unknown" group-title="PLC",Kadamba TV
+https://mumbai-edge.smartplaytv.in/kadamba/index.m3u8
+#EXTINF:-1 tvg-id="NamCity" tvg-name="Nam City" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650304_604.png" tvg-region="Unknown" group-title="PLC",Nam City
+https://mumbai-edge.smartplaytv.in/namcity1/index.m3u8
+#EXTINF:-1 tvg-id="KMM" tvg-name="KMM" tvg-logo="" tvg-region="Unknown" group-title="PLC",KMM
+https://mumbai-edge.smartplaytv.in/namcity2/index.m3u8
+#EXTINF:-1 tvg-id="AkshayaTV" tvg-name="Akshaya TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650314_605.png" tvg-region="Unknown" group-title="PLC",Akshaya TV
+https://mumbai-edge.smartplaytv.in/rrtv1/index.m3u8
+#EXTINF:-1 tvg-id="RRTV" tvg-name="RR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650325_606.png" tvg-region="Unknown" group-title="PLC",RR TV
+https://mumbai-edge.smartplaytv.in/rrtv2/index.m3u8
+#EXTINF:-1 tvg-id="SNEChannel" tvg-name="SNE Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650352_607.png" tvg-region="Unknown" group-title="PLC",SNE Channel
+https://mumbai-edge.smartplaytv.in/sne/index.m3u8
+#EXTINF:-1 tvg-id="SiriTV" tvg-name="Siri TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650362_608.png" tvg-region="Unknown" group-title="PLC",Siri TV
+https://mumbai-edge.smartplaytv.in/Siri/index.m3u8
+#EXTINF:-1 tvg-id="SityTV" tvg-name="Sity TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650373_609.png" tvg-region="Unknown" group-title="PLC",Sity TV
+https://mumbai-edge.smartplaytv.in/sity/index.m3u8
+#EXTINF:-1 tvg-id="AmoghaKarnataka" tvg-name="Amogha Karnataka" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650386_610.png" tvg-region="Unknown" group-title="PLC",Amogha Karnataka
+https://mumbai-edge.smartplaytv.in/amogha/index.m3u8
+#EXTINF:-1 tvg-id="KalkiChannel" tvg-name="Kalki Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650575_no%20link.png" tvg-region="Unknown" group-title="PLC",Kalki Channel
+https://mumbai-edge.smartplaytv.in/kalki/index.m3u8
+#EXTINF:-1 tvg-id="SwastikKannada" tvg-name="Swastik Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650589_612.png" tvg-region="Unknown" group-title="PLC",Swastik Kannada
+https://mumbai-edge.smartplaytv.in/swastik/index.m3u8
+#EXTINF:-1 tvg-id="MetroChannel" tvg-name="Metro Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650618_613.png" tvg-region="Unknown" group-title="PLC",Metro Channel
+https://mumbai-edge.smartplaytv.in/metro/index.m3u8
+#EXTINF:-1 tvg-id="AkashKSCOA" tvg-name="Akash KSCOA" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" tvg-region="Unknown" group-title="PLC",Akash KSCOA
+https://mumbai-edge.smartplaytv.in/akashtv/index.m3u8
+#EXTINF:-1 tvg-id="3504" tvg-name="R Maxx Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-region="Unknown" group-title="News",R Maxx Kannada
+http://103.159.180.34:5001/live/3504.m3u8
+#EXTINF:-1 tvg-id="3461" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-region="Unknown" group-title="News",Karnataka News Beat
+http://103.159.180.34:5001/live/3461.m3u8
+#EXTINF:-1 tvg-id="3352" tvg-name="Janataa TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/janataanews.png" tvg-region="Unknown" group-title="News",Janataa TV Kannada
+https://live1.ottlive.co.in/janataanews/index.m3u8
+#EXTINF:-1 tvg-id="1221" tvg-name="Rajyoga TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" tvg-region="Unknown" group-title="Devotional",Rajyoga TV Kannada
+http://103.159.180.34:5001/live/1221.m3u8
+#EXTINF:-1 tvg-id="JKTVKannada" tvg-name="JK TV Kannada" tvg-logo="https://i.ibb.co/qY0RzYmx/1000122459.jpg" tvg-region="Unknown" group-title="PLC",JK TV Kannada
+http://account18.livebox.co.in/jktvkannadahls/live.m3u8
+#EXTINF:-1 tvg-id="ENews" tvg-name="E News" tvg-logo="https://i.ibb.co/XkpHwGXK/1000122468.jpg" tvg-region="Unknown" group-title="News",E News
+http://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
+#EXTINF:-1 tvg-id="SamrudhiTV" tvg-name="Samrudhi TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Samrudhi TV
+https://shashwatha.com/hls/samrudhi/live.m3u8
+#EXTINF:-1 tvg-id="SharavegaTV" tvg-name="Sharavega TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sharavega TV
+https://shashwatha.com/hls/shashwatha/1streport.m3u8
+#EXTINF:-1 tvg-id="SambramaTV" tvg-name="Sambrama TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sambrama TV
+https://shashwatha.com/hls/shashwatha/sambrama.m3u8
+#EXTINF:-1 tvg-id="ShineKannadaTV" tvg-name="Shine Kannada TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Shine Kannada TV
+https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
+#EXTINF:-1 tvg-id="SindhuraTV" tvg-name="Sindhura TV" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="PLC",Sindhura TV
+https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
+#EXTINF:-1 tvg-id="SindhuraNews" tvg-name="Sindhura News" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="News",Sindhura News
+https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
+#EXTINF:-1 tvg-id="LocalTVKaratagi" tvg-name="Local TV Karatagi" tvg-logo="" tvg-region="Karatagi" group-title="PLC",Local TV Karatagi
+https://vvsolutions-server12.in/localtvkaratagi_15/video.m3u8
+#EXTINF:-1 tvg-id="DTV" tvg-name="D TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",D TV
+https://vvsolution.in/hls/dtvkannada_627.m3u8
+#EXTINF:-1 tvg-id="CTVNews" tvg-name="CTV News" tvg-logo="" tvg-region="Unknown" group-title="PLC",CTV News
+https://vvsolutions.in/ctvnews/ctvnews.m3u8
+#EXTINF:-1 tvg-id="DCN24" tvg-name="DCN 24" tvg-logo="" tvg-region="Unknown" group-title="PLC",DCN 24
+https://vvsolutions-server11.in/dcn24_44/video.m3u8
+#EXTINF:-1 tvg-id="RepublicKannada" tvg-name="Republic Kannada" tvg-logo="" tvg-region="Unknown" group-title="PLC",Republic Kannada
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+#EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MMTV
+https://account19.livebox.co.in/mmtvhls/live.m3u8
