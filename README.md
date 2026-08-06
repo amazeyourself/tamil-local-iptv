@@ -1,12 +1,24 @@
 # Tamil Local IPTV
-IPTV streams of local cable channels in Tamil Nadu (as well as digital and international channels).
+IPTV streams of local cable channels in Tamil Nadu & Karnataka (as well as digital and international channels).
 
 **NOTE:** Not all streams are guaranteed to work. Sometimes certain streams may go down, due to the servers being shut down or taking too long to respond.
 
-# Playlist
-`https://tinyurl.com/amaze-tamil-local-tv` (contains RTMP links)
+# Playlists
+## Tamil channels
+```
+https://tinyurl.com/amaze-tamil-local-tv
+```
+(contains RTMP links)
 
-`https://tinyurl.com/amaze-tamil-local-tv-withproxy` (with HTTPS proxy, and no RTMP links)
+```
+https://tinyurl.com/amaze-tamil-local-tv-withproxy
+```
+(with HTTPS proxy, and no RTMP links)
+
+## Kannada channels
+```
+https://tinyurl.com/amaze-kannada-local-tv
+```
 
 # How to use
 Copy the playlist link and open it on any player that can play live streams.
