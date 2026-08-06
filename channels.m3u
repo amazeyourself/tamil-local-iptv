@@ -1238,6 +1238,8 @@ https://ca.streamjo.com/live/samugam.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="International;Hindu Devotional;TCCL Platform",Britain Tamil Bhakthi
 http://btc.inet.moe/live/btctv/index.m3u8
+#EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="International;Hindu Devotional;TCCL Platform",Britain Tamil Bhakthi [IPTelevision]
+https://tcclbtc.iptelevision.live/btc/video.m3u8
 #EXTINF:-1 tvg-id="JCTVMadurai" tvg-logo="https://play-lh.googleusercontent.com/G_KgC3YE0jgkkHw_45fQMEYbwgqXRVShTn3sJLP9_WeqNxmKvHdskh-nPmTFgLvn" tvg-region="Madurai" group-title="PLC",JC TV Madurai
 https://ktismaservers.in:3545/live/jctvlive.m3u8
 #EXTINF:-1 tvg-id="ME24Tamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ME24Tamil.png" tvg-region="Canada" group-title="International",ME24 Tamil
