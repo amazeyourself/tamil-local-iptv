@@ -1524,3 +1524,5 @@ https://wave.rojatv.cloud/NILANTV/index.m3u8?token=8vN4pQ2xZ7mK9jC5bV1wT6nR3gH0d
 https://app.ashokadigital.net/app/eb990565/index.m3u8
 #EXTINF:-1 tvg-id="VaanamTV" tvg-logo="" tvg-region="Sri Lanka" group-title="International",Vaanam TV
 https://lanka.vaanam24.com:3712/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AbnazTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" tvg-region="Unknown" group-title="PLC",Abnaz TV
+https://live.toponlinetv.com/abnaztv/index.m3u8
