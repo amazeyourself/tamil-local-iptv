@@ -1528,3 +1528,5 @@ https://lanka.vaanam24.com:3712/hybrid/play.m3u8
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-id="KNRMax" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KNRMax.png" tvg-region="Tiruvarur" group-title="PLC",KNR Max
 http://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8
+#EXTINF:-1 tvg-id="CTNSalem" tvg-logo="https://play-lh.googleusercontent.com/ACL3_KGpGBqqYHcPsXzOBGBn43JHKGgaRJTCP0T5ROix8eBu4cMzemILbp2L1hpqJ-gB4I-CnPGlgs0Nj9GDBwn bvgrtf0" tvg-region="Salem" group-title="PLC",CTN Salem
+http://ctntv.7starcloud.com:1935/live/ctn/live.m3u8
