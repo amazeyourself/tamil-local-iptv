@@ -65,3 +65,5 @@ https://vvsolutions-server11.in/dcn24_44/video.m3u8
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MMTV
 https://account19.livebox.co.in/mmtvhls/live.m3u8
+#EXTINF:-1 tvg-id="GubbiNewsKannada" tvg-name="Gubbi News Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315%20copy.png" tvg-region="Unknown" group-title="News",Gubbi News Kannada
+https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
