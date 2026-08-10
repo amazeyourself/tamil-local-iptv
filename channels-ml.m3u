@@ -49,3 +49,5 @@ https://live.skystream.in/live/citytv2924/index.m3u8
 https://live.skystream.in/live/citykannurcity/index.m3u8
 #EXTINF:-1 tvg-id="NewMediaChannel" tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc" tvg-region="Kannur" group-title="PLC",New Media Channel
 https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF:-1 tvg-id="VibgyorTV" tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" tvg-region="Unknown" group-title="PLC",Vibgyor TV
+https://livestream.vibgyortv.com/hls/stream.m3u8
