@@ -455,7 +455,7 @@ https://ipcloud.live/jrptv/bala/index.m3u8
 #EXTINF:-1 tvg-id="AdhiyamaanTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732121692_White%20Logo%20copy.png" tvg-region="Salem" group-title="PLC",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 #EXTINF:-1 tvg-id="EzhilTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" tvg-region="Tirunelveli" group-title="PLC",Ezhil TV
-https://3.proxy.nellaiiptv.com/NOTV/EZHILTV/index.m3u8?token=GTR
+https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 #EXTINF:-1 tvg-id="KavinTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png" tvg-region="Salem" group-title="PLC",Kavin TV
 https://3.proxy.nellaiiptv.com/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="JawaharChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731775837_JAWAHAR%20TV%20LOGO%20PNG.png" tvg-region="Salem" group-title="PLC",Jawahar Channel
