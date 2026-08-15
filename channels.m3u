@@ -514,6 +514,8 @@ http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" tvg-region="Coimbatore" group-title="PLC",K Channel
 https://live.brightmeltech.in/kchannel/kchannel.m3u8
+#EXTINF:-1 tvg-id="IWorldTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746326505_iworldtv%2520logo1.png&w=1920&q=75" tvg-region="Karur" group-title="PLC",IWorld TV [Not 24/7]
+http://hlsstream.apcloud.in/iworld/iworldhd/index.m3u8
 #EXTINF:-1 tvg-id="AadhavanTamilTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" tvg-region="Dindigul" group-title="PLC",Aadhavan Tamil TV
 http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
 #EXTINF:-1 tvg-id="JothiBalaTV" tvg-logo="https://play-lh.googleusercontent.com/AO6LDGUXp56V2Rgf95ZbaCKQClYVZ9a9S6lDWnWqIMT1fTCKJndUWo_9utYWsCGeedE" tvg-region="Virudhunagar" group-title="PLC",Jothi Bala TV
@@ -1540,3 +1542,11 @@ http://ctntv.7starcloud.com:1935/live/ctn/live.m3u8
 http://198.144.149.206/DINESH/YUGAM/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="IdhayamTV2" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" tvg-region="Unknown" group-title="PLC",Idhayam TV
 https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
+#EXTINF:-1 tvg-id="TBCTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",TBC TV
+https://stream.iplive.xyz/smmedia/tbctv/index.m3u8
+#EXTINF:-1 tvg-id="APTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",AP TV
+http://hlsstream.apcloud.in/aptv/aptv/index.m3u8
+#EXTINF:-1 tvg-id="CGTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",CG TV
+https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8
+#EXTINF:-1 tvg-id="AgamTV" tvg-logo="https://i.ibb.co/GfRY4XgL/agamtv.jpg" tvg-region="Unknown" group-title"International",Agam TV
+https://lanka.vaanam24.com:3682/hybrid/play.m3u8
