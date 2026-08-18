@@ -664,8 +664,8 @@ https://app.ashokadigital.net/app/71b64f7b/index.m3u8
 #https://view.rcserver.in/tmp_hls1/stream/index.m3u8
 #EXTINF:-1 tvg-id="RCMusic" tvg-logo="https://rctv.in/logo_s.png" tvg-region="Karur" group-title="Music",RC Music
 #https://view.rcserver.in/tmp_hls2/stream/index.m3u8
-#EXTINF:-1 tvg-id="MeiAlaiTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkifCQtA5Q9jffIS1MkOz0KEp00hQopIKM6g&s" tvg-region="Karur" group-title="PLC",Mei Alai TV
-https://view.rcserver.in/tmp_hls21/meialai/index.m3u8
+#EXTINF:-1 tvg-id="MeiAlaiTV" tvg-logo="https://www.meialai.in/logo.png" tvg-region="Karur" group-title="PLC",Mei Alai TV
+https://thendralstream.in/Meialaitv/meihd/index.m3u8
 #EXTINF:-1 tvg-id="JaiTV" tvg-logo="https://play-lh.googleusercontent.com/APcXUrNRsMykUbsTpJd32uF6VMRqvhVV_davBoS_pUR-HT55AXcJm8TDe1RFfx8X0w" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Jai TV
 https://play.applelive.in/jaitv/jaitv.m3u8
 #EXTINF:-1 tvg-id="CTNChannel" tvg-logo="https://play-lh.googleusercontent.com/jVzIOdCDyf0oKFuxINZKfsZ4uU5Yq8L_0U6K_pD2_UH1AOPC_nBil47FtEaUUNkL0CrhreydyXUir-D6ombb" tvg-region="Unknown" group-title="PLC",CTN Channel
