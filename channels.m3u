@@ -1546,7 +1546,7 @@ https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 https://stream.iplive.xyz/smmedia/tbctv/index.m3u8
 #EXTINF:-1 tvg-id="APTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",AP TV
 http://hlsstream.apcloud.in/aptv/aptv/index.m3u8
-#EXTINF:-1 tvg-id="CGTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",CG TV
+#EXTINF:-1 tvg-id="CCTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",CC TV
 https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8
 #EXTINF:-1 tvg-id="AgamTV" tvg-logo="https://i.ibb.co/GfRY4XgL/agamtv.jpg" tvg-region="Unknown" group-title"International",Agam TV
 https://lanka.vaanam24.com:3682/hybrid/play.m3u8
