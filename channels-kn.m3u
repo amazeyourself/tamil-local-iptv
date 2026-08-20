@@ -1,71 +1,87 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTINF:-1 tvg-id="KMNewsBengaluru" tvg-name="KM News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" tvg-region="Bengaluru" group-title="News",KM News Bengaluru
+#EXTINF:-1 tvg-id="KMNewsBengaluru" tvg-name-kn="KM ನ್ಯೂಸ್ ಬೆಂಗಳೂರು" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" tvg-region="Bengaluru" group-title="News",KM News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
-#EXTINF:-1 tvg-id="MusicBeatsKannada" tvg-name="Music Beats" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784648327_2fc7c419-b616-4652-981d-2f57e9c8219f-Photoroom.png" tvg-region="Unknown" group-title="Music",Music Beats Kannada
+#EXTINF:-1 tvg-id="MusicBeatsKannada" tvg-name-kn="ಮ್ಯೂಸಿಕ್ ಬೀಟ್ಸ್ ಕನ್ನಡ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784648327_2fc7c419-b616-4652-981d-2f57e9c8219f-Photoroom.png" tvg-region="Unknown" group-title="Music",Music Beats Kannada
 http://guru.sritv.co.in:1935/musicbeat/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="KadambaTV" tvg-name="Kadamba TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650288_603.png" tvg-region="Unknown" group-title="PLC",Kadamba TV
+#EXTINF:-1 tvg-id="KadambaTV" tvg-name-kn="ಕದಂಬ ಟಿವಿ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650288_603.png" tvg-region="Unknown" group-title="PLC",Kadamba TV
 http://guru.sritv.co.in:1935/kadamba/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="NamCity" tvg-name="Nam City" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650304_604.png" tvg-region="Unknown" group-title="PLC",Nam City
+#EXTINF:-1 tvg-id="NamCity" tvg-name-kn="Nam City" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650304_604.png" tvg-region="Unknown" group-title="PLC",Nam City
 http://guru.sritv.co.in:1935/namcity/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="KMM" tvg-name="KMM" tvg-logo="" tvg-region="Unknown" group-title="PLC",KMM
+#EXTINF:-1 tvg-id="KMM" tvg-name-kn="KMM" tvg-logo="" tvg-region="Unknown" group-title="PLC",KMM
 https://mumbai-edge.smartplaytv.in/namcity2/index.m3u8
-#EXTINF:-1 tvg-id="AkshayaTV" tvg-name="Akshaya TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440140_e67231ba-00c8-4de9-8fad-e7167f8d650f-Photoroom.png" tvg-region="Unknown" group-title="PLC",Akshaya TV
+#EXTINF:-1 tvg-id="AkshayaTV" tvg-name-kn="ಅಕ್ಷಯ ಟಿವಿ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440140_e67231ba-00c8-4de9-8fad-e7167f8d650f-Photoroom.png" tvg-region="Unknown" group-title="PLC",Akshaya TV
 http://guru.sritv.co.in:1935/akshaytv/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="RRTV" tvg-name="RR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650325_606.png" tvg-region="Unknown" group-title="PLC",RR TV
+#EXTINF:-1 tvg-id="RRTV" tvg-name-kn="RR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650325_606.png" tvg-region="Unknown" group-title="PLC",RR TV
 http://guru.sritv.co.in:1935/rrtv/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="SNEChannel" tvg-name="SNE Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650352_607.png" tvg-region="Unknown" group-title="PLC",SNE Channel
+#EXTINF:-1 tvg-id="SNEChannel" tvg-name-kn="SNE Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650352_607.png" tvg-region="Unknown" group-title="PLC",SNE Channel
 http://guru.sritv.co.in:1935/sne/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="SiriTV" tvg-name="Siri TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650362_608.png" tvg-region="Unknown" group-title="PLC",Siri TV
+#EXTINF:-1 tvg-id="SiriTV" tvg-name-kn="ಸಿರಿ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650362_608.png" tvg-region="Unknown" group-title="PLC",Siri TV
 https://mumbai-edge.smartplaytv.in/Siri/index.m3u8
-#EXTINF:-1 tvg-id="SityTV" tvg-name="Sity TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650373_609.png" tvg-region="Unknown" group-title="PLC",Sity TV
+#EXTINF:-1 tvg-id="SityTV" tvg-name-kn="Sity TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650373_609.png" tvg-region="Unknown" group-title="PLC",Sity TV
 http://guru.sritv.co.in:1935/sity/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="AmoghaKarnataka" tvg-name="Amogha Karnataka" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650386_610.png" tvg-region="Unknown" group-title="PLC",Amogha Karnataka
+#EXTINF:-1 tvg-id="AmoghaKarnataka" tvg-name-kn="ಅಮೋಘ ಕರ್ನಾಟಕ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650386_610.png" tvg-region="Unknown" group-title="PLC",Amogha Karnataka
 http://guru.sritv.co.in:1935/amogha/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="KalkiChannel" tvg-name="Kalki Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650575_no%20link.png" tvg-region="Unknown" group-title="PLC",Kalki Channel
+#EXTINF:-1 tvg-id="KalkiChannel" tvg-name-kn="ಕಲ್ಕಿ ಚಾನೆಲ್" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650575_no%20link.png" tvg-region="Unknown" group-title="PLC",Kalki Channel
 http://guru.sritv.co.in:1935/kalki/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="SwastikKannada" tvg-name="Swastik Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650589_612.png" tvg-region="Unknown" group-title="PLC",Swastik Kannada
+#EXTINF:-1 tvg-id="SwastikKannada" tvg-name-kn="ಸ್ವಸ್ತಿಕ್" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650589_612.png" tvg-region="Unknown" group-title="PLC",Swastik Kannada
 http://guru.sritv.co.in:1935/swastik/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="MetroChannel" tvg-name="Metro Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650618_613.png" tvg-region="Unknown" group-title="PLC",Metro Channel
+#EXTINF:-1 tvg-id="MetroChannel" tvg-name-kn="Metro Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650618_613.png" tvg-region="Unknown" group-title="PLC",Metro Channel
 http://guru.sritv.co.in:1935/metro/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="AkashKSCOA" tvg-name="Akash KSCOA" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" tvg-region="Unknown" group-title="PLC",Akash KSCOA
+#EXTINF:-1 tvg-id="AkashKSCOA" tvg-name-kn="ಆಕಾಶ್ KSCOA" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" tvg-region="Unknown" group-title="PLC",Akash KSCOA
 http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="3504" tvg-name="R Maxx Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-region="Unknown" group-title="News",R Maxx Kannada
+#EXTINF:-1 tvg-id="3504" tvg-name-kn="ಕೂಟದ್ರಿ TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-region="Unknown" group-title="News",Kutadri TV
 http://103.159.180.34:5001/live/3504.m3u8
-#EXTINF:-1 tvg-id="3461" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-region="Unknown" group-title="News",Karnataka News Beat
+#EXTINF:-1 tvg-id="3461" tvg-name-kn="ಕರ್ನಾಟಕ ನ್ಯೂಸ್ ಬೀಟ್" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-region="Unknown" group-title="News",Karnataka News Beat
 http://103.159.180.34:5001/live/3461.m3u8
-#EXTINF:-1 tvg-id="3352" tvg-name="Janataa TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/janataanews.png" tvg-region="Unknown" group-title="News",Janataa TV Kannada
+#EXTINF:-1 tvg-id="3352" tvg-name-kn="ಜನತಾ TV ಕನ್ನಡ" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/janataanews.png" tvg-region="Unknown" group-title="News",Janataa TV Kannada
 https://live1.ottlive.co.in/janataanews/index.m3u8
-#EXTINF:-1 tvg-id="1221" tvg-name="Rajyoga TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" tvg-region="Unknown" group-title="Devotional",Rajyoga TV Kannada
+#EXTINF:-1 tvg-id="1221" tvg-name-kn="ರಾಜಯೋಗ TV ಕನ್ನಡ" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" tvg-region="Unknown" group-title="Devotional",Rajyoga TV Kannada
 http://103.159.180.34:5001/live/1221.m3u8
-#EXTINF:-1 tvg-id="JKTVKannada" tvg-name="JK TV Kannada" tvg-logo="https://i.ibb.co/qY0RzYmx/1000122459.jpg" tvg-region="Unknown" group-title="PLC",JK TV Kannada
+#EXTINF:-1 tvg-id="JKTVKannada" tvg-name-kn="JK TV ಕನ್ನಡ" tvg-logo="https://i.ibb.co/qY0RzYmx/1000122459.jpg" tvg-region="Unknown" group-title="PLC",JK TV Kannada
 http://account18.livebox.co.in/jktvkannadahls/live.m3u8
-#EXTINF:-1 tvg-id="ENews" tvg-name="E News" tvg-logo="https://i.ibb.co/XkpHwGXK/1000122468.jpg" tvg-region="Unknown" group-title="News",E News
+#EXTINF:-1 tvg-id="ENews" tvg-name-kn="E ನ್ಯೂಸ್" tvg-logo="https://i.ibb.co/XkpHwGXK/1000122468.jpg" tvg-region="Unknown" group-title="News",E News
 http://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
-#EXTINF:-1 tvg-id="SamrudhiTV" tvg-name="Samrudhi TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Samrudhi TV
+#EXTINF:-1 tvg-id="SamrudhiTV" tvg-name-kn="ಸಮೃದ್ಧಿ TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Samrudhi TV
 https://shashwatha.com/hls/samrudhi/live.m3u8
-#EXTINF:-1 tvg-id="SharavegaTV" tvg-name="Sharavega TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sharavega TV
+#EXTINF:-1 tvg-id="SharavegaTV" tvg-name-kn="ಶರವೇಗ TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sharavega TV
 https://shashwatha.com/hls/shashwatha/1streport.m3u8
-#EXTINF:-1 tvg-id="SambramaTV" tvg-name="Sambrama TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sambrama TV
+#EXTINF:-1 tvg-id="SambramaTV" tvg-name-kn="ಸಂಭ್ರಮ TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Sambrama TV
 https://shashwatha.com/hls/shashwatha/sambrama.m3u8
-#EXTINF:-1 tvg-id="ShineKannadaTV" tvg-name="Shine Kannada TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Shine Kannada TV
+#EXTINF:-1 tvg-id="ShineKannadaTV" tvg-name-kn="ಶಿನೇ ಕನ್ನಡ TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Shine Kannada TV
 https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
-#EXTINF:-1 tvg-id="SindhuraTV" tvg-name="Sindhura TV" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="PLC",Sindhura TV
+#EXTINF:-1 tvg-id="SindhuraTV" tvg-name-kn="ಸಿಂಧೂರ TV" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="PLC",Sindhura TV
 https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
-#EXTINF:-1 tvg-id="SindhuraNews" tvg-name="Sindhura News" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="News",Sindhura News
+#EXTINF:-1 tvg-id="SindhuraNews" tvg-name-kn="ಸಿಂಧೂರ ನ್ಯೂಸ್" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png" tvg-region="Unknown" group-title="News",Sindhura News
 https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
-#EXTINF:-1 tvg-id="LocalTVKaratagi" tvg-name="Local TV Karatagi" tvg-logo="" tvg-region="Karatagi" group-title="PLC",Local TV Karatagi
+#EXTINF:-1 tvg-id="LocalTVKaratagi" tvg-name-kn="ಲೋಕಲ್ TV ಕಾರಟಗಿ" tvg-logo="" tvg-region="Karatagi" group-title="PLC",Local TV Karatagi
 https://vvsolutions-server12.in/localtvkaratagi_15/video.m3u8
-#EXTINF:-1 tvg-id="DTV" tvg-name="D TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",D TV
+#EXTINF:-1 tvg-id="DTV" tvg-name-kn="D TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",D TV
 https://vvsolution.in/hls/dtvkannada_627.m3u8
-#EXTINF:-1 tvg-id="CTVNews" tvg-name="CTV News" tvg-logo="" tvg-region="Unknown" group-title="PLC",CTV News
+#EXTINF:-1 tvg-id="CTVNews" tvg-name-kn="CTV ನ್ಯೂಸ್" tvg-logo="" tvg-region="Unknown" group-title="PLC",CTV News
 https://vvsolutions.in/ctvnews/ctvnews.m3u8
-#EXTINF:-1 tvg-id="DCN24" tvg-name="DCN 24" tvg-logo="" tvg-region="Unknown" group-title="PLC",DCN 24
+#EXTINF:-1 tvg-id="DCN24" tvg-name-kn="DCN 24" tvg-logo="" tvg-region="Unknown" group-title="PLC",DCN 24
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
-#EXTINF:-1 tvg-id="RepublicKannada" tvg-name="Republic Kannada" tvg-logo="" tvg-region="Unknown" group-title="PLC",Republic Kannada
+#EXTINF:-1 tvg-id="RepublicKannada" tvg-name-kn="ರಿಪಬ್ಲಿಕ್ ಕನ್ನಡ" tvg-logo="" tvg-region="Unknown" group-title="PLC",Republic Kannada
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
-#EXTINF:-1 tvg-id="MMTV" tvg-name="MMTV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MMTV
+#EXTINF:-1 tvg-id="MMTV" tvg-name-kn="MM TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",MM TV
 https://account19.livebox.co.in/mmtvhls/live.m3u8
-#EXTINF:-1 tvg-id="GubbiNewsKannada" tvg-name="Gubbi News Kannada" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315%20copy.png" tvg-region="Unknown" group-title="News",Gubbi News Kannada
+#EXTINF:-1 tvg-id="GubbiTVKannada" tvg-name-kn="ಗುಬ್ಬಿ TV ಕನ್ನಡ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209169_315%20copy.png" tvg-region="Unknown" group-title="News",Gubbi TV Kannada
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
-#EXTINF:-1 tvg-id="3107" tvg-name="BhakthiSiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bhakhtisiri.png" tvg-region="Unknown" group-title="Devotional",Bhakthi Siri
+#EXTINF:-1 tvg-id="3107" tvg-name-kn="ಭಕ್ತಿ ಸಿರಿ" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bhakhtisiri.png" tvg-region="Unknown" group-title="Devotional",Bhakthi Siri
 https://server.thelegitpro.in/bhakthisiri/bhakthisiri/index.m3u8
+#EXTINF:-1 tvg-id="ACNGold" tvg-name-kn="ACN ಗೋಲ್ಡ್" tvg-logo="" tvg-region="Unknown" group-title="PLC",ACN Gold
+https://vvsolutions-server12.in/acngold_16/video.m3u8
+#EXTINF:-1 tvg-id="OneKannadaNews" tvg-name-kn="ಒನ್ ಕನ್ನಡ ನ್ಯೂಸ್" tvg-logo="" tvg-region="Unknown" group-title="News",One Kannada News
+https://mars.streambridge.cloud/onekannadanews/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ViratTV" tvg-name-kn="ವಿರಾಟ್ TV" tvg-logo="" tvg-region="Unknown" group-title="PLC",Virat TV
+https://venus.streambridge.link:8047/kannada/virattv/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsGangavathi" tvg-name-kn="ಸಿಬಿಎಸ್ ನ್ಯೂಸ್ ಗಂಗಾವತಿ" tvg-logo="" tvg-region="Gangavathi" group-title="PLC",CBS News Gangavathi
+https://vvsolutions-server14.in/cbsnews_12/video.m3u8
+#EXTINF:-1 tvg-id="NammaTVShivamogga" tvg-name-kn="ನಮ್ಮ TV ಶಿವಮೊಗ್ಗ" tvg-logo="" tvg-region="Shivamogga" group-title="PLC",Namma TV Shivamogga
+https://servers.castlerockin.com:5443/WebRTCApp/streams/nammatvshimoga.m3u8
+#EXTINF:-1 tvg-id="UChannel" tvg-name-kn="U ಚಾನೆಲ್" tvg-logo="" tvg-region="Unknown" group-title="PLC",U Channel
+https://mars.streambridge.cloud/uchannel/live/index.m3u8
+#EXTINF:-1 tvg-id="MediaTV" tvg-name-kn="ಮೀಡಿಯ ಟಿವಿ" tvg-logo="" tvg-region="Unknown" group-title="PLC",Media TV
+https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
+#EXTINF:-1 tvg-id="KrantiSamacharTV" tvg-name-kn="ಕ್ರಾಂತಿ ಸಮಾಚಾರ ಟಿವಿ" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kranti Samachar TV
+https://vvsolutions-server14.in/krantisamachar_17/video.m3u8
