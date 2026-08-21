@@ -1576,3 +1576,5 @@ https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8
 http://210.18.191.60/hls/live.m3u8
 #EXTINF:-1 tvg-id="ICMTV" tvg-name-ta="ICM டிவி" tvg-logo="" tvg-region="Unknown" group-title="Christian Devotional",ICM TV
 http://icm.iptv.pics/live/icmtv/index.m3u8
+#EXTINF:-1 tvg-id="VictoryTV" tvg-name-ta="விக்டரி டிவி" tvg-logo="" tvg-region="Unknown" group-title="Christian Devotional",Victory TV [RTMP]
+rtmp://victorytv.indiamatrix.in/victorytv/victorytv
