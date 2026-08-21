@@ -1,55 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NVision" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png" tvg-region="Palakkad" group-title="PLC",N Vision
+#EXTINF:-1 tvg-id="NVision" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png" tvg-region="Palakkad" group-title="PLC",N Vision
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
-#EXTINF:-1 tvg-id="NVisionMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890605_WhatsApp_Image_2025-02-18_at_8.25.19_PM-removebg-preview.png" tvg-region="Palakkad" group-title="Music",N Vision ,Music
+#EXTINF:-1 tvg-id="NVisionMusic" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890605_WhatsApp_Image_2025-02-18_at_8.25.19_PM-removebg-preview.png" tvg-region="Palakkad" group-title="Music",N Vision ,Music
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
-#EXTINF:-1 tvg-id="KoickalNews" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752312590_Koickal%20Tv%20Kerala%20News.png" tvg-region="Unknown" group-title="News",Koickal News
+#EXTINF:-1 tvg-id="KoickalNews" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752312590_Koickal%20Tv%20Kerala%20News.png" tvg-region="Unknown" group-title="News",Koickal News
 https://play.applelive.in/koickalnews/koickalnews.m3u8
-#EXTINF:-1 tvg-id="Swantham" tvg-logo="https://i.imgur.com/ye6v4GP.png" tvg-region="Unknown" group-title="PLC",Swantham
+#EXTINF:-1 tvg-id="Swantham" tvg-name-ml="" tvg-logo="https://i.imgur.com/ye6v4GP.png" tvg-region="Unknown" group-title="PLC",Swantham
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
-#EXTINF:-1 tvg-id="MalabarPlus" tvg-logo="" tvg-region="Unknown" group-title="PLC",Malabar Plus
+#EXTINF:-1 tvg-id="MalabarPlus" tvg-name-ml="" tvg-logo="" tvg-region="Unknown" group-title="PLC",Malabar Plus
 http://cloud.logichost.in:1935/live/mplus/index.m3u8
-#EXTINF:-1 tvg-id="MetroLive" tvg-logo="" tvg-region="Unknown" group-title="PLC",Metro Live
+#EXTINF:-1 tvg-id="MetroLive" tvg-name-ml="" tvg-logo="" tvg-region="Unknown" group-title="PLC",Metro Live
 https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
-#EXTINF:-1 tvg-id="PulariTV" tvg-logo="https://i.imgur.com/v5urG30.png" tvg-region="Unknown" group-title="PLC",Pulari TV
+#EXTINF:-1 tvg-id="PulariTV" tvg-name-ml="" tvg-logo="https://i.imgur.com/v5urG30.png" tvg-region="Unknown" group-title="PLC",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="UTVPKD" tvg-logo="https://utvpkd.in/assets/img/logo.png" tvg-region="Palakkad" group-title="PLC",UTV Palakkad
+#EXTINF:-1 tvg-id="UTVPKD" tvg-name-ml="" tvg-logo="https://utvpkd.in/assets/img/logo.png" tvg-region="Palakkad" group-title="PLC",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVNews" tvg-logo="" tvg-region="Unknown" group-title="PLC",CCTV News
+#EXTINF:-1 tvg-id="CCTVNews" tvg-name-ml="" tvg-logo="" tvg-region="Unknown" group-title="PLC",CCTV News
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="WordToWorld" tvg-logo="" tvg-region="Unknown" group-title="Christian Devotional",Word To World
+#EXTINF:-1 tvg-id="WordToWorld" tvg-name-ml="" tvg-logo="" tvg-region="Unknown" group-title="Christian Devotional",Word To World
 https://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EagleOneNews" tvg-logo="https://i.imgur.com/qelJwNi.png" tvg-region="Unknown" group-title="News",Eagle One News
+#EXTINF:-1 tvg-id="EagleOneNews" tvg-name-ml="" tvg-logo="https://i.imgur.com/qelJwNi.png" tvg-region="Unknown" group-title="News",Eagle One News
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
-#EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-region="Vadakkanchery" group-title="News",VCV
+#EXTINF:-1 tvg-id="VCV" tvg-name-ml="" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-region="Vadakkanchery" group-title="News",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="StarnetVadakkancherry" tvg-logo="https://i.imgur.com/J3jB7Kr.png" tvg-region="Vadakkanchery" group-title="PLC",Starnet Vadakkancherry
+#EXTINF:-1 tvg-id="StarnetVadakkancherry" tvg-name-ml="" tvg-logo="https://i.imgur.com/J3jB7Kr.png" tvg-region="Vadakkanchery" group-title="PLC",Starnet Vadakkancherry
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionMedia" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-region="Unknown" group-title="PLC",Vision Media
+#EXTINF:-1 tvg-id="VisionMedia" tvg-name-ml="" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-region="Unknown" group-title="PLC",Vision Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KCL" tvg-logo="https://i.imgur.com/bkp9dIm.png" tvg-region="Kozhikode" group-title="PLC",KCL
+#EXTINF:-1 tvg-id="KCL" tvg-name-ml="" tvg-logo="https://i.imgur.com/bkp9dIm.png" tvg-region="Kozhikode" group-title="PLC",KCL
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="PravasiChannel" tvg-logo="https://i.imgur.com/layCno5.jpg" tvg-region="Unknown" group-title="PLC",Pravasi Channel
+#EXTINF:-1 tvg-id="PravasiChannel" tvg-name-ml="" tvg-logo="https://i.imgur.com/layCno5.jpg" tvg-region="Unknown" group-title="PLC",Pravasi Channel
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="V9News" tvg-logo="" tvg-region="Unknown" group-title="PLC",V9 News
+#EXTINF:-1 tvg-id="V9News" tvg-name-ml="" tvg-logo="" tvg-region="Unknown" group-title="PLC",V9 News
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-id="CMalayalamTV" tvg-logo="https://static.wixstatic.com/media/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png" tvg-region="Unknown" group-title="PLC",C Malayalam TV
+#EXTINF:-1 tvg-id="CMalayalamTV" tvg-name-ml="" tvg-logo="https://static.wixstatic.com/media/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png" tvg-region="Unknown" group-title="PLC",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KannurVision" tvg-logo="https://i.imgur.com/FCXqPer.png" tvg-region="Kannur" group-title="PLC",Kannur Vision
+#EXTINF:-1 tvg-id="KannurVision" tvg-name-ml="" tvg-logo="https://i.imgur.com/FCXqPer.png" tvg-region="Kannur" group-title="PLC",Kannur Vision
 http://cloud.logichost.in:1935/kannurvision/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MCVChannel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2335117797062772357392811.png" tvg-region="Unknown" group-title="PLC",MCV Channel
+#EXTINF:-1 tvg-id="MCVChannel" tvg-name-ml="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2335117797062772357392811.png" tvg-region="Unknown" group-title="PLC",MCV Channel
 http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="CitiNews" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2325294121001855085015262.png" tvg-region="Unknown" group-title="PLC",Citi News
+#EXTINF:-1 tvg-id="CitiNews" tvg-name-ml="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2325294121001855085015262.png" tvg-region="Unknown" group-title="PLC",Citi News
 http://cloud.logichost.in:1935/live/citi/playlist.m3u8
-#EXTINF:-1 tvg-id="SouthVision" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR" tvg-region="Unknown" group-title="PLC",South Vision
+#EXTINF:-1 tvg-id="SouthVision" tvg-name-ml="" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR" tvg-region="Unknown" group-title="PLC",South Vision
 https://live.skystream.in/live/southvsnklm/index.m3u8
-#EXTINF:-1 tvg-id="CityChannel" tvg-logo="https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM" tvg-region="Unknown" group-title="PLC",City Channel
+#EXTINF:-1 tvg-id="CityChannel" tvg-name-ml="" tvg-logo="https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM" tvg-region="Unknown" group-title="PLC",City Channel
 https://live.skystream.in/live/citytv2924/index.m3u8
-#EXTINF:-1 tvg-id="CityVision" tvg-logo="" tvg-region="Kannur" group-title="PLC",City Vision
+#EXTINF:-1 tvg-id="CityVision" tvg-name-ml="സിറ്റി വിഷൻ" tvg-logo="" tvg-region="Kannur" group-title="PLC",City Vision
 https://live.skystream.in/live/citykannurcity/index.m3u8
-#EXTINF:-1 tvg-id="NewMediaChannel" tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc" tvg-region="Kannur" group-title="PLC",New Media Channel
+#EXTINF:-1 tvg-id="NewMediaChannel" tvg-name-ml="ന്യൂ മീഡിയ ചാനൽ" tvg-logo="https://play-lh.googleusercontent.com/SaZobDSgO9rmgr80t2Z68AwMy6GKz1-E3Hf4O5tnt3hjUeu4gvs8V7xiav-B3-OAFbc" tvg-region="Kannur" group-title="PLC",New Media Channel
 https://live.skystream.in/live/newmedia2924/index.m3u8
-#EXTINF:-1 tvg-id="VibgyorTV" tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" tvg-region="Unknown" group-title="PLC",Vibgyor TV
+#EXTINF:-1 tvg-id="VibgyorTV" tvg-name-ml="" tvg-logo="https://i.ibb.co/3mFq3cDV/vib-Logo-Web.png" tvg-region="Unknown" group-title="PLC",Vibgyor TV
 https://livestream.vibgyortv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KeralaGTPL" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/26/GTPL_logo.png" tvg-region="Unknown" group-title="PLC",Kerala GTPL
+#EXTINF:-1 tvg-id="KeralaGTPL" tvg-name-ml="കേരളം GTPL" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/26/GTPL_logo.png" tvg-region="Unknown" group-title="PLC",Kerala GTPL
 https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+#EXTINF:-1 tvg-id="KCVision" tvg-name-ml="KC വിഷൻ" tvg-logo="https://live.skystream.in/live/pcn/index.m3u8" tvg-region="Kulathupuzha;Kollam" group-title="PLC",KC Vision
+https://live.skystream.in/live/pcn/index.m3u8
