@@ -1578,3 +1578,5 @@ http://210.18.191.60/hls/live.m3u8
 http://icm.iptv.pics/live/icmtv/index.m3u8
 #EXTINF:-1 tvg-id="VictoryTV" tvg-name-ta="விக்டரி டிவி" tvg-logo="" tvg-region="Unknown" group-title="Christian Devotional",Victory TV [RTMP]
 rtmp://victorytv.indiamatrix.in/victorytv/victorytv
+#EXTINF:-1 tvg-id="AgashamTV" tvg-name-ta="ஆகாசம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" tvg-region="Unknown" group-title="PLC",Agasham TV
+https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
