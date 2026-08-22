@@ -748,7 +748,7 @@ https://app.ashokadigital.net/app/3b31be9f/index.m3u8
 http://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8
 #EXTINF:-1 tvg-id="VajramTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765194225_202%20vajram%20tv%20new%20png.png" tvg-region="" group-title="PLC;VK Digital Platform",Vajram TV
 https://app.ashokadigital.net/app/68b001a0/index.m3u8
-#EXTINF:-1 tvg-id="CITIChannel" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" tvg-region="Karnataka" group-title="PLC",Citi Channel
+#EXTINF:-1 tvg-id="CITIChannel" tvg-name-ta="சிட்டி சேனல்" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" tvg-region="Karnataka" group-title="PLC",Citi Channel
 https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
 #EXTINF:-1 tvg-id="VTamizh" tvg-name-ta="V தமிழ்" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png" tvg-region="Unknown" group-title="PLC",V Tamizh
 https://srvx.nellaiiptv.com/restream/88k94t/index.m3u8
