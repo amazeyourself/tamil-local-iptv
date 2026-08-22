@@ -85,3 +85,5 @@ https://mars.streambridge.cloud/uchannel/live/index.m3u8
 https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
 #EXTINF:-1 tvg-id="KrantiSamacharTV" tvg-name-kn="ಕ್ರಾಂತಿ ಸಮಾಚಾರ ಟಿವಿ" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kranti Samachar TV
 https://vvsolutions-server14.in/krantisamachar_17/video.m3u8
+#EXTINF:-1 tvg-id="KhilaTV" tvg-name-kn="ಖಿಲಾ ಟಿವಿ" tvg-logo="https://play-lh.googleusercontent.com/MkFJm5dx2JffnLoxm6H3pa0mF1DnzghVl4fGg4944KOn35vad3rhgGmaMJrxLCvkdAsUVBtjv71i2VdfvZzJ" tvg-region="Malleshwaram;Bengaluru" group-title="PLC",Khila TV
+https://gun.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
