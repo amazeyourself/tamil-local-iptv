@@ -87,3 +87,5 @@ https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
 https://vvsolutions-server14.in/krantisamachar_17/video.m3u8
 #EXTINF:-1 tvg-id="KhilaTV" tvg-name-kn="ಖಿಲಾ ಟಿವಿ" tvg-logo="https://play-lh.googleusercontent.com/MkFJm5dx2JffnLoxm6H3pa0mF1DnzghVl4fGg4944KOn35vad3rhgGmaMJrxLCvkdAsUVBtjv71i2VdfvZzJ" tvg-region="Malleshwaram;Bengaluru" group-title="PLC",Khila TV
 https://gun.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CITIChannel" tvg-name-ta="ಸಿಟಿ ಚಾನೆಲ್" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" tvg-region="Unknown" group-title="PLC",Citi Channel
+https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
