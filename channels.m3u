@@ -98,17 +98,17 @@ https://live.skystream.in/live/ntntv/index.m3u8
 https://play.applelive.in/kumaritv/gvkumaritv.m3u8
 #EXTINF:-1 tvg-id="SakthiTV" tvg-name-ta="சக்தி டிவி (கடலூர்)" tvg-logo="https://sscloud7.in/rasinetwork/sakthitv.png" tvg-region="Cuddalore" group-title="PLC",Sakthi TV
 https://live.sscloud7.in/live/sakthitv/index.m3u8
-#EXTINF:-1 tvg-id="PrimeTV" tvg-name-ta="டிவி" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11886.png" tvg-region="Nagapattinam" group-title="PLC",Prime TV
+#EXTINF:-1 tvg-id="PrimeTV" tvg-name-ta="ப்ரைம் டிவி" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11886.png" tvg-region="Nagapattinam" group-title="PLC",Prime TV
 https://live.applelive.in/primetv/primetv/index.m3u8
 #EXTINF:-1 tvg-id="VedhaTV" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VedhaTV.png" tvg-region="Kumbakonam" group-title="PLC",Vedha TV
 #https://skystream.in/live/vedha6528/index.m3u8
-#EXTINF:-1 tvg-id="DeivaOli" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DeivaOli.png" tvg-region="Thoothukudi" group-title="PLC",Deiva Oli
+#EXTINF:-1 tvg-id="DeivaOli" tvg-name-ta="தெய்வ ஒளி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DeivaOli.png" tvg-region="Thoothukudi" group-title="PLC",Deiva Oli
 https://stream.sscloud7.in/live/deivaoli/index.mpd
 #EXTINF:-1 tvg-id="GMusic" tvg-name-ta="டிவி" tvg-logo="https://bmcloud.in/apptest/uploads/693b05704a9f7.png" tvg-region="Vellore" group-title="PLC",G Music
 #https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
-#EXTINF:-1 tvg-id="Dtv" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d%20tv%20logo%20(1).png" tvg-region="Coimbatore" group-title="PLC",Dtv
+#EXTINF:-1 tvg-id="Dtv" tvg-name-ta="D டிவி (கோவை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d%20tv%20logo%20(1).png" tvg-region="Coimbatore" group-title="PLC",Dtv
 https://stream.d6-pro.com/Dtv/live/index.m3u8
-#EXTINF:-1 tvg-id="806" tvg-name-ta="டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" tvg-region="Coimbatore" group-title="Music",Tunes 6 Music
+#EXTINF:-1 tvg-id="806" tvg-name-ta="டியூன்ஸ் 6 மியூசிக்" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" tvg-region="Coimbatore" group-title="Music",Tunes 6 Music
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="Dbhakthi" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" tvg-region="Coimbatore" group-title="Hindu Devotional",Dbhakthi
 https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
@@ -694,7 +694,7 @@ http://217.216.79.247/ctn/channel/index.m3u8
 https://ipcloud.live/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="YatraTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" tvg-region="Unknown" group-title="Hindu Devotional",Yatra TV
 https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTVKarur" tvg-name-ta="டிவி" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95uEPKWiZx3qLhYsQ0Fu1MDRu8RZGpt8HIw&s" tvg-region="Karur" group-title="PLC",Suriyan TV Karur
+#EXTINF:-1 tvg-id="SuriyanTVKarur" tvg-name-ta="சூரியன் டிவி (கரூர்)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95uEPKWiZx3qLhYsQ0Fu1MDRu8RZGpt8HIw&s" tvg-region="Karur" group-title="PLC",Suriyan TV Karur
 https://view.rcserver.in/tmp_hls9/index.m3u8
 #EXTINF:-1 tvg-id="NRSChannel" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_" tvg-region="Rasipuram;Salem" group-title="PLC",NRS Channel
 https://notvstream.in/nrstv/nrstv/index.m3u8
