@@ -29,6 +29,8 @@ http://guru.sritv.co.in:1935/swastik/live/sri_network_cdn.m3u8
 http://guru.sritv.co.in:1935/metro/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-id="AkashKSCOA" tvg-name-kn="ಆಕಾಶ್ KSCOA" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" tvg-region="Unknown" group-title="PLC",Akash KSCOA
 http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
+#EXTINF:-1 tvg-id="NammaMedia" tvg-name-kn="ನಮ್ಮ ಮೀಡಿಯಾ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440114_bf74deb6-3a09-4eb5-b255-10cbe29e2572-Photoroom.png" tvg-region="Unknown" group-title="PLC",Namma Media
+http://guru.sritv.co.in:1935/nimtv/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-id="3504" tvg-name-kn="ಕೂಟದ್ರಿ TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-region="Unknown" group-title="News",Kutadri TV
 http://103.159.180.34:5001/live/3504.m3u8
 #EXTINF:-1 tvg-id="3461" tvg-name-kn="ಕರ್ನಾಟಕ ನ್ಯೂಸ್ ಬೀಟ್" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KarnatakaNewsBeat.png" tvg-region="Unknown" group-title="News",Karnataka News Beat
