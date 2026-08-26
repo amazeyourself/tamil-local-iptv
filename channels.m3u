@@ -1577,7 +1577,7 @@ https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8
 #EXTINF:-1 tvg-id="AgamTV" tvg-name-ta="அகம் டிவி" tvg-logo="https://i.ibb.co/GfRY4XgL/agamtv.jpg" tvg-region="Unknown" group-title="International",Agam TV
 https://lanka.vaanam24.com:3682/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LoopTamil" tvg-name-ta="லூப் தமிழ்" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11892.png" tvg-region="Unknown" group-title="PLC",Loop Tamil
-http://stream.yettelevision.com:5080/LiveApp/streams/P3wHx9NcLm7Qk2RtV5Yd.m3u8
+https://live.yettelevision.com:5443/LiveApp/streams/P3wHx9NcLm7Qk2RtV5Yd.m3u8
 #EXTINF:-1 tvg-id="MoviesHD" tvg-name-ta="மூவிஸ் HD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11881.png" tvg-region="Unknown" group-title="Movies",Movies HD
 https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8
 #EXTINF:-1 tvg-id="PowerOfPrayerTV" tvg-name-ta="பவர் ஆப் பிரேயர் டிவி" tvg-logo="https://play-lh.googleusercontent.com/95zEHpwwpIjcUc6jPO1Fm5tPaNCdbBiluf4WD9q9AybB0n7O3mOy8mgbPAFZfcOgpUZWIO-xS14vwUiDF3rBwg" tvg-region="Unknown" group-title="Christian Devotional",Power Of Prayer TV
