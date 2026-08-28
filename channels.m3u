@@ -162,7 +162,7 @@ https://play.applelive.in/darktv/darktv.m3u8
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixTVTirupattur" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753871451_Untitled%202-%20Copy%20copy.png" tvg-region="Tirupattur" group-title="PLC",Phoenix TV
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
-#EXTINF:-1 tvg-id="NilaTVPannur" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/-AJSA_oGQROLDwiwj6J1GAzUee1WIh3zwUSj8wGZYNwaRn0JUSDYTYkCdKLvoiJr8j33" tvg-region="Pannur;Thiruvallur" group-title="PLC",Nila TV Pannur
+#EXTINF:-1 tvg-id="NilaTVPannur" tvg-name-ta="நிலா டிவி (பன்னூர்)" tvg-logo="https://play-lh.googleusercontent.com/-AJSA_oGQROLDwiwj6J1GAzUee1WIh3zwUSj8wGZYNwaRn0JUSDYTYkCdKLvoiJr8j33" tvg-region="Pannur;Thiruvallur" group-title="PLC",Nila TV Pannur
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 #EXTINF:-1 tvg-id="SkyPlusTV" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I" tvg-region="Tiruchengode;Namakkal" group-title="PLC",Sky Plus TV
 https://ipcloud.live/skytv/skytv/index.m3u8
@@ -1594,5 +1594,7 @@ https://app.ashokadigital.net/app/5926fcd7/index.m3u8
 https://gun.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EyeTVMadurai" tvg-name-ta="ஐ டிவி (மதுரை)" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787553796.webp" tvg-region="Unknown" group-title="PLC",Eye TV Madurai
 https://srv-i.maduraiiptv.in/eyetv/live/index.m3u8
-#EXTINF:-1 tvg-id="PalaarTV" tvg-name-ta="பாலார் தொலைக்காட்சி" tvg-logo="" tvg-region="Ranipet" group-title="PLC",Palaar TV
+#EXTINF:-1 tvg-id="PalaarTV" tvg-name-ta="பாலார் தொலைக்காட்சி" tvg-logo="https://www.infinitylinks.org/uploads/pixels/px_1784008914_e042b3a86ecf.png" tvg-region="Ranipet" group-title="PLC",Palaar TV
 https://live.onecloudlive.in/palaartv/palaartv/index.m3u8?token=github.com/amazeyourself
+#EXTINF:-1 tvg-id="NilaTVRanipet" tvg-name-ta="நிலா டிவி (ராணிப்பேட்டை)" tvg-logo="https://www.infinitylinks.org/uploads/pixels/px_1784008431_137fbda7e94d.png" tvg-region="Ranipet" group-title="PLC",Nila TV Ranipet
+https://live.onecloudlive.in/palaartv/nilatv/index.m3u8?token=github.com/amazeyourself
