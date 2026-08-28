@@ -91,3 +91,5 @@ https://vvsolutions-server14.in/krantisamachar_17/video.m3u8
 https://gun.phoenixcreations.online/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CITIChannel" tvg-name-ta="ಸಿಟಿ ಚಾನೆಲ್" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" tvg-region="Unknown" group-title="PLC",Citi Channel
 https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+#EXTINF:-1 tvg-id="SalamBengalore" tvg-name-kn="ಸಲಾಂ ಬೆಂಗಳೂರು" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787846608_salam%20banglore.png" tvg-region="Bengaluru" group-title="PLC",Salam Bengalore
+https://playlist.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
