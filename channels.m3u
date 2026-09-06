@@ -364,7 +364,9 @@ https://stream.iplive.xyz/hls/duraitv/index.m3u8
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" tvg-name-ta="டிவி" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/03/akash-tv-300x169.jpg" tvg-region="Chennai" group-title="PLC",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-name-ta="ஆப்பிள் டிவி (நாகர்கோவில்)" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11838.png" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Apple TV Nagercoil
+#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-name-ta="ஆப்பிள் டிவி (நாகர்கோவில்)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788595193_Apple%20TV%20copy.png" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Apple TV Nagercoil
+https://live.applelive.in/appletv/appletv/index.m3u8
+#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-name-ta="ஆப்பிள் டிவி (நாகர்கோவில்)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788595193_Apple%20TV%20copy.png" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Apple TV Nagercoil
 https://play.applelive.in/appletv/appletv.m3u8
 #EXTINF:-1 tvg-id="AppleTVKLM" tvg-name-ta="ஆப்பிள் டிவி (கேரளம்)" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11838.png" tvg-region="Kerala" group-title="PLC",Apple TV Kerala
 https://play.applelive.in/appletv/appletvklm.m3u8
@@ -414,8 +416,8 @@ https://notvstream.in/orangetv/orangetv/index.m3u8
 https://ipcloud.live/leotv/leotvhd/index.m3u8
 #EXTINF:-1 tvg-id="LeoTV" tvg-name-ta="லியோ டிவி" tvg-logo="https://play-lh.googleusercontent.com/Q_nq06NXPL1xKE9GFxRq77sNLlwePoTqmcmPVdlJOV5yhwSIbLPGXe1xuI2veS-BTp0" tvg-region="Kadainallur;Tenkasi" group-title="PLC",Leo TV [IPLive]
 https://stream.iplive.xyz/hls/leotv/index.m3u8
-#EXTINF:-1 tvg-id="BossTelevision" tvg-name-ta="டிவி" tvg-logo="https://i.ibb.co/jZVXKPSy/BossTV.jpg" tvg-region="Kanyakumari" group-title="PLC",Boss Television
-https://play.applelive.in/vasantv/vasantv.m3u8
+#EXTINF:-1 tvg-id="BossTelevision" tvg-name-ta="பாஸ் டிவி" tvg-logo="https://i.ibb.co/jZVXKPSy/BossTV.jpg" tvg-region="Kanyakumari" group-title="PLC",Boss Television
+https://web.applelive.in/bosstv/bosstv/index.m3u8
 #EXTINF:-1 tvg-id="AasaiTV" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AasaiTV.png" tvg-region="Karur" group-title="PLC",Aasai TV
 https://notvstream.in/aasaitv/aasaitv/index.m3u8
 #EXTINF:-1 tvg-id="RainbowTVGandarvakottai" tvg-name-ta="டிவி" tvg-logo="" tvg-region="Gandarvakottai;Thanjavur" group-title="PLC",Rainbow TV Gandarvakottai
