@@ -1189,7 +1189,7 @@ https://web.applelive.in/stream/kktv/index.m3u8
 #EXTINF:-1 tvg-id="MalarTVSRD" tvg-name-ta="மலர் டிவி (சுரண்டை)" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu" tvg-region="Surandai;Tenkasi" group-title="PLC",Malar TV Surandai
 http://malartv.sscloud7.in/malartv/malartv/index.m3u8
 #EXTINF:-1 tvg-id="RightTV" tvg-name-ta="ரைட் டிவி" tvg-logo="https://files.catbox.moe/bjqn2m.gif" tvg-region="Madurai" group-title="PLC",Right TV
-https://srv-i.maduraiiptv.in/live/righttv-hd/index.m3u8
+https://stream.onecloudlive.in/righttv/live/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVChennai" tvg-name-ta="தென்றல் டிவி (சென்னை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774794281_thendral%20tv%20chennai.png" tvg-region="Chennai" group-title="PLC",Thendral TV Chennai
 https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="RatchagarTV" tvg-name-ta="இரட்சகர் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RatchagarTV.png" tvg-region="Unknown" group-title="Christian Devotional",Ratchagar TV
@@ -1614,3 +1614,5 @@ https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc330c765659
 https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
 #EXTINF:-1 tvg-id="AalayaTV" tvg-name-ta="ஆலயா டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788356009.webp" tvg-region="Unknown" group-title="Hindu Devotional",Aalaya TV
 https://rtmp.applelive.in/aalayatv/aalayatv/index.m3u8
+#EXTINF:-1 tvg-id="AdhiralaiTV" tvg-name-ta="அதிரலை டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Adhiralai TV
+https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8
