@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 89" width="350" height="89">
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #ff0000 } 
+		.s2 { fill: #000a34 } 
+	</style>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m350 0v89h-350v-89z"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s1" d="m28 0v89h-28v-89z"/>
+	<path id="Shape 2 copy" fill-rule="evenodd" class="s1" d="m350 0v89h-108v-89z"/>
+	<path id="TIME" class="s2" aria-label="TIME"  d="m34.7 28.8v-16.8h49.2v16.8h-16.5v51.2h-16.2v-51.2zm57.3 51.2v-68h16.2v68zm28.2 0v-68h21.3l8.2 41.4 8.2-41.4h21.2v68h-13.2v-51.9l-10.2 51.9h-12l-10.2-51.9v51.9zm68.1 0v-68h43.4v14.5h-27.2v10.8h25.2v13.9h-25.2v13.4h28v15.4z"/>
+	<path id="TV" class="s0" aria-label="TV"  d="m247.6 34.1v-12.4h45.7v12.4h-15.3v37.9h-15.1v-37.9zm66 37.9l-18.4-50.3h15.8l10.9 36.2 10.8-36.2h15.3l-18.1 50.3z"/>
+</svg>
