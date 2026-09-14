@@ -39,7 +39,7 @@ https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies" tvg-name-ta="ரோஜா மூவிஸ்" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-region="Coimbatore" group-title="Movies",Roja Movies
 https://hls.rojatv.cloud/rojamovies/rojamovies/index.m3u8
 #EXTINF:-1 tvg-id="BhagyamTV" tvg-name-ta="பாகியம் டிவி HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" tvg-region="Puducherry" group-title="Hindu Devotional",Bhagyam TV HD
-https://ott.bhagyam.net/hls/bhagyamweb/index.m3u8
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="BhagyamTV" tvg-name-ta="பாகியம் டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" tvg-region="Puducherry" group-title="Hindu Devotional",Bhagyam TV
 https://bhagyam.iptv.pics/bhagyam/index.m3u8
 #EXTINF:-1 tvg-id="3550" tvg-name-ta="நிஜம் டிவி" tvg-logo="https://tamiltvchannels.com/img/devotional/Nijam%20TV.png" tvg-region="Valliyur;Tirunelveli" group-title="Christian Devotional",Nijam TV
