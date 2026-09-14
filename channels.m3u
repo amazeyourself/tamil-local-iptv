@@ -28,6 +28,8 @@ https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11832.png" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV
 https://live1.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11832.png" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV [OliDigital]
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="3395" tvg-name-ta="ஆர்யா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751968987_AARYAA%20TV.png" tvg-region="Erode" group-title="Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV@Cloud7" tvg-name-ta="ஆர்யா டிவி (Cloud7)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751968987_AARYAA%20TV.png" tvg-region="Erode" group-title="Music",Aaryaa TV (Cloud7)
@@ -66,12 +68,8 @@ https://live1.sscloud7.com/live/omsakthitv/index.mpd
 https://stream.onecloudlive.in/omsakthitv/omsakthitv/index.m3u8
 #EXTINF:-1 tvg-id="OliTV" tvg-name-ta="ஒளி டிவி" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-region="Gudiyatham;Vellore" group-title="PLC",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="OliTV" tvg-name-ta="ஒளி டிவி" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-region="Gudiyatham;Vellore" group-title="PLC",Oli TV
-https://hlslive.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV" tvg-name-ta="டைம் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/TimeTV.svg" tvg-region="Ariyalur" group-title="PLC",Time TV
 https://live.olidigital.in/timetv/timetv/index.m3u8
-#EXTINF:-1 tvg-id="TimeTV" tvg-name-ta="டைம் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/TimeTV.svg" tvg-region="Ariyalur" group-title="PLC",Time TV
-https://hlslive.olidigital.in/timetv/timetv/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV" tvg-name-ta="மூன் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MoonTVNew.png" tvg-region="Tirunelveli" group-title="PLC",Moon TV
 https://live.sscloud7.in/live/moontv/index.m3u8
 #EXTINF:-1 tvg-id="NTNTV" tvg-name-ta="NTN டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/NTNTV.png" tvg-region="Nagapattinam" group-title="PLC",NTN TV
@@ -1386,8 +1384,6 @@ https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="CholaTV" tvg-name-ta="சோழா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="PLC",Chola TV
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
-#EXTINF:-1 tvg-id="CholaTV" tvg-name-ta="சோழா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" tvg-region="Unknown" group-title="PLC",Chola TV
-https://stream.olidigital.in/cholatv/cholatv/index.m3u8
 #EXTINF:-1 tvg-id="ThamilTV" tvg-name-ta="தமிழ் டிவி" tvg-logo="https://tamilradios.org/wp-content/uploads/2026/04/thamil-tv.png" tvg-region="Canada" group-title="International",Thamil TV
 https://amigofx.com:1936/tv360/tv360/playlist.m3u8
 #EXTINF:-1 tvg-id="LimeTV" tvg-name-ta="லைம் டிவி" tvg-logo="https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC" tvg-region="Surandai;Tenkasi" group-title="PLC",Lime TV
@@ -1559,7 +1555,7 @@ https://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8
 #EXTINF:-1 tvg-id="CTNSalem" tvg-name-ta="CTN (சேலம்)" tvg-logo="https://images.jdmagicbox.com/comp/salem/b2/0427px424.x424.120430161917.h7b2/catalogue/ctn-channel-salem-a-r-lines-salem-satellite-channels-0kvxdl4aab.jpg" tvg-region="Salem" group-title="PLC",CTN Salem
 http://ctntv.7starcloud.com:1935/live/ctn/live.m3u8
 #EXTINF:-1 tvg-id="YugamTV" tvg-name-ta="யுகம் டிவி" tvg-logo="https://yt3.googleusercontent.com/ZLOoAH5woHnjeXbkIl5ql78CDGrZ_5UNSth-7yG4gbFhj-Gp4iGtiWPixt05t_rTQI7yVgkiCUg" tvg-region="Unknown" group-title="International",Yugam TV
-http://198.144.149.206/DINESH/YUGAM/index.m3u8?token=YAAL
+https://3.proxy.nellaiiptv.com/DINESH/YUGAM/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="IdhayamTV2" tvg-name-ta="இதயம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" tvg-region="Unknown" group-title="PLC",Idhayam TV
 https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 #EXTINF:-1 tvg-id="TBCTV" tvg-name-ta="TBC டிவி" tvg-logo="https://i.postimg.cc/T3jfT7VW/tbc.png" tvg-region="Unknown" group-title="PLC",TBC TV
