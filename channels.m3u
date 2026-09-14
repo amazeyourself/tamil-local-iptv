@@ -30,9 +30,9 @@ https://apis.avmediawork.in/tvhls/rocktv.m3u8
 https://live1.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11832.png" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV [OliDigital]
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="3395" tvg-name-ta="ஆர்யா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751968987_AARYAA%20TV.png" tvg-region="Erode" group-title="Music",Aaryaa TV
+#EXTINF:-1 tvg-id="3395" tvg-name-ta="ஆர்யா டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-region="Erode" group-title="Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1 tvg-id="AaryaaTV@Cloud7" tvg-name-ta="ஆர்யா டிவி (Cloud7)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751968987_AARYAA%20TV.png" tvg-region="Erode" group-title="Music",Aaryaa TV (Cloud7)
+#EXTINF:-1 tvg-id="AaryaaTV@Cloud7" tvg-name-ta="ஆர்யா டிவி (Cloud7)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-region="Erode" group-title="Music",Aaryaa TV (Cloud7)
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 tvg-id="RojaTV" tvg-name-ta="ரோஜா டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" tvg-region="Coimbatore" group-title="PLC",Roja TV
 https://hls.rojatv.cloud/rojatv/rojatv/index.m3u8
@@ -124,7 +124,7 @@ http://103.87.105.51:8080/acpclassic/acpclassic.m3u8?psk=123456
 http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8?psk=123456
 #EXTINF:-1 tvg-id="SuccesTVTamil" tvg-name-ta="சக்சஸ் டிவி தமிழ்" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SuccesTV.png" tvg-region="Kanchipuram" group-title="PLC",Succes TV Tamil
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" tvg-name-ta="அசோகா டிவி (கோவை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732009724_FB_IMG_1708271343320-removebg-preview.png" tvg-region="Coimbatore" group-title="PLC",Asoka TV
+#EXTINF:-1 tvg-id="AsokaTV" tvg-name-ta="அசோகா டிவி (கோவை)" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AsokaTV.png" tvg-region="Coimbatore" group-title="PLC",Asoka TV
 http://ipcloud.live/asokatv/asokahd/index.m3u8
 #EXTINF:-1 tvg-id="No1TV" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A" tvg-region="Unknown" group-title="PLC",No 1 TV
 #https://live.skystream.in/live/no1tv/index.m3u8
