@@ -1592,7 +1592,7 @@ https://cloudstream4k.com/dharshanhd/live/playlist.m3u8
 https://app.ashokadigital.net/app/341dfe1b/index.m3u8
 #EXTINF:-1 tvg-id="ArasanTV" tvg-name-ta="அரசன் டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Arasan TV
 https://app.ashokadigital.net/app/d7dbeab6/index.m3u8
-#EXTINF:-1 tvg-id="ACNCinema" tvg-name-ta="ACN சினிமா" tvg-logo="" tvg-region="Unknown" group-title="PLC",ACN Cinema
+#EXTINF:-1 tvg-id="ACNCinema" tvg-name-ta="ACN சினிமா" tvg-logo="" tvg-region="Unknown" group-title="Movies",ACN Cinema
 https://app.ashokadigital.net/app/ea6afbb7/index.m3u8
 #EXTINF:-1 tvg-id="PunithanTV" tvg-name-ta="புனிதன் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790755530_WhatsApp%20Image%202026-09-26%20at%201.30.06%20PM.jpeg" tvg-region="Unknown" group-title="PLC",Punithan TV
 https://live-stream.in/punithantv/punithantv/index.m3u8
@@ -1600,3 +1600,5 @@ https://live-stream.in/punithantv/punithantv/index.m3u8
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="KingdomTV" tvg-name-ta="கிருபை டிவி (மதுரை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" tvg-region="Unknown" group-title="Christian Devotional",Kingdom TV
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
+#EXTINF:-1 tvg-id="KaliTV" tvg-name-ta="காளி டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kali TV
+https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
