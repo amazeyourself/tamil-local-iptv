@@ -1509,7 +1509,7 @@ http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-name-ta="ராயல் டிவி (நெல்லை)" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="PLC",Royal TV Nellai
 http://http://srvvii.nellaiiptv.com:8033/iptv.com:8033/app-restream/2fx62e-royaltv/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-name-ta="MTN டிவி" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="Kanyakumari" group-title="PLC",MTN TV
-https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
+https://applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-name-ta="சுவஸ்திக் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="PLC",Swastik TV
 http://srvvii.nellaiiptv.com:8033/app-restream/rhk94a-swasthiktv/index.m3u8
 #EXTINF:-1 tvg-id="GurudevanTV" tvg-name-ta="குரு-தேவன் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" tvg-region="Unknown" group-title="PLC",Gurudevan TV
@@ -1604,3 +1604,9 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-id="KaliTV" tvg-name-ta="காளி டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kali TV
 https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
+#EXTINF:-1 tvg-id="AyyapaTV" tvg-name-ta="அய்யப்பா டிவி" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791992700.webp" tvg-region="Unknown" group-title="PLC",Ayyapa TV
+https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
+#EXTINF:-1 tvg-id="DeiveegamTV" tvg-name-ta="தெய்வீகம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782567_Glossy%20Golden%20Tamil%20Temple%20Emblem.png" tvg-region="Unknown" group-title="Hindu Devotional",Deiveegam TV
+https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
+#EXTINF:-1 tvg-id="AMNTVKarur" tvg-name-ta="AMN டிவி (கரூர்)" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" tvg-region="Karur" group-title="PLC",AMN TV Karur
+https://live.onecloudlive.in/amn/amntv/index.m3u8
