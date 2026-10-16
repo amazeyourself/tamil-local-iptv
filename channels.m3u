@@ -28,9 +28,9 @@ https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 #EXTINF:-1 tvg-id="3356" tvg-name-ta="ராக் டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" tvg-region="Salem" group-title="PLC",Rock TV
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV
 https://live1.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV [OliDigital]
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-name-ta="சூரியன் டிவி (சுரண்டை)" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM" tvg-region="Surandai;Tenkasi" group-title="PLC",Suriyan TV [OliDigital]
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="3395" tvg-name-ta="ஆர்யா டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-region="Erode" group-title="Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
