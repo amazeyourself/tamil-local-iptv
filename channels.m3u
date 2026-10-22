@@ -1610,3 +1610,5 @@ https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
 https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
 #EXTINF:-1 tvg-id="AMNTVKarur" tvg-name-ta="AMN டிவி (கரூர்)" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" tvg-region="Karur" group-title="PLC",AMN TV Karur
 https://live.onecloudlive.in/amn/amntv/index.m3u8
+#EXTINF:-1 tvg-id="UCNTV" tvg-name-ta="UCN டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",UCN TV
+https://edge-tpr-01.tamilstreams.com/app/ucntv/index.m3u8
