@@ -1600,7 +1600,7 @@ https://app.ashokadigital.net/app/ea6afbb7/index.m3u8
 https://live-stream.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-id="KirubaiTVMDU" tvg-name-ta="கிருபை டிவி (மதுரை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" tvg-region="Unknown" group-title="Christian Devotional",Kirubai TV Madurai
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
-#EXTINF:-1 tvg-id="KingdomTV" tvg-name-ta="கிருபை டிவி (மதுரை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" tvg-region="Unknown" group-title="Christian Devotional",Kingdom TV
+#EXTINF:-1 tvg-id="KingdomTV" tvg-name-ta="கிங்டம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" tvg-region="Unknown" group-title="Christian Devotional",Kingdom TV
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-id="KaliTV" tvg-name-ta="காளி டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Kali TV
 https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
@@ -1612,3 +1612,5 @@ https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="UCNTV" tvg-name-ta="UCN டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",UCN TV
 https://edge-tpr-01.tamilstreams.com/app/ucntv/index.m3u8
+#EXTINF:-1 tvg-id="NekaTV" tvg-name-ta="நேகா டிவி" tvg-logo="" tvg-region="Coimbatore" group-title="PLC",Neka TV
+https://stream.apcloud.in/nekatv/nekatvhd/index.m3u8
