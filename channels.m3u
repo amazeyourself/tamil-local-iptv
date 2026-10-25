@@ -1614,3 +1614,5 @@ https://edge-tpr-01.tamilstreams.com/app/ucntv/index.m3u8
 https://stream.apcloud.in/nekatv/nekatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SarTVNGL" tvg-name-ta="சார் டிவி (நாகர்கோவில்)" tvg-logo="https://play-lh.googleusercontent.com/pWqFuTfY3v6DDNy1CQODJW3T6vevQHTIWana8f1aMfbl5SGnCxkOvDGNikhk4-N5rVfsvHVUCazl960dwpgQ6jE" tvg-region="Nagercoil;Kanyakumari" group-title="PLC",Sar TV Nagercoil
 http://sarplus.phoenixcreations.online/sarplus/sarplus/playlist.m3u8
+#EXTINF:-1 tvg-id="YaalTV" tvg-name-ta="யாழ் டிவி" tvg-logo="https://i.ibb.co/CP563L2/1000140745-modified.png" tvg-region="Unknown" group-title="PLC",Yaal TV
+http://198.144.149.206:8080/DINESH/YAALTV/index.m3u8?token=YAAL
