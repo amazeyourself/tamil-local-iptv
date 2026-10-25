@@ -1296,6 +1296,8 @@ https://vezhamugam.stream.nellaiiptv.com/vezhamugam/live/index.m3u8?origin=githu
 https://app.xstream.onecloudlive.in/pgtv/pgtvhd/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="PrimeMusic" tvg-name-ta="பிரைம் மியூசிக்" tvg-logo="https://play-lh.googleusercontent.com/9IUsGU1pFVyj4eo9B0_E71ak2sO-PzWL6hIPesrRbsJ7O94BxWpSn7C5z0FA7mXWOZ7IKhzCj2BsnCoMVDK05A=w5120-h2880-rw" tvg-region="Unknown" group-title="Music",Prime Music
 https://live.primestream.in/prime/music/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-id="PrimeMusic" tvg-name-ta="பிரைம் மியூசிக்" tvg-logo="https://play-lh.googleusercontent.com/9IUsGU1pFVyj4eo9B0_E71ak2sO-PzWL6hIPesrRbsJ7O94BxWpSn7C5z0FA7mXWOZ7IKhzCj2BsnCoMVDK05A=w5120-h2880-rw" tvg-region="Unknown" group-title="Music",Prime Music [OliDigital]
+https://hlsstream.olidigital.in/primemusic/primemusic/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="DeepamTV" tvg-name-ta="தீபம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284451_DEEPAM%20TV%20LOGO%20new%20logo%20copy.png" tvg-region="Unknown" group-title="PLC",Deepam TV
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="ParamsTV2" tvg-name-ta="பரம்ஸ் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" tvg-region="Unknown" group-title="PLC",Params TV
