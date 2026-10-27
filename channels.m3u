@@ -1587,7 +1587,7 @@ http://srvvii.nellaiiptv.com:8033/app-restream/nilatv-sas/index.m3u8?origin=gith
 #EXTINF:-1 tvg-id="ArchanaTV" tvg-name-ta="அர்ச்சனா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790181143_ARSHNA%20TV%201.png" tvg-region="Unknown" group-title="PLC",Archana TV
 https://live-stream.in/archanatv/archanatv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="TTamilTV" tvg-name-ta="T தமிழ் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" tvg-region="Unknown" group-title="PLC",T Tamil TV
-https://app.ashokadigital.net/app/66a49d84/index.m3u8?origin=github.com/amazeyourself
+https://live4.onecloudlive.in/tamil/live/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="DharsanTV2" tvg-name-ta="தர்ஷன் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791256883_WhatsApp%20Image%202026-10-06%20at%208.42.31%20AM.jpeg" tvg-region="Unknown" group-title="PLC",Dharsan TV
 https://cloudstream4k.com/dharshanhd/live/playlist.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="AmmaChannel" tvg-name-ta="அம்மா சேனல்" tvg-logo="" tvg-region="Unknown" group-title="PLC",Amma Channel
@@ -1618,3 +1618,7 @@ https://stream.apcloud.in/nekatv/nekatvhd/index.m3u8?origin=github.com/amazeyour
 http://sarplus.phoenixcreations.online/sarplus/sarplus/playlist.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="YaalTV" tvg-name-ta="யாழ் டிவி" tvg-logo="https://i.ibb.co/CP563L2/1000140745-modified.png" tvg-region="Unknown" group-title="PLC",Yaal TV
 http://198.144.149.206:8080/DINESH/YAALTV/index.m3u8?origin=github.com/amazeyourself&token=YAAL
+#EXTINF:-1 tvg-id="ShineTV" tvg-name-ta="ஷைன் டிவி" tvg-logo="" tvg-region="Coimbatore" group-title="PLC",Shine TV
+https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-id="SVChannel" tvg-name-ta="SV சேனல்" tvg-logo="" tvg-region="Unknown" group-title="PLC",SV Channel
+http://svchannel.live.mystreams.in/live/svchannel/index.m3u8?origin=github.com/amazeyourself
