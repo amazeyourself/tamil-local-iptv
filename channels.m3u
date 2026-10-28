@@ -1622,3 +1622,5 @@ http://198.144.149.206:8080/DINESH/YAALTV/index.m3u8?origin=github.com/amazeyour
 https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="SVChannel" tvg-name-ta="SV சேனல்" tvg-logo="" tvg-region="Unknown" group-title="PLC",SV Channel
 http://svchannel.live.mystreams.in/live/svchannel/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-id="AathvikTV" tvg-name-ta="ஆத்விக் டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Aathvik TV
+https://stream.apcloud.in/manishatv/manishatvstream/index.m3u8?origin=github.com/amazeyourself
