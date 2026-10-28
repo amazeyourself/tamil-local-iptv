@@ -425,7 +425,7 @@ http://217.216.79.247/rtv/rtv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="PothigaiThendral" tvg-name-ta="பொதிகை தென்றல்" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1741353214_IMG-20250307-WA0131.jpg" tvg-region="Sankarankovil;Tenkasi" group-title="PLC",Pothigai Thendral
 https://pothigai.stream.ipcloud.live/pothigai/thendral/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="AppleTVTirunelveli" tvg-name-ta="ஆப்பிள் டிவி (நெல்லை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1747967607_APPLE%20TV.jpeg" tvg-region="Tirunelveli" group-title="PLC",Apple TV Tirunelveli
-https://stream.iplive.xyz/mayatv/mayatv/index.m3u8?origin=github.com/amazeyourself
+http://appletv.live.mystreams.in/live/appletv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="VelanTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750343383_aPre-comp%201_01085.png" tvg-region="Kanchipuram" group-title="PLC",Velan TV
 https://cloudstream4k.com/velantvhdkanchi/bsk/playlist.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="VelanTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750343383_aPre-comp%201_01085.png" tvg-region="Kanchipuram" group-title="PLC",Velan TV [LiveBox]
