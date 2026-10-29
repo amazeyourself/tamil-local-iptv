@@ -225,7 +225,7 @@ https://notvstream.in/queens/queens/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="ThulirTV" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/S6MD35-0HPGHtJhAPTP5sFJZcsgH_WvCxjq53OruWKcPpDqg9pqffK0BHzIdbf15ksSWucKQBlIFQ1nVgzwFDc4" tvg-region="Unknown" group-title="PLC",Thulir TV
 https://live.apcloud.in/thulirtv/thulirtv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="ThendralTVMadurai" tvg-name-ta="தென்றல் டிவி (மதுரை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748264819_thendral%20tv%20madurai.png" tvg-region="Madurai" group-title="PLC",Thendral TV Madurai
-https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8?origin=github.com/amazeyourself
+http://thendraltvhd.live.mystreams.in/live/thendraltv-hd/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="NammaGobiTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751788665_png%20logo.png" tvg-region="Gobichettipalayam;Erode" group-title="PLC",Namma Gobi TV
 https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="RJTamil" tvg-name-ta="டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",RJ Tamil
@@ -250,7 +250,7 @@ rtmp://in-south-blr.livepush.io/live/rtmp_855a06c27c63420e9eb56e6ff68dd2v7
 https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="JayamTVSivakasi" tvg-name-ta="ஜெயம் டிவி (சிவகாசி)" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" tvg-region="Sivakasi;Virudhunagar" group-title="PLC",Jayam TV Sivakasi [Phoenix]
 http://jayamtv.phoenixcreations.online/jayamtv/sivakasi/playlist.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="MTVKodai" tvg-name-ta="M டிவி (கொடைக்கானல்)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" tvg-region="Kodaikanal" group-title="PLC",MTV Kodaikanal
+#EXTINF:-1 tvg-id="MTVKodai" tvg-name-ta="M டிவி (கொடைக்கானல்)" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793170455.webp" tvg-region="Kodaikanal" group-title="PLC",MTV Kodaikanal
 https://ipcloud.live/mtv/menhd/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="MSNTV" tvg-name-ta="MSN டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771899839.webp" tvg-region="Cuddalore" group-title="PLC",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8?origin=github.com/amazeyourself
@@ -1622,5 +1622,5 @@ http://198.144.149.206:8080/DINESH/YAALTV/index.m3u8?origin=github.com/amazeyour
 https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="SVChannel" tvg-name-ta="SV சேனல்" tvg-logo="" tvg-region="Unknown" group-title="PLC",SV Channel
 http://svchannel.live.mystreams.in/live/svchannel/index.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="AathvikTV" tvg-name-ta="ஆத்விக் டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Aathvik TV
+#EXTINF:-1 tvg-id="AathvikTV" tvg-name-ta="ஆத்விக் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793183403_WhatsApp%20Image%202026-10-28%20at%203.59.15%20PM.jpeg" tvg-region="Unknown" group-title="PLC",Aathvik TV
 https://stream.apcloud.in/manishatv/manishatvstream/index.m3u8?origin=github.com/amazeyourself
