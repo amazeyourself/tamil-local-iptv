@@ -22,7 +22,7 @@ https://stream.ottlive.co.in/suryatvtamil/index.m3u8?origin=github.com/amazeyour
 https://stream.ottlive.co.in/subintvtamil/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="SubinTV@Phoenix" tvg-name-ta="சுபின் டிவி (Phoenix)" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="PLC",Subin TV (Phoenix)
 http://subintv.phoenixcreations.online/subintv/subintv/playlist.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="3357" tvg-name-ta="தர்ஷன் டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dharshantvtamil.png" tvg-region="Kanchipuram" group-title="Hindu Devotional",Dharsan TV
+#EXTINF:-1 tvg-id="3357" tvg-name-ta="தர்ஷன் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791256883_WhatsApp%20Image%202026-10-06%20at%208.42.31%20AM.jpeg" tvg-region="Kanchipuram" group-title="Hindu Devotional",Dharsan TV
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="3356" tvg-name-ta="ராக் டிவி HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" tvg-region="Salem" group-title="PLC",Rock TV HD
 https://stream.ottlive.co.in/suriyantvtamil/index.m3u8?origin=github.com/amazeyourself
@@ -1590,8 +1590,6 @@ http://srvvii.nellaiiptv.com:8033/app-restream/nilatv-sas/index.m3u8?origin=gith
 https://live-stream.in/archanatv/archanatv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="TTamilTV" tvg-name-ta="T தமிழ் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" tvg-region="Unknown" group-title="PLC",T Tamil TV
 https://live4.onecloudlive.in/tamil/live/index.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="DharsanTV2" tvg-name-ta="தர்ஷன் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791256883_WhatsApp%20Image%202026-10-06%20at%208.42.31%20AM.jpeg" tvg-region="Unknown" group-title="PLC",Dharsan TV
-https://cloudstream4k.com/dharshanhd/live/playlist.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="AmmaChannel" tvg-name-ta="அம்மா சேனல்" tvg-logo="" tvg-region="Unknown" group-title="PLC",Amma Channel
 https://app.ashokadigital.net/app/341dfe1b/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="ArasanTV" tvg-name-ta="அரசன் டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Arasan TV
