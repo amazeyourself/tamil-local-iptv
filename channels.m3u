@@ -102,9 +102,9 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8?origin=github.com/amaz
 https://mntv.livebox.co.in/mntvhls/live.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="MNMusic" tvg-name-ta="MN மியூசிக்" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/MNMusic.png" tvg-region="Dharmapuri" group-title="Music",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="ஜெம் டிவி HD" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/GemTV.png" tvg-region="State-wide" group-title="News",GEM TV HD
+#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="ஜெம் டிவி HD" tvg-logo="https://gemlive.tv/wp-content/uploads/2024/01/final-logo.png" tvg-region="State-wide" group-title="News",GEM TV HD
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8?origin=github.com/amazeyourself
-#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="ஜெம் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/GemTV.png" tvg-region="State-wide" group-title="News",GEM TV
+#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="ஜெம் டிவி" tvg-logo="https://gemlive.tv/wp-content/uploads/2024/01/final-logo.png" tvg-region="State-wide" group-title="News",GEM TV
 http://gem.inet.moe/live/gemtv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-id="ACPTV" tvg-name-ta="ACP டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108596_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-1.png" tvg-region="Madurai" group-title="PLC",ACP TV
 http://103.87.105.51:8080/acphd/acphd.m3u8?origin=github.com/amazeyourself&psk=123456
@@ -1630,3 +1630,5 @@ https://stream.apcloud.in/manishatv/manishatvstream/index.m3u8?origin=github.com
 http://stream.onecloudlive.in/nachiyaatv/nachiyaahd/index.m3u8
 #EXTINF:-1 tvg-id="IlanTV" tvg-name-ta="இளன் டிவி" tvg-logo="" tvg-region="Unknown" group-title="PLC",Ilan TV
 https://rtmphub.in/hls/ilantv/live/YesMTyuJdQmyMeWf4ktWAQ3ELJSBSDTR/index.m3u8
+#EXTINF:-1 tvg-id="ArunTVTheni" tvg-name-ta="அருண் டிவி (தேனி)" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793792714.webp" tvg-region="Theni" group-title="PLC",Arun TV Theni
+http://147.93.29.33:8888/theni/channel1/index.m3u8
